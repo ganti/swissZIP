@@ -3,9 +3,11 @@ Get village by Postleitzahl (ZIP-Code)
 
 ## Query
 `/plz.php?plz=3073&format=(json|xml|debug)`
+
 | category | type | description |
+| ------ | ------ | ------ |
 | plz | 4 digit number | Postleitzahl/ ZIP-Code |
-| format | string | (json | xml | debug) |
+| format | string | (json \| xml \| debug) |
 
 ## Response
 | category | type | value | description |
