@@ -1,4 +1,60 @@
 [
+{
+   "plz": 3000,
+   "bfs": 351,
+   "canton": "BE",
+   "village": "Bern",
+   "share": 100
+ },
+ {
+   "plz": 3001,
+   "bfs": 351,
+   "canton": "BE",
+   "village": "Bern",
+   "share": 100
+ },
+ {
+   "plz": 3002,
+   "bfs": 351,
+   "canton": "BE",
+   "village": "Bern",
+   "share": 100
+ },
+ {
+   "plz": 4000,
+   "bfs": 2701,
+   "canton": "BS",
+   "village": "Basel",
+   "share": 100
+ },
+ {
+   "plz": 4002,
+   "bfs": 2701,
+   "canton": "BS",
+   "village": "Basel",
+   "share": 100
+ },
+ {
+   "plz": 4003,
+   "bfs": 2701,
+   "canton": "BS",
+   "village": "Basel",
+   "share": 100
+ },
+ {
+   "plz": 4004,
+   "bfs": 2701,
+   "canton": "BS",
+   "village": "Basel",
+   "share": 100
+ },
+ {
+   "plz": 8000,
+   "bfs": 261,
+   "canton": "ZH",
+   "village": "Zürich",
+   "share": 100
+ },
  {
    "plz": 1000,
    "bfs": 5586,

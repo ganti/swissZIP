@@ -1,0 +1,58 @@
+[
+   {
+     "zip": 3000,
+     "bfs": 351,
+     "canton": "BE",
+     "town_short": "Bern",
+     "zip-share": 100
+   },
+   {
+     "zip": 3001,
+     "bfs": 351,
+     "canton": "BE",
+     "town_short": "Bern",
+     "zip-share": 100
+   },
+   {
+     "zip": 3002,
+     "bfs": 351,
+     "canton": "BE",
+     "town_short": "Bern",
+     "zip-share": 100
+   },
+   {
+     "zip": 4000,
+     "bfs": 2701,
+     "canton": "BS",
+     "town_short": "Basel",
+     "zip-share": 100
+   },
+   {
+     "zip": 4002,
+     "bfs": 2701,
+     "canton": "BS",
+     "town_short": "Basel",
+     "zip-share": 100
+   },
+   {
+     "zip": 4003,
+     "bfs": 2701,
+     "canton": "BS",
+     "town_short": "Basel",
+     "zip-share": 100
+   },
+   {
+     "zip": 4004,
+     "bfs": 2701,
+     "canton": "BS",
+     "town_short": "Basel",
+     "zip-share": 100
+   },
+   {
+     "zip": 8000,
+     "bfs": 261,
+     "canton": "ZH",
+     "town_short": "Zürich",
+     "zip-share": 100
+   }
+]
