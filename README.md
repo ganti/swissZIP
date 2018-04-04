@@ -2,12 +2,14 @@
 Get village by Postleitzahl (ZIP-Code)
 
 ## Query
-`/plz.php?plz=3073&format=(json|xml|debug)`
+`/zip.php?zip=3073&format=(json | xml | debug)` 
 
-| category | type | description |
-| ------ | ------ | ------ |
-| plz | 4 digit number | Postleitzahl/ ZIP-Code |
-| format | string | (json \| xml \| debug) |
+| category | type | value | description |
+| ------ | ------ | ------ | ------ |
+| zip | 4 digit number | 1000-9999 | Postleitzahl/ ZIP-Code |
+| format | string | json; xml; debug | output format |
+| showDetails | bool | 0; 1 or true; false| official name, district |
+
 
 ## Response
 | category | type | value | description |
@@ -17,9 +19,10 @@ Get village by Postleitzahl (ZIP-Code)
 | status | status | 'ok' or 'error' | general information if request was successful |
 | status | error['name'] | string | error |
 | status | error['description'] | string | description of error |
-| data | plz | 4 digit number | Postleitzahl/ ZIP-Code |
+| data | zip | 4 digit number | Postleitzahl/ ZIP-Code |
 | data | bfs | 4 digit number | GemeindeNummer, Official Village ID |
-| data | share | number | percentage of area |
+| data | zip-share | number | percentage of area |
+
 ```php
 (
     [status] => Array
@@ -36,7 +39,7 @@ Get village by Postleitzahl (ZIP-Code)
                     [bfs] => 356
                     [canton] => BE
                     [village] => Muri bei Bern
-                    [share] => 99.7
+                    [zip-share] => 99.7
                 )
             [1] => Array
                 (
@@ -44,7 +47,7 @@ Get village by Postleitzahl (ZIP-Code)
                     [bfs] => 351
                     [canton] => BE
                     [village] => Bern
-                    [share] => 0.2
+                    [zip-share] => 0.2
                 )
             [2] => Array
                 (
@@ -52,14 +55,13 @@ Get village by Postleitzahl (ZIP-Code)
                     [bfs] => 363
                     [canton] => BE
                     [village] => Ostermundigen
-                    [share] => 0.1
+                    [zip-share] => 0.1
                 )
         )
 )
 ```
 ## Datasource
 from the official commune register, last update of data: October 2017
-
 https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.html
 
 ## MIT License

@@ -2,10 +2,14 @@
 Get village by Postleitzahl (ZIP-Code)
 
 ## Query
-`/zip.php?zip=3073&format=(json | xml | debug)`
-| category | type | description |
-| zip | 4 digit number | Postleitzahl/ ZIP-Code |
-| format | string | (json | xml | debug) |
+`/zip.php?zip=3073&format=(json | xml | debug)` 
+
+| category | type | value | description |
+| ------ | ------ | ------ | ------ |
+| zip | 4 digit number | 1000-9999 | Postleitzahl/ ZIP-Code |
+| format | string | json; xml; debug | output format |
+| showDetails | bool | 0; 1 or true; false| official name, district |
+
 
 ## Response
 | category | type | value | description |
