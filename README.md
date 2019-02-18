@@ -1,5 +1,6 @@
 # swissZIP
 Get village by Postleitzahl (ZIP-Code)
+Last Update: 18. February 2019
 
 ## Query
 `/zip.php?zip=3073&format=(json | xml | debug)` 
@@ -59,8 +60,9 @@ Get village by Postleitzahl (ZIP-Code)
 )
 ```
 ## Datasource
-from the official commune register, last update of data: October 2017
-https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.html
+from the official commune register, last update of data: January 2019
+- https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.html
+- https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch/gwr-korrespondenztabelle.assetdetail.7226419.html
 
 ## CC0 License
 CC0-1.0  2019 github.com/ganti
