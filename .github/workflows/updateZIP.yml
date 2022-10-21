@@ -1,7 +1,7 @@
 name: ExUpdateZIPperiment
 on: 
   schedule:
-  - cron: '3 23 * * *'
+  - cron: '*/5 23 * * *'
 
 jobs:
   job1:
