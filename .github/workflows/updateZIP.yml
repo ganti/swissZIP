@@ -7,11 +7,12 @@ jobs:
       matrix:
         python-version: ["3.10"]
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v4
-        with:
-          python-version: ${{ matrix.python-version }}
+      - name: Setup Env
+          uses: actions/checkout@v3
+          name: Set up Python ${{ matrix.python-version }}
+          uses: actions/setup-python@v4
+          with:
+            python-version: ${{ matrix.python-version }}
 
       - name: Install dependencies
         run: |
@@ -24,13 +25,13 @@ jobs:
         run: |
           python ./fetchData/fetchData.py
 
-      - name: move new fifle
+      - name: move new file
         run: |
           mv zip.json swissZip/v4/data/zip.json
 
       - name: Add to Repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_author: GithubAction <actions@github.com> # defaults to author of the commit that triggered the run
+          commit_author: GithubAction <actions@github.com>
           commit_message: [Bot] Update ZIP data
           add: "swissZIP/v4/data/zip.js"
