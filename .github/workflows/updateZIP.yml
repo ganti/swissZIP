@@ -1,7 +1,7 @@
 name: UpdateZIP
 on: 
   schedule:
-  - cron: '*/5 23 * * *'
+  - cron: '*/5 * * * *'
 
 jobs:
   job1:
