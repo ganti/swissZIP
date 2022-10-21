@@ -33,7 +33,7 @@ jobs:
       - name: Add to Repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_author: GithubAction <actions@github.com>
-          commit_message: [Bot] Update ZIP data
+          commit_author: 'GithubAction <actions@github.com>'
+          commit_message: '[Bot] Update ZIP data'
           add: 'swissZIP/v4/data/zip.js'
           add_options: '-u'
