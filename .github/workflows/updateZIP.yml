@@ -1,7 +1,8 @@
 name: UpdateZIP
 on:
+on:
   schedule:
-    - cron: '38 0 * * *' #time in UTC
+    - cron: '39 0 * * *' #time in UTC
     - timezone: 'Europe/Zurich'
 jobs:
   build:
