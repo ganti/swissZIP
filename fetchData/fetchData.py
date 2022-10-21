@@ -45,7 +45,7 @@ def getGemeindeverzeichnis():
         sys.exit('File does not exist '+file_name)
 
     dfTown = dfTown.reset_index(drop=True)
-    dfTown = dfTown.drop(['Zusatzziffer', 'Ortschaftsname', 'Kantonskürzel', 'E', 'N'], axis=1)
+    dfTown = dfTown.drop(['Zusatzziffer', 'Ortschaftsname', 'E', 'N'], axis=1)
     dfTown = dfTown.rename(columns={'PLZ': 'zipTown', 'BFS-Nr': 'bfs', 'Gemeindename': 'town', 'Kantonskürzel': 'canton', 'Sprache': 'locale'})
     dfTown['zipTown'] = dfTown['zipTown'].astype(int)
     dfTown['bfs'] = dfTown['bfs'].astype(int)
