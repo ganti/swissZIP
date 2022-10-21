@@ -1,0 +1,16 @@
+name: UpdateZIP
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Self test
+        id: selftest
+        uses: ryan-rozario/pipreqs-action-cpy@master
+        with:
+          PROJECT_PATH: ./fetchData
+          REQUIREMENT_PATH: ./fetchData/requirements.txt
+      - name: Hello World
+        run: python ./fetchData/fetchData.py
+        shell: sh  
