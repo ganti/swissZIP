@@ -18,6 +18,10 @@ jobs:
           pip install numpy
           pip install pandas
           pip install requests
-      - name: UpdateZIP
+      - name: run UpdateZIP
         run: |
           python ./fetchData/fetchData.py
+      - name: move new fifle
+        run: |
+          ll
+          cp zip.json swissZip/v4/data/zip.json
