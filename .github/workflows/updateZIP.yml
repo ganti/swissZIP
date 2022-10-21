@@ -1,8 +1,7 @@
 name: UpdateZIP
 on:
   schedule:
-    - cron: '40 0 * * *' #time in UTC
-    - timezone: 'Europe/Zurich'
+    - cron: '43 22 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
