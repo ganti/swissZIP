@@ -25,7 +25,7 @@ jobs:
         run: |
           cd fetchData
           python fetchData.py
-          mv zip.json ../swissZip/v4/data/zip.json          
+          mv zip.json ../swissZIP/v4/data/zip.json          
       - name: Add to Repo
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
