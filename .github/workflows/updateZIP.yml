@@ -23,8 +23,8 @@ jobs:
           pip install requests
       - name: run UpdateZIP
         run: |
-          cd ./fetchData
-          python ./fetchData/fetchData.py
+          cd fetchData
+          python fetchData.py
       - name: move new file
         run: |
           ls -la .
