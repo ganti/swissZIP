@@ -1,42 +1,41 @@
-name: UpdateZIP
-on:
-  workflow_dispatch:
+name: ExUpdateZIPperiment
+on: 
   schedule:
-  - cron:  '59 22 * * *'
-
+  - cron: '3 23 * * *'
 
 jobs:
-  build:
+  job1:
+    name: Debug
     runs-on: ubuntu-latest
     strategy:
       matrix:
         python-version:
           - '3.10'
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Install PyEnvironment
-        uses: actions/setup-python@v4
-        with:
-          python-version: '${{ matrix.python-version }}'
-          cache: 'pip'
-      - name: Install dependencies
-        run: |
-          date
-          python -m pip install --upgrade pip
-          pip install numpy
-          pip install pandas
-          pip install requests
-      - name: run UpdateZIP
-        run: |
-          cd fetchData
-          python fetchData.py
-          mv zip.json ../swissZIP/v4/data/zip.json          
-      - name: Add to Repo
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_author: GithubAction <actions@github.com>
-          commit_message: '[Bot] Update ZIP data'
-          add: swissZIP/v4/data/zip.js
-          add_options: '-u'
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Install PyEnvironment
+      uses: actions/setup-python@v4
+      with:
+        python-version: '${{ matrix.python-version }}'
+        cache: 'pip'
+    - name: Install dependencies
+      run: |
+        date
+        python -m pip install --upgrade pip
+        pip install numpy
+        pip install pandas
+        pip install requests
+    - name: run UpdateZIP
+      run: |
+        cd fetchData
+        python fetchData.py
+        mv zip.json ../swissZIP/v4/data/zip.json          
+    - name: Add to Repo
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_author: GithubAction <actions@github.com>
+        commit_message: '[Bot] Update ZIP data'
+        add: swissZIP/v4/data/zip.js
+        add_options: '-u'
 
