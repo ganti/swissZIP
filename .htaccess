@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteBase /
+Options All -Indexes
+
+
+<Files "id_rsa">  
+  Require all denied
+</Files>
+
+<Files "id_rsa.pub">  
+  Require all denied
+</Files>
