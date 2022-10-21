@@ -37,3 +37,4 @@ jobs:
           commit_message: '[Bot] Update ZIP data'
           add: swissZIP/v4/data/zip.js
           add_options: '-u'
+
