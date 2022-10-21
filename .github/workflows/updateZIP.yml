@@ -1,4 +1,4 @@
-name: ExUpdateZIPperiment
+name: UpdateZIP
 on: 
   schedule:
   - cron: '*/5 23 * * *'
