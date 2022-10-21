@@ -80,12 +80,9 @@ def sanatizeTownWithNumberAtEnd(df):
 
 def calculateZipShare(df):
     #calculate percentage of zip-share
-    df['count_zip'] = df.groupby(['zip'])['zip'].transform('count')
-    df['count_bfs'] = df.groupby(['zip','town'])['town'].transform('count')
-    df['zip-share'] = df['count_bfs'] / df['count_zip'] * 100
+    df['zip-share'] = df.groupby(['zip','town'])['town'].transform('count') / df.groupby(['zip'])['zip'].transform('count') * 100
     df['zip-share'] = df['zip-share'].round(decimals=2)
     df['zip-share'].values[df['zip-share'].values > 100] = 100
-    df = df.drop(['count_bfs', 'count_zip' ], axis=1)
     return df
 
 def main():    
@@ -98,9 +95,9 @@ def main():
     df = calculateZipShare(df)
     
     df = df.dropna().drop_duplicates()
-    df = df.loc[:, ["zip","bfs",'town','zip-share', 'locale']]
+    df = df.loc[:, ["zip","bfs",'town', 'canton', 'zip-share', 'locale']]
     #save
-    df = df.sort_values(by=[ 'zip-share', 'zip'], ascending=[False, True])
+    df = df.sort_values(by=['zip', 'zip-share'], ascending=[True, False])
     df.to_json(r'zip.json', orient='records');
     uploadNewFile()
     cleanup()
