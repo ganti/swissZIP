@@ -40,12 +40,12 @@ def getDataFromInternet():
 def getGemeindeverzeichnis():
     file_name = r'./PLZO_CSV_LV95/PLZO_CSV_LV95/PLZO_CSV_LV95.csv'
     if os.path.exists(file_name):
-        dfTown = pd.read_csv(file_name, sep=';', dtype='unicode')
+        dfTown = pd.read_csv(file_name, sep=';', engine='python', dtype='unicode')
     else:
         sys.exit('File does not exist '+file_name)
 
     dfTown = dfTown.reset_index(drop=True)
-    dfTown = dfTown.drop(['Zusatzziffer', 'Ortschaftsname', 'E', 'N'], axis=1)
+    dfTown = dfTown.drop(['Ortschaftsname', 'Zusatzziffer', 'E', 'N'], axis=1)
     dfTown = dfTown.rename(columns={'PLZ': 'zipTown', 'BFS-Nr': 'bfs', 'Gemeindename': 'town', 'Kantonskürzel': 'canton', 'Sprache': 'locale'})
     dfTown['zipTown'] = dfTown['zipTown'].astype(int)
     dfTown['bfs'] = dfTown['bfs'].astype(int)
@@ -53,7 +53,11 @@ def getGemeindeverzeichnis():
     return dfTown
 
 def getGebaeudeverzeichnis():
-    dfStreet = pd.read_csv(r'./ch.swisstopo.amtliches-gebaeudeadressverzeichnis/pure_adr.csv', sep=';', dtype='unicode')
+    file_name = r'./ch.swisstopo.amtliches-gebaeudeadressverzeichnis/pure_adr.csv'
+    if os.path.exists(file_name):
+        dfStreet = pd.read_csv(file_name, sep=';', engine='python', dtype='unicode')
+    else:
+        sys.exit('File does not exist '+file_name)
     dfStreet = dfStreet.reset_index(drop=True)
     dfStreet[['zip','streetVillage']] = dfStreet['ZIP_LABEL'].str.split(' ', n=1, expand=True)
     dfStreet['zip'] = dfStreet['zip'].astype(int)
@@ -133,8 +137,8 @@ def addToGitRepo(file_name, msg):
         'git config --local core.sshCommand "ssh -i $(pwd)/../id_rsa -F /dev/null" ',
         "git remote set-url origin git@github.com:ganti/swissZIP.git ",
         "git add "+ file_name,
-        "git commit -m '"+msg+"' "+file_name,
-        "git push"
+        #"git commit -m '"+msg+"' "+file_name,
+        #"git push"
         
     ]
     separator = "> /dev/null && "
