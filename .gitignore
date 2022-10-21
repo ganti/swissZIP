@@ -1,2 +1,5 @@
 
 .DS_Store
+fetchData/PLZO_CSV_LV95/*
+fetchData/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/*
+fetchData/zip.json

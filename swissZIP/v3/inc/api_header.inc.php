@@ -17,31 +17,6 @@
         return $decoded;
     }
 
-    function invokeAction($RACL, $data){
-        $sendOutput = new sendOutputClass();
-        $return_data = "";
-        if(array_key_exists($data['request_action'], $RACL) == False){
-            $sendOutput->set('warning', 'unknown request_action');
-        }else{
-            $request_action = (isset($data['request_action']) ? $data['request_action'] : null);
-            $role_required = $RACL[$request_action];
-            if( UserHasRolePremission($role_required) ){
-                if(is_callable($request_action)) {
-                    $return_data = call_user_func($request_action, $data);
-                }else{
-                    $sendOutput->set('error', $request_action.' is not callable');
-                }
-            }else{
-                $sendOutput->set('warning', 'no permission for '.$role_required);
-            }
-
-            if($sendOutput->isError() == True){
-                $return_data = $sendOutput->Output();
-            }
-        }
-        return $return_data;
-    }
-
     function sendResponse($json){
         require_once('./inc/cors_footer.inc.php');
         header('Content-Type: application/json');
