@@ -1,7 +1,8 @@
 name: UpdateZIP
 on:
+  workflow_dispatch:
   schedule:
-    - cron:  '48 22 * * *'
+    - cron:  '53 22 * * *'
 
 
 jobs:
