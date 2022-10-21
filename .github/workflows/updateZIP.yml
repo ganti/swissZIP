@@ -27,8 +27,6 @@ jobs:
           python fetchData.py
       - name: move new file
         run: |
-          ls -la .
-          ls -la ./fetchData
           mv zip.json ../swissZip/v4/data/zip.json
       - name: Add to Repo
         uses: stefanzweifel/git-auto-commit-action@v4
