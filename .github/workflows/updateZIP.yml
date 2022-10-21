@@ -23,10 +23,11 @@ jobs:
           pip install requests
       - name: run UpdateZIP
         run: |
+          cd ./fetchData
           python ./fetchData/fetchData.py
       - name: move new file
         run: |
-          ls -la 
+          ls -la .
           ls -la ./fetchData
           mv ./fetchData/zip.json ./swissZip/v4/data/zip.json
       - name: Add to Repo
