@@ -103,8 +103,8 @@ def main():
     #save
     df = df.sort_values(by=['zip', 'zip-share'], ascending=[True, False])
     df.to_json(r'zip.json', orient='records');
-    uploadNewFile()
-    cleanup()
+    #uploadNewFile()
+    #cleanup()
 
 
     
