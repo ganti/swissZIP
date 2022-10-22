@@ -37,13 +37,4 @@ jobs:
         commit_author: GithubAction <actions@github.com>
         commit_message: '[Bot] Update ZIP data'
         branch: main
-        file_pattern: 'zip.json'
         add_options: '-u'
-    # Commit and push all changed files.
-    - name: Update Repo
-      run: |
-        git config --global user.name "GitHub Actions Bot"
-        git config --global user.email "actions@github.com"
-        git add --update ./swissZIP/v4/data/zip.json
-        git commit -a -m "$(date +'%Y-%m-%d')"
-        git push
