@@ -1,6 +1,7 @@
 # swissZIP
 Get village by Postleitzahl (ZIP-Code)
-Last Update: 18. October 2022
+
+[![UpdateZIP](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml/badge.svg?branch=main)](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml)
 
 ## Query
 `/zip.php?zip=3073&format=(json | xml | debug)` 
@@ -20,7 +21,9 @@ Last Update: 18. October 2022
 | status | error['description'] | string | description of error |
 | data | zip | 4 digit number | Postleitzahl/ ZIP-Code |
 | data | bfs | 4 digit number | GemeindeNummer, Official Village ID |
-| data | zip-share | number | percentage of area (currently missing, since this data was not published for 2022) |
+| data | town | string | Name of town |
+| data | zip-share | number | percentage of area |
+| data | locale | string | de, fr, it, rm |
 
 ```php
 (
@@ -37,39 +40,38 @@ Last Update: 18. October 2022
                     [plz] => 3073
                     [bfs] => 356
                     [canton] => BE
-                    [village] => Muri bei Bern
+                    [town] => Muri bei Bern
                     [zip-share] => 99.7
+                    [locale] => de
                 )
             [1] => Array
                 (
                     [plz] => 3073
                     [bfs] => 351
                     [canton] => BE
-                    [village] => Bern
+                    [town] => Bern
                     [zip-share] => 0.2
+                    [locale] => de
                 )
             [2] => Array
                 (
                     [plz] => 3073
                     [bfs] => 363
                     [canton] => BE
-                    [village] => Ostermundigen
+                    [town] => Ostermundigen
                     [zip-share] => 0.1
+                    [locale] => de
                 )
         )
 )
 ```
 ## Datasource
-from the official commune register, last update of data: October 2022
-- https://www.cadastre.ch/de/services/service/registry/plz.html
+from the official commune register
 - https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz
-
-Old Links until 2019:
-- https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.html
-- https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch/gwr-korrespondenztabelle.assetdetail.7226419.html
+- https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis
 
 ## CC0 License
-CC0-1.0  2022 github.com/ganti
+CC0-1.0  2019 github.com/ganti
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
