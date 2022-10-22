@@ -3,10 +3,6 @@ RewriteBase /
 Options All -Indexes
 
 
-<Files "id_rsa">  
-  Require all denied
-</Files>
-
-<Files "id_rsa.pub">  
+<Files ".git*">  
   Require all denied
 </Files>
