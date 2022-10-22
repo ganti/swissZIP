@@ -102,7 +102,7 @@ def main():
     df = df.loc[:, ["zip","bfs",'town', 'canton', 'zip-share', 'locale']]
     #save
     df = df.sort_values(by=['zip', 'zip-share'], ascending=[True, False])
-    df.to_json(r'zip.json', orient='records');
+    df.to_json(r'../swissZIP/v4/data/zip.json', orient='records');
     #uploadNewFile()
     #cleanup()
 
@@ -112,7 +112,6 @@ def main():
 def cleanup():
     files = [   r'./PLZO_CSV_LV95',
                 r'./ch.swisstopo.amtliches-gebaeudeadressverzeichnis',
-                r'zip.json'
     ]
     for f in files:
         if os.path.exists(f):

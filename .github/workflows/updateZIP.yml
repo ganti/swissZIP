@@ -30,8 +30,7 @@ jobs:
     - name: run UpdateZIP
       run: |
         cd fetchData
-        python fetchData.py
-        mv zip.json ../swissZIP/v4/data/zip.json         
+        python fetchData.py      
     - name: Add to Repo
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
