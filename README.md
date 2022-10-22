@@ -1,6 +1,6 @@
 # swissZIP
 Get village by Postleitzahl (ZIP-Code)
-Last Update: 18. February 2019
+[![UpdateZIP](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml/badge.svg?branch=main)](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml)
 
 ## Query
 `/zip.php?zip=3073&format=(json | xml | debug)` 
@@ -37,32 +37,35 @@ Last Update: 18. February 2019
                     [plz] => 3073
                     [bfs] => 356
                     [canton] => BE
-                    [village] => Muri bei Bern
+                    [town] => Muri bei Bern
                     [zip-share] => 99.7
+                    [locale] => de
                 )
             [1] => Array
                 (
                     [plz] => 3073
                     [bfs] => 351
                     [canton] => BE
-                    [village] => Bern
+                    [town] => Bern
                     [zip-share] => 0.2
+                    [locale] => de
                 )
             [2] => Array
                 (
                     [plz] => 3073
                     [bfs] => 363
                     [canton] => BE
-                    [village] => Ostermundigen
+                    [town] => Ostermundigen
                     [zip-share] => 0.1
+                    [locale] => de
                 )
         )
 )
 ```
 ## Datasource
-from the official commune register, last update of data: January 2019
-- https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch.html
-- https://www.bfs.admin.ch/bfs/de/home/grundlagen/agvch/gwr-korrespondenztabelle.assetdetail.7226419.html
+from the official commune register
+- https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz
+- https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis
 
 ## CC0 License
 CC0-1.0  2019 github.com/ganti
