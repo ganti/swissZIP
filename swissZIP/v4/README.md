@@ -1,7 +1,7 @@
 # swissZIP (Schweizer Postleitzahlen API)
 Get town by Postleitzahl (ZIP-Code)
 
-Test it here: https://swisszip.api.ganti.dev/v4/zip.php?zip=3073
+Test it here: https://swisszip.api.ganti.dev/zip/3073
 
 
 [![UpdateZIP](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml/badge.svg?branch=main)](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml)
