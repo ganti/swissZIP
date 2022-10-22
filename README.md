@@ -1,5 +1,8 @@
-# swissZIP
-Get village by Postleitzahl (ZIP-Code)
+# swissZIP (Schweizer Postleitzahlen API)
+Get town by Postleitzahl (ZIP-Code)
+
+Test it here: https://swisszip.api.ganti.dev/v4/zip.php?zip=3073
+
 
 [![UpdateZIP](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml/badge.svg?branch=main)](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml)
 
@@ -29,40 +32,55 @@ Get village by Postleitzahl (ZIP-Code)
 (
     [status] => Array
         (
-            [count] => 3
+            [count] => 4
             [distinct] => 0
             [status] => ok
         )
+
     [data] => Array
         (
             [0] => Array
                 (
-                    [plz] => 3073
+                    [zip] => 3073
                     [bfs] => 356
-                    [canton] => BE
                     [town] => Muri bei Bern
-                    [zip-share] => 99.7
+                    [canton] => BE
+                    [zip-share] => 95.58
                     [locale] => de
                 )
+
             [1] => Array
                 (
-                    [plz] => 3073
+                    [zip] => 3073
                     [bfs] => 351
-                    [canton] => BE
                     [town] => Bern
-                    [zip-share] => 0.2
+                    [canton] => BE
+                    [zip-share] => 4.24
                     [locale] => de
                 )
+
             [2] => Array
                 (
-                    [plz] => 3073
+                    [zip] => 3073
                     [bfs] => 363
-                    [canton] => BE
                     [town] => Ostermundigen
-                    [zip-share] => 0.1
+                    [canton] => BE
+                    [zip-share] => 0.15
                     [locale] => de
                 )
+
+            [3] => Array
+                (
+                    [zip] => 3073
+                    [bfs] => 630
+                    [town] => Allmendingen
+                    [canton] => BE
+                    [zip-share] => 0.02
+                    [locale] => de
+                )
+
         )
+
 )
 ```
 ## Datasource
@@ -71,7 +89,7 @@ from the official commune register
 - https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis
 
 ## CC0 License
-CC0-1.0  2019 github.com/ganti
+CC0-1.0  2019-2022 github.com/ganti
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
