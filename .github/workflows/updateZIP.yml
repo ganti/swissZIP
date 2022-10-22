@@ -38,6 +38,6 @@ jobs:
         commit_author: GithubAction <actions@github.com>
         commit_message: '[Bot] Update ZIP data'
         branch: main
-        file_pattern: 'swissZIP/v4/data/zip.js'
+        file_pattern: 'swissZIP/v4/data/zip.json'
         add_options: '-u'
 
