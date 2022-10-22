@@ -1,5 +1,6 @@
 # swissZIP
 Get village by Postleitzahl (ZIP-Code)
+
 [![UpdateZIP](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml/badge.svg?branch=main)](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml)
 
 ## Query
@@ -20,7 +21,9 @@ Get village by Postleitzahl (ZIP-Code)
 | status | error['description'] | string | description of error |
 | data | zip | 4 digit number | Postleitzahl/ ZIP-Code |
 | data | bfs | 4 digit number | GemeindeNummer, Official Village ID |
+| data | town | string | Name of town |
 | data | zip-share | number | percentage of area |
+| data | locale | string | de, fr, it, rm |
 
 ```php
 (
