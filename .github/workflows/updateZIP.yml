@@ -31,13 +31,13 @@ jobs:
       run: |
         cd fetchData
         python fetchData.py
-        mv zip.json ../swissZIP/v4/data/zip.json          
+        mv zip.json ../swissZIP/v4/data/zip.json         
     - name: Add to Repo
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_author: GithubAction <actions@github.com>
         commit_message: '[Bot] Update ZIP data'
         branch: main
-        file_pattern: 'swissZIP/v4/data/zip.json'
+        file_pattern: './swissZIP/v4/data/zip.json'
         add_options: '-u'
 
