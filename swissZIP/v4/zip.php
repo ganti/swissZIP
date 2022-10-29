@@ -95,7 +95,7 @@ class swissZIP {
                 ini_set( 'serialize_precision', -1 );
             }
 
-            echo json_encode($this->result);
+            echo json_encode($this->result, JSON_PRETTY_PRINT);
 
         }else if($this->format == 'xml'){
             header("Content-type: text/xml");
