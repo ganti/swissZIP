@@ -5308,7 +5308,7 @@
         "bfs":2306,
         "town":"Tafers",
         "canton":"FR",
-        "zip-share":61.78,
+        "zip-share":61.81,
         "locale":"de"
     },
     {
@@ -5316,7 +5316,7 @@
         "bfs":2296,
         "town":"Heitenried",
         "canton":"FR",
-        "zip-share":38.22,
+        "zip-share":38.19,
         "locale":"de"
     },
     {
@@ -7644,7 +7644,7 @@
         "bfs":6487,
         "town":"Val-de-Ruz",
         "canton":"NE",
-        "zip-share":75.26,
+        "zip-share":74.83,
         "locale":"fr"
     },
     {
@@ -7652,7 +7652,7 @@
         "bfs":6413,
         "town":"Rochefort",
         "canton":"NE",
-        "zip-share":22.69,
+        "zip-share":23.08,
         "locale":"fr"
     },
     {
@@ -7660,7 +7660,7 @@
         "bfs":6458,
         "town":"Neuch\u00e2tel",
         "canton":"NE",
-        "zip-share":2.05,
+        "zip-share":2.09,
         "locale":"fr"
     },
     {
@@ -12428,7 +12428,7 @@
         "bfs":734,
         "town":"B\u00fchl",
         "canton":"BE",
-        "zip-share":37.98,
+        "zip-share":38.02,
         "locale":"de"
     },
     {
@@ -12436,7 +12436,7 @@
         "bfs":737,
         "town":"Hermrigen",
         "canton":"BE",
-        "zip-share":31.07,
+        "zip-share":30.99,
         "locale":"de"
     },
     {
@@ -12444,7 +12444,7 @@
         "bfs":741,
         "town":"Merzligen",
         "canton":"BE",
-        "zip-share":30.95,
+        "zip-share":30.99,
         "locale":"de"
     },
     {
@@ -12612,7 +12612,7 @@
         "bfs":540,
         "town":"Jegenstorf",
         "canton":"BE",
-        "zip-share":96.08,
+        "zip-share":96.09,
         "locale":"de"
     },
     {
@@ -12620,7 +12620,7 @@
         "bfs":557,
         "town":"Zuzwil (BE)",
         "canton":"BE",
-        "zip-share":3.92,
+        "zip-share":3.91,
         "locale":"de"
     },
     {
@@ -15748,7 +15748,7 @@
         "bfs":785,
         "town":"Meiringen",
         "canton":"BE",
-        "zip-share":82.86,
+        "zip-share":82.87,
         "locale":"de"
     },
     {
@@ -15756,7 +15756,7 @@
         "bfs":786,
         "town":"Schattenhalb",
         "canton":"BE",
-        "zip-share":16.72,
+        "zip-share":16.71,
         "locale":"de"
     },
     {
@@ -18884,7 +18884,7 @@
         "bfs":2553,
         "town":"Oberdorf (SO)",
         "canton":"SO",
-        "zip-share":1.19,
+        "zip-share":1.18,
         "locale":"de"
     },
     {
@@ -24108,7 +24108,7 @@
         "bfs":1093,
         "town":"Neuenkirch",
         "canton":"LU",
-        "zip-share":98.73,
+        "zip-share":98.72,
         "locale":"de"
     },
     {
@@ -25332,7 +25332,7 @@
         "bfs":1503,
         "town":"Dallenwil",
         "canton":"NW",
-        "zip-share":94.52,
+        "zip-share":94.51,
         "locale":"de"
     },
     {
@@ -25340,7 +25340,7 @@
         "bfs":1508,
         "town":"Oberdorf (NW)",
         "canton":"NW",
-        "zip-share":3.45,
+        "zip-share":3.46,
         "locale":"de"
     },
     {
@@ -25492,7 +25492,7 @@
         "bfs":1371,
         "town":"Sattel",
         "canton":"SZ",
-        "zip-share":90.26,
+        "zip-share":90.3,
         "locale":"de"
     },
     {
@@ -25500,7 +25500,7 @@
         "bfs":1372,
         "town":"Schwyz",
         "canton":"SZ",
-        "zip-share":6.4,
+        "zip-share":6.37,
         "locale":"de"
     },
     {
@@ -25508,7 +25508,7 @@
         "bfs":1706,
         "town":"Ober\u00e4geri",
         "canton":"ZG",
-        "zip-share":3.34,
+        "zip-share":3.32,
         "locale":"de"
     },
     {
@@ -32452,7 +32452,7 @@
         "bfs":4696,
         "town":"T\u00e4gerwilen",
         "canton":"TG",
-        "zip-share":93.68,
+        "zip-share":93.69,
         "locale":"de"
     },
     {
@@ -32460,7 +32460,7 @@
         "bfs":4651,
         "town":"Gottlieben",
         "canton":"TG",
-        "zip-share":6.32,
+        "zip-share":6.31,
         "locale":"de"
     },
     {
@@ -33404,7 +33404,7 @@
         "bfs":231,
         "town":"Zell (ZH)",
         "canton":"ZH",
-        "zip-share":88.18,
+        "zip-share":88.19,
         "locale":"de"
     },
     {
@@ -33412,7 +33412,7 @@
         "bfs":296,
         "town":"Illnau-Effretikon",
         "canton":"ZH",
-        "zip-share":11.82,
+        "zip-share":11.81,
         "locale":"de"
     },
     {
@@ -37036,7 +37036,7 @@
         "bfs":3378,
         "town":"Neckertal",
         "canton":"SG",
-        "zip-share":89.66,
+        "zip-share":89.68,
         "locale":"de"
     },
     {
@@ -37044,7 +37044,7 @@
         "bfs":3003,
         "town":"Sch\u00f6nengrund",
         "canton":"AR",
-        "zip-share":9.3,
+        "zip-share":9.28,
         "locale":"de"
     },
     {
@@ -37268,7 +37268,7 @@
         "bfs":3378,
         "town":"Neckertal",
         "canton":"SG",
-        "zip-share":83.43,
+        "zip-share":83.54,
         "locale":"de"
     },
     {
@@ -37276,7 +37276,7 @@
         "bfs":3375,
         "town":"Oberhelfenschwil",
         "canton":"SG",
-        "zip-share":16.57,
+        "zip-share":16.46,
         "locale":"de"
     },
     {
@@ -38324,7 +38324,7 @@
         "bfs":3233,
         "town":"Berneck",
         "canton":"SG",
-        "zip-share":90.61,
+        "zip-share":90.75,
         "locale":"de"
     },
     {
@@ -38332,7 +38332,7 @@
         "bfs":3111,
         "town":"Oberegg",
         "canton":"AI",
-        "zip-share":9.39,
+        "zip-share":9.25,
         "locale":"de"
     },
     {
