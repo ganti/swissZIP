@@ -65,7 +65,7 @@ def getGebaeudeverzeichnis():
     
     dfStreet = dfStreet.rename(columns={'COM_FOSNR': 'bfs'})
     dfStreet['bfs'] = dfStreet['bfs'].astype(int)
-    dfStreet = dfStreet.drop(['ZIP_LABEL','ADR_EGAID', 'STR_ESID', 'BDG_EGID', 'COM_CANTON','ADR_EDID', 'STN_LABEL','ADR_NUMBER', 'BDG_CATEGORY', 'BDG_NAME', 'ADR_STATUS', 'ADR_OFFICIAL', 'ADR_VALID', 'ADR_MODIFIED','ADR_EASTING', 'ADR_NORTHING'], axis=1)
+    dfStreet = dfStreet.drop(['ZIP_LABEL','ADR_EGAID', 'STR_ESID', 'BDG_EGID', 'COM_CANTON','ADR_EDID', 'STN_LABEL','ADR_NUMBER', 'BDG_CATEGORY', 'BDG_NAME', 'ADR_STATUS', 'ADR_OFFICIAL', 'ADR_MODIFIED','ADR_EASTING', 'ADR_NORTHING'], axis=1)
     dfStreet = dfStreet.drop(['streetVillage'], axis=1)
     return dfStreet
 
