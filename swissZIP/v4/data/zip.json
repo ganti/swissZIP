@@ -6484,7 +6484,7 @@
         "bfs":6156,
         "town":"Troistorrents",
         "canton":"VS",
-        "zip-share":99.09,
+        "zip-share":99.1,
         "locale":"fr"
     },
     {
@@ -6492,7 +6492,7 @@
         "bfs":6152,
         "town":"Collombey-Muraz",
         "canton":"VS",
-        "zip-share":0.91,
+        "zip-share":0.9,
         "locale":"fr"
     },
     {
@@ -7044,7 +7044,7 @@
         "bfs":6266,
         "town":"Sion",
         "canton":"VS",
-        "zip-share":87.57,
+        "zip-share":87.6,
         "locale":"fr"
     },
     {
@@ -7052,7 +7052,7 @@
         "bfs":6246,
         "town":"Saint-L\u00e9onard",
         "canton":"VS",
-        "zip-share":12.36,
+        "zip-share":12.34,
         "locale":"fr"
     },
     {
@@ -8244,7 +8244,7 @@
         "bfs":6743,
         "town":"Les Breuleux",
         "canton":"JU",
-        "zip-share":51.41,
+        "zip-share":51.44,
         "locale":"fr"
     },
     {
@@ -8252,7 +8252,7 @@
         "bfs":6753,
         "town":"Muriaux",
         "canton":"JU",
-        "zip-share":30.26,
+        "zip-share":30.24,
         "locale":"fr"
     },
     {
@@ -8260,7 +8260,7 @@
         "bfs":443,
         "town":"Saint-Imier",
         "canton":"BE",
-        "zip-share":11.19,
+        "zip-share":11.18,
         "locale":"fr"
     },
     {
@@ -8948,7 +8948,7 @@
         "bfs":743,
         "town":"Nidau",
         "canton":"BE",
-        "zip-share":90.03,
+        "zip-share":90.04,
         "locale":"de"
     },
     {
@@ -8956,7 +8956,7 @@
         "bfs":745,
         "town":"Port",
         "canton":"BE",
-        "zip-share":9.97,
+        "zip-share":9.96,
         "locale":"de"
     },
     {
@@ -12780,7 +12780,7 @@
         "bfs":414,
         "town":"Krauchthal",
         "canton":"BE",
-        "zip-share":92.1,
+        "zip-share":92.11,
         "locale":"de"
     },
     {
@@ -12788,7 +12788,7 @@
         "bfs":409,
         "town":"Hindelbank",
         "canton":"BE",
-        "zip-share":7.9,
+        "zip-share":7.89,
         "locale":"de"
     },
     {
@@ -22508,7 +22508,7 @@
         "bfs":4145,
         "town":"Teufenthal (AG)",
         "canton":"AG",
-        "zip-share":96.84,
+        "zip-share":96.88,
         "locale":"de"
     },
     {
@@ -22516,7 +22516,7 @@
         "bfs":4146,
         "town":"Unterkulm",
         "canton":"AG",
-        "zip-share":1.81,
+        "zip-share":1.78,
         "locale":"de"
     },
     {
@@ -22524,7 +22524,7 @@
         "bfs":4006,
         "town":"Gr\u00e4nichen",
         "canton":"AG",
-        "zip-share":1.35,
+        "zip-share":1.34,
         "locale":"de"
     },
     {
@@ -23972,7 +23972,7 @@
         "bfs":1008,
         "town":"Sch\u00fcpfheim",
         "canton":"LU",
-        "zip-share":91.19,
+        "zip-share":91.2,
         "locale":"de"
     },
     {
@@ -36092,7 +36092,7 @@
         "bfs":3295,
         "town":"Quarten",
         "canton":"SG",
-        "zip-share":3.54,
+        "zip-share":3.53,
         "locale":"de"
     },
     {
@@ -38604,7 +38604,7 @@
         "bfs":3271,
         "town":"Buchs (SG)",
         "canton":"SG",
-        "zip-share":65.22,
+        "zip-share":65.25,
         "locale":"de"
     },
     {
@@ -38612,7 +38612,7 @@
         "bfs":3273,
         "town":"Grabs",
         "canton":"SG",
-        "zip-share":31.45,
+        "zip-share":31.42,
         "locale":"de"
     },
     {
