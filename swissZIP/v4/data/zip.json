@@ -1676,7 +1676,7 @@
         "bfs":6628,
         "town":"Lancy",
         "canton":"GE",
-        "zip-share":58.0,
+        "zip-share":58.01,
         "locale":"fr"
     },
     {
@@ -1684,7 +1684,7 @@
         "bfs":6631,
         "town":"Onex",
         "canton":"GE",
-        "zip-share":38.32,
+        "zip-share":38.3,
         "locale":"fr"
     },
     {
@@ -1692,7 +1692,7 @@
         "bfs":6621,
         "town":"Gen\u00e8ve",
         "canton":"GE",
-        "zip-share":3.68,
+        "zip-share":3.69,
         "locale":"fr"
     },
     {
@@ -1940,7 +1940,7 @@
         "bfs":6609,
         "town":"Cartigny",
         "canton":"GE",
-        "zip-share":96.84,
+        "zip-share":96.85,
         "locale":"fr"
     },
     {
@@ -2596,7 +2596,7 @@
         "bfs":6634,
         "town":"Pregny-Chamb\u00e9sy",
         "canton":"GE",
-        "zip-share":94.71,
+        "zip-share":94.7,
         "locale":"fr"
     },
     {
@@ -2604,7 +2604,7 @@
         "bfs":6621,
         "town":"Gen\u00e8ve",
         "canton":"GE",
-        "zip-share":5.29,
+        "zip-share":5.3,
         "locale":"fr"
     },
     {
@@ -7644,7 +7644,7 @@
         "bfs":6487,
         "town":"Val-de-Ruz",
         "canton":"NE",
-        "zip-share":76.68,
+        "zip-share":77.09,
         "locale":"fr"
     },
     {
@@ -7652,7 +7652,7 @@
         "bfs":6413,
         "town":"Rochefort",
         "canton":"NE",
-        "zip-share":21.18,
+        "zip-share":20.8,
         "locale":"fr"
     },
     {
@@ -7660,7 +7660,7 @@
         "bfs":6458,
         "town":"Neuch\u00e2tel",
         "canton":"NE",
-        "zip-share":2.14,
+        "zip-share":2.1,
         "locale":"fr"
     },
     {
@@ -8244,7 +8244,7 @@
         "bfs":6743,
         "town":"Les Breuleux",
         "canton":"JU",
-        "zip-share":56.32,
+        "zip-share":54.08,
         "locale":"fr"
     },
     {
@@ -8252,7 +8252,7 @@
         "bfs":6753,
         "town":"Muriaux",
         "canton":"JU",
-        "zip-share":30.24,
+        "zip-share":31.79,
         "locale":"fr"
     },
     {
@@ -8260,7 +8260,7 @@
         "bfs":443,
         "town":"Saint-Imier",
         "canton":"BE",
-        "zip-share":11.18,
+        "zip-share":11.75,
         "locale":"fr"
     },
     {
@@ -8268,7 +8268,7 @@
         "bfs":6754,
         "town":"Le Noirmont",
         "canton":"JU",
-        "zip-share":1.16,
+        "zip-share":1.22,
         "locale":"fr"
     },
     {
@@ -8276,7 +8276,7 @@
         "bfs":445,
         "town":"Sonvilier",
         "canton":"BE",
-        "zip-share":0.61,
+        "zip-share":0.64,
         "locale":"fr"
     },
     {
@@ -8284,7 +8284,7 @@
         "bfs":448,
         "town":"Villeret",
         "canton":"BE",
-        "zip-share":0.49,
+        "zip-share":0.51,
         "locale":"fr"
     },
     {
@@ -10780,7 +10780,7 @@
         "bfs":546,
         "town":"M\u00fcnchenbuchsee",
         "canton":"BE",
-        "zip-share":59.63,
+        "zip-share":58.43,
         "locale":"de"
     },
     {
@@ -10788,7 +10788,7 @@
         "bfs":310,
         "town":"Rapperswil (BE)",
         "canton":"BE",
-        "zip-share":35.91,
+        "zip-share":36.98,
         "locale":"de"
     },
     {
@@ -10796,7 +10796,7 @@
         "bfs":535,
         "town":"Deisswil bei M\u00fcnchenbuchsee",
         "canton":"BE",
-        "zip-share":1.92,
+        "zip-share":1.98,
         "locale":"de"
     },
     {
@@ -10804,7 +10804,7 @@
         "bfs":553,
         "town":"Wiggiswil",
         "canton":"BE",
-        "zip-share":1.83,
+        "zip-share":1.89,
         "locale":"de"
     },
     {
@@ -10812,7 +10812,7 @@
         "bfs":311,
         "town":"Sch\u00fcpfen",
         "canton":"BE",
-        "zip-share":0.51,
+        "zip-share":0.52,
         "locale":"de"
     },
     {
