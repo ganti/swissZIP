@@ -6,3 +6,4 @@ fetchData/zip.json
 fetchData/ch.swisstopo.amtliches-gebaeudeadressverzeichnis.zip
 id_rsa
 id_rsa.pub
+fetchData/venv/*
