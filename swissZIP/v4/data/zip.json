@@ -1516,7 +1516,7 @@
         "bfs":5855,
         "town":"Dully",
         "canton":"VD",
-        "zip-share":57.14,
+        "zip-share":57.22,
         "locale":"fr"
     },
     {
@@ -1524,7 +1524,7 @@
         "bfs":5852,
         "town":"Bursinel",
         "canton":"VD",
-        "zip-share":41.0,
+        "zip-share":40.93,
         "locale":"fr"
     },
     {
@@ -1532,7 +1532,7 @@
         "bfs":5857,
         "town":"Gilly",
         "canton":"VD",
-        "zip-share":1.86,
+        "zip-share":1.85,
         "locale":"fr"
     },
     {
@@ -3060,7 +3060,7 @@
         "bfs":5746,
         "town":"Bavois",
         "canton":"VD",
-        "zip-share":92.26,
+        "zip-share":92.25,
         "locale":"fr"
     },
     {
@@ -3068,7 +3068,7 @@
         "bfs":5493,
         "town":"Orny",
         "canton":"VD",
-        "zip-share":7.74,
+        "zip-share":7.75,
         "locale":"fr"
     },
     {
@@ -4788,7 +4788,7 @@
         "bfs":2130,
         "town":"Cr\u00e9suz",
         "canton":"FR",
-        "zip-share":58.31,
+        "zip-share":57.91,
         "locale":"fr"
     },
     {
@@ -4796,7 +4796,7 @@
         "bfs":2128,
         "town":"Ch\u00e2tel-sur-Montsalvens",
         "canton":"FR",
-        "zip-share":40.58,
+        "zip-share":40.99,
         "locale":"fr"
     },
     {
@@ -4804,7 +4804,7 @@
         "bfs":2124,
         "town":"Broc",
         "canton":"FR",
-        "zip-share":1.11,
+        "zip-share":1.1,
         "locale":"fr"
     },
     {
@@ -6676,7 +6676,7 @@
         "bfs":6153,
         "town":"Monthey",
         "canton":"VS",
-        "zip-share":99.0,
+        "zip-share":98.75,
         "locale":"fr"
     },
     {
@@ -6688,11 +6688,19 @@
         "locale":"fr"
     },
     {
+        "zip":1871,
+        "bfs":6156,
+        "town":"Troistorrents",
+        "canton":"VS",
+        "zip-share":0.25,
+        "locale":"fr"
+    },
+    {
         "zip":1872,
         "bfs":6156,
         "town":"Troistorrents",
         "canton":"VS",
-        "zip-share":99.2,
+        "zip-share":99.19,
         "locale":"fr"
     },
     {
@@ -6700,7 +6708,7 @@
         "bfs":6152,
         "town":"Collombey-Muraz",
         "canton":"VS",
-        "zip-share":0.8,
+        "zip-share":0.81,
         "locale":"fr"
     },
     {
@@ -9988,7 +9996,7 @@
         "bfs":687,
         "town":"Corcelles (BE)",
         "canton":"BE",
-        "zip-share":47.28,
+        "zip-share":47.17,
         "locale":"fr"
     },
     {
@@ -9996,7 +10004,7 @@
         "bfs":709,
         "town":"Seehof",
         "canton":"BE",
-        "zip-share":24.59,
+        "zip-share":24.76,
         "locale":"de"
     },
     {
@@ -10004,7 +10012,7 @@
         "bfs":691,
         "town":"Cr\u00e9mines",
         "canton":"BE",
-        "zip-share":20.57,
+        "zip-share":20.52,
         "locale":"fr"
     },
     {
@@ -10012,7 +10020,7 @@
         "bfs":691,
         "town":"Cr\u00e9mines",
         "canton":"BE",
-        "zip-share":20.57,
+        "zip-share":20.52,
         "locale":"de"
     },
     {
@@ -10020,7 +10028,7 @@
         "bfs":2421,
         "town":"Aedermannsdorf",
         "canton":"SO",
-        "zip-share":7.57,
+        "zip-share":7.55,
         "locale":"de"
     },
     {
@@ -12140,7 +12148,7 @@
         "bfs":667,
         "town":"Laupen",
         "canton":"BE",
-        "zip-share":88.35,
+        "zip-share":88.36,
         "locale":"de"
     },
     {
@@ -12172,7 +12180,7 @@
         "bfs":666,
         "town":"Kriechenwil",
         "canton":"BE",
-        "zip-share":88.8,
+        "zip-share":88.86,
         "locale":"de"
     },
     {
@@ -12180,7 +12188,7 @@
         "bfs":2262,
         "town":"Gurmels",
         "canton":"FR",
-        "zip-share":11.2,
+        "zip-share":11.14,
         "locale":"de"
     },
     {
@@ -12436,7 +12444,7 @@
         "bfs":665,
         "town":"Gurbr\u00fc",
         "canton":"BE",
-        "zip-share":0.4,
+        "zip-share":0.39,
         "locale":"de"
     },
     {
@@ -15164,7 +15172,7 @@
         "bfs":942,
         "town":"Thun",
         "canton":"BE",
-        "zip-share":82.04,
+        "zip-share":82.05,
         "locale":"de"
     },
     {
@@ -15172,7 +15180,7 @@
         "bfs":768,
         "town":"Spiez",
         "canton":"BE",
-        "zip-share":16.08,
+        "zip-share":16.07,
         "locale":"de"
     },
     {
@@ -15868,7 +15876,7 @@
         "bfs":843,
         "town":"Saanen",
         "canton":"BE",
-        "zip-share":98.05,
+        "zip-share":98.06,
         "locale":"de"
     },
     {
@@ -15876,7 +15884,7 @@
         "bfs":794,
         "town":"Zweisimmen",
         "canton":"BE",
-        "zip-share":1.95,
+        "zip-share":1.94,
         "locale":"de"
     },
     {
@@ -15956,7 +15964,7 @@
         "bfs":593,
         "town":"Unterseen",
         "canton":"BE",
-        "zip-share":28.97,
+        "zip-share":28.98,
         "locale":"de"
     },
     {
@@ -17108,7 +17116,7 @@
         "bfs":6113,
         "town":"Salgesch",
         "canton":"VS",
-        "zip-share":88.15,
+        "zip-share":88.18,
         "locale":"de"
     },
     {
@@ -17116,7 +17124,7 @@
         "bfs":6110,
         "town":"Leuk",
         "canton":"VS",
-        "zip-share":8.33,
+        "zip-share":8.31,
         "locale":"de"
     },
     {
@@ -17124,7 +17132,7 @@
         "bfs":6116,
         "town":"Varen",
         "canton":"VS",
-        "zip-share":3.52,
+        "zip-share":3.51,
         "locale":"de"
     },
     {
@@ -19372,7 +19380,7 @@
         "bfs":2601,
         "town":"Solothurn",
         "canton":"SO",
-        "zip-share":90.06,
+        "zip-share":92.28,
         "locale":"de"
     },
     {
@@ -19380,7 +19388,7 @@
         "bfs":2513,
         "town":"Biberist",
         "canton":"SO",
-        "zip-share":6.29,
+        "zip-share":4.89,
         "locale":"de"
     },
     {
@@ -19388,7 +19396,7 @@
         "bfs":2555,
         "town":"R\u00fcttenen",
         "canton":"SO",
-        "zip-share":3.17,
+        "zip-share":2.46,
         "locale":"de"
     },
     {
@@ -19396,7 +19404,7 @@
         "bfs":2542,
         "town":"Bellach",
         "canton":"SO",
-        "zip-share":0.26,
+        "zip-share":0.2,
         "locale":"de"
     },
     {
@@ -19404,7 +19412,7 @@
         "bfs":2550,
         "town":"Langendorf",
         "canton":"SO",
-        "zip-share":0.2,
+        "zip-share":0.15,
         "locale":"de"
     },
     {
@@ -19412,7 +19420,7 @@
         "bfs":2534,
         "town":"Zuchwil",
         "canton":"SO",
-        "zip-share":0.02,
+        "zip-share":0.01,
         "locale":"de"
     },
     {
@@ -22836,7 +22844,7 @@
         "bfs":4236,
         "town":"Muri (AG)",
         "canton":"AG",
-        "zip-share":95.92,
+        "zip-share":95.93,
         "locale":"de"
     },
     {
@@ -24580,7 +24588,7 @@
         "bfs":1008,
         "town":"Sch\u00fcpfheim",
         "canton":"LU",
-        "zip-share":83.19,
+        "zip-share":90.14,
         "locale":"de"
     },
     {
@@ -24588,7 +24596,7 @@
         "bfs":1007,
         "town":"Romoos",
         "canton":"LU",
-        "zip-share":7.43,
+        "zip-share":4.36,
         "locale":"de"
     },
     {
@@ -24596,7 +24604,7 @@
         "bfs":1004,
         "town":"Fl\u00fchli",
         "canton":"LU",
-        "zip-share":4.52,
+        "zip-share":2.66,
         "locale":"de"
     },
     {
@@ -24604,7 +24612,7 @@
         "bfs":1010,
         "town":"Escholzmatt-Marbach",
         "canton":"LU",
-        "zip-share":3.62,
+        "zip-share":2.12,
         "locale":"de"
     },
     {
@@ -24612,7 +24620,7 @@
         "bfs":1005,
         "town":"Hasle (LU)",
         "canton":"LU",
-        "zip-share":0.78,
+        "zip-share":0.46,
         "locale":"de"
     },
     {
@@ -24620,7 +24628,7 @@
         "bfs":1002,
         "town":"Entlebuch",
         "canton":"LU",
-        "zip-share":0.45,
+        "zip-share":0.27,
         "locale":"de"
     },
     {
@@ -33636,7 +33644,7 @@
         "bfs":219,
         "town":"Elsau",
         "canton":"ZH",
-        "zip-share":59.47,
+        "zip-share":59.49,
         "locale":"de"
     },
     {
@@ -33644,7 +33652,7 @@
         "bfs":230,
         "town":"Winterthur",
         "canton":"ZH",
-        "zip-share":40.53,
+        "zip-share":40.51,
         "locale":"de"
     },
     {
@@ -34012,7 +34020,7 @@
         "bfs":25,
         "town":"Dachsen",
         "canton":"ZH",
-        "zip-share":90.62,
+        "zip-share":90.34,
         "locale":"de"
     },
     {
@@ -34020,7 +34028,7 @@
         "bfs":34,
         "town":"Laufen-Uhwiesen",
         "canton":"ZH",
-        "zip-share":9.38,
+        "zip-share":9.66,
         "locale":"de"
     },
     {
@@ -35596,7 +35604,7 @@
         "bfs":3342,
         "town":"Eschenbach (SG)",
         "canton":"SG",
-        "zip-share":7.86,
+        "zip-share":7.87,
         "locale":"de"
     },
     {
@@ -36420,7 +36428,7 @@
         "bfs":1375,
         "town":"Unteriberg",
         "canton":"SZ",
-        "zip-share":91.96,
+        "zip-share":91.97,
         "locale":"de"
     },
     {
@@ -36428,7 +36436,7 @@
         "bfs":1368,
         "town":"Oberiberg",
         "canton":"SZ",
-        "zip-share":6.72,
+        "zip-share":6.7,
         "locale":"de"
     },
     {
@@ -36436,7 +36444,7 @@
         "bfs":1372,
         "town":"Schwyz",
         "canton":"SZ",
-        "zip-share":1.33,
+        "zip-share":1.32,
         "locale":"de"
     },
     {
@@ -37284,7 +37292,7 @@
         "bfs":4075,
         "town":"Rudolfstetten-Friedlisberg",
         "canton":"AG",
-        "zip-share":99.15,
+        "zip-share":99.16,
         "locale":"de"
     },
     {
@@ -37292,7 +37300,7 @@
         "bfs":4062,
         "town":"Berikon",
         "canton":"AG",
-        "zip-share":0.85,
+        "zip-share":0.84,
         "locale":"de"
     },
     {
