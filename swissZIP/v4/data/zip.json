@@ -5276,7 +5276,7 @@
         "bfs":2196,
         "town":"Fribourg",
         "canton":"FR",
-        "zip-share":88.63,
+        "zip-share":88.64,
         "locale":"fr"
     },
     {
@@ -5284,7 +5284,7 @@
         "bfs":2306,
         "town":"Tafers",
         "canton":"FR",
-        "zip-share":10.29,
+        "zip-share":10.28,
         "locale":"fr"
     },
     {
@@ -5292,7 +5292,7 @@
         "bfs":2306,
         "town":"Tafers",
         "canton":"FR",
-        "zip-share":10.29,
+        "zip-share":10.28,
         "locale":"de"
     },
     {
@@ -7612,7 +7612,7 @@
         "bfs":6024,
         "town":"Nendaz",
         "canton":"VS",
-        "zip-share":74.65,
+        "zip-share":74.47,
         "locale":"fr"
     },
     {
@@ -7620,7 +7620,7 @@
         "bfs":6266,
         "town":"Sion",
         "canton":"VS",
-        "zip-share":25.35,
+        "zip-share":25.53,
         "locale":"fr"
     },
     {
@@ -13516,7 +13516,7 @@
         "bfs":406,
         "town":"Hasle bei Burgdorf",
         "canton":"BE",
-        "zip-share":53.08,
+        "zip-share":53.04,
         "locale":"de"
     },
     {
@@ -13524,7 +13524,7 @@
         "bfs":956,
         "town":"R\u00fcegsau",
         "canton":"BE",
-        "zip-share":34.76,
+        "zip-share":34.81,
         "locale":"de"
     },
     {
@@ -13532,7 +13532,7 @@
         "bfs":955,
         "town":"L\u00fctzelfl\u00fch",
         "canton":"BE",
-        "zip-share":11.16,
+        "zip-share":11.15,
         "locale":"de"
     },
     {
@@ -13844,7 +13844,7 @@
         "bfs":613,
         "town":"Landiswil",
         "canton":"BE",
-        "zip-share":85.17,
+        "zip-share":85.2,
         "locale":"de"
     },
     {
@@ -13852,7 +13852,7 @@
         "bfs":955,
         "town":"L\u00fctzelfl\u00fch",
         "canton":"BE",
-        "zip-share":14.35,
+        "zip-share":14.33,
         "locale":"de"
     },
     {
@@ -15876,7 +15876,7 @@
         "bfs":843,
         "town":"Saanen",
         "canton":"BE",
-        "zip-share":98.06,
+        "zip-share":98.05,
         "locale":"de"
     },
     {
@@ -15884,7 +15884,7 @@
         "bfs":794,
         "town":"Zweisimmen",
         "canton":"BE",
-        "zip-share":1.94,
+        "zip-share":1.95,
         "locale":"de"
     },
     {
@@ -24980,7 +24980,7 @@
         "bfs":1097,
         "town":"Rickenbach (LU)",
         "canton":"LU",
-        "zip-share":75.29,
+        "zip-share":75.27,
         "locale":"de"
     },
     {
@@ -24988,7 +24988,7 @@
         "bfs":1081,
         "town":"Berom\u00fcnster",
         "canton":"LU",
-        "zip-share":24.71,
+        "zip-share":24.73,
         "locale":"de"
     },
     {
@@ -25932,7 +25932,7 @@
         "bfs":1505,
         "town":"Ennetb\u00fcrgen",
         "canton":"NW",
-        "zip-share":99.68,
+        "zip-share":99.67,
         "locale":"de"
     },
     {
@@ -25940,7 +25940,7 @@
         "bfs":1509,
         "town":"Stans",
         "canton":"NW",
-        "zip-share":0.32,
+        "zip-share":0.33,
         "locale":"de"
     },
     {
@@ -32444,7 +32444,7 @@
         "bfs":66,
         "town":"Opfikon",
         "canton":"ZH",
-        "zip-share":97.34,
+        "zip-share":97.35,
         "locale":"de"
     },
     {
@@ -35652,7 +35652,7 @@
         "bfs":3340,
         "town":"Rapperswil-Jona",
         "canton":"SG",
-        "zip-share":93.5,
+        "zip-share":93.58,
         "locale":"de"
     },
     {
@@ -35660,7 +35660,7 @@
         "bfs":1322,
         "town":"Freienbach",
         "canton":"SZ",
-        "zip-share":6.5,
+        "zip-share":6.42,
         "locale":"de"
     },
     {
@@ -37220,7 +37220,7 @@
         "bfs":247,
         "town":"Schlieren",
         "canton":"ZH",
-        "zip-share":91.33,
+        "zip-share":91.35,
         "locale":"de"
     },
     {
@@ -37228,7 +37228,7 @@
         "bfs":261,
         "town":"Z\u00fcrich",
         "canton":"ZH",
-        "zip-share":8.67,
+        "zip-share":8.65,
         "locale":"de"
     },
     {
@@ -37660,7 +37660,7 @@
         "bfs":3112,
         "town":"Schwende-R\u00fcte",
         "canton":"AI",
-        "zip-share":64.34,
+        "zip-share":64.44,
         "locale":"de"
     },
     {
@@ -37668,7 +37668,7 @@
         "bfs":3101,
         "town":"Appenzell",
         "canton":"AI",
-        "zip-share":26.91,
+        "zip-share":26.84,
         "locale":"de"
     },
     {
@@ -37676,7 +37676,7 @@
         "bfs":3104,
         "town":"Schlatt-Haslen",
         "canton":"AI",
-        "zip-share":7.79,
+        "zip-share":7.76,
         "locale":"de"
     },
     {
@@ -39420,7 +39420,7 @@
         "bfs":3271,
         "town":"Buchs (SG)",
         "canton":"SG",
-        "zip-share":64.15,
+        "zip-share":64.16,
         "locale":"de"
     },
     {
@@ -39428,7 +39428,7 @@
         "bfs":3273,
         "town":"Grabs",
         "canton":"SG",
-        "zip-share":30.94,
+        "zip-share":30.93,
         "locale":"de"
     },
     {
