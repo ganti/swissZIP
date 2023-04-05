@@ -44,7 +44,7 @@ def getGemeindeverzeichnis():
     else:
         sys.exit('File does not exist '+file_name)
 
-    dfTown = dfTown.dropna(0)
+    
     dfTown = dfTown.reset_index(drop=True)
     dfTown = dfTown.drop(['Ortschaftsname', 'Zusatzziffer', 'E', 'N'], axis=1)
     dfTown = dfTown.rename(columns={'PLZ': 'zipTown', 'BFS-Nr': 'bfs', 'Gemeindename': 'town', 'Kantonskürzel': 'canton', 'Sprache': 'locale'})
@@ -52,6 +52,7 @@ def getGemeindeverzeichnis():
 
     dfTown['bfs'] = dfTown['bfs'].astype(int)
     dfTown = dfTown.drop(['zipTown'], axis=1)
+    dfTown = dfTown[dfTown['canton'].notna()]
     return dfTown
 
 def getGebaeudeverzeichnis():
@@ -84,6 +85,15 @@ def sanatizeTownWithNumberAtEnd(df):
         df['town'] = df['town'].replace([old], new)
     return df
 
+def addSpecialCityZipsWithoutBuildings(df):
+    speicalCityZips = pd.read_csv('./add-city-zips.csv', sep=';', engine='python', dtype='unicode')
+    speicalCityZips['bfs'] = speicalCityZips['bfs'].astype(int)
+    speicalCityZips['zip'] = speicalCityZips['zip'].astype(int)
+    speicalCityZips['zip-share'] = speicalCityZips['zip-share'].astype(int)
+
+    df = pd.concat([speicalCityZips.dropna(), df], axis=0 )
+    return df
+
 def calculateZipShare(df):
     #calculate percentage of zip-share
     df['zip-share'] = df.groupby(['zip','town'])['town'].transform('count') / df.groupby(['zip'])['zip'].transform('count') * 100
@@ -96,14 +106,15 @@ def main():
     dfTown = getGemeindeverzeichnis()
     dfStreet = getGebaeudeverzeichnis()
     df = pd.merge(dfStreet, dfTown, on='bfs', how='left')
-
+    
     df = sanatizeTownWithNumberAtEnd(df)
     df = calculateZipShare(df)
+    df = addSpecialCityZipsWithoutBuildings(df)
     
     df = df.dropna().drop_duplicates()
     df = df.loc[:, ["zip","bfs",'town', 'canton', 'zip-share', 'locale']]
+    df = df.sort_values(by=['zip', 'zip-share', 'town'], ascending=[True, False, True])
     #save
-    df = df.sort_values(by=['zip', 'zip-share'], ascending=[True, False])
     df.to_json(r'../swissZIP/v4/data/zip.json', orient='records', indent=4);
     #uploadNewFile()
     #cleanup()
