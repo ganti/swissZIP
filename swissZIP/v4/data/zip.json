@@ -3700,7 +3700,7 @@
         "bfs":2054,
         "town":"Estavayer",
         "canton":"FR",
-        "zip-share":91.23,
+        "zip-share":91.25,
         "locale":"fr"
     },
     {
@@ -3708,7 +3708,7 @@
         "bfs":2008,
         "town":"Ch\u00e2tillon (FR)",
         "canton":"FR",
-        "zip-share":8.77,
+        "zip-share":8.75,
         "locale":"fr"
     },
     {
@@ -12084,7 +12084,7 @@
         "bfs":855,
         "town":"Schwarzenburg",
         "canton":"BE",
-        "zip-share":79.06,
+        "zip-share":79.12,
         "locale":"de"
     },
     {
@@ -12092,7 +12092,7 @@
         "bfs":852,
         "town":"Guggisberg",
         "canton":"BE",
-        "zip-share":17.08,
+        "zip-share":17.03,
         "locale":"de"
     },
     {
@@ -12100,7 +12100,7 @@
         "bfs":853,
         "town":"R\u00fcschegg",
         "canton":"BE",
-        "zip-share":3.86,
+        "zip-share":3.85,
         "locale":"de"
     },
     {
@@ -13468,7 +13468,7 @@
         "bfs":992,
         "town":"Wangen an der Aare",
         "canton":"BE",
-        "zip-share":84.68,
+        "zip-share":84.7,
         "locale":"de"
     },
     {
@@ -13540,7 +13540,7 @@
         "bfs":418,
         "town":"Oberburg",
         "canton":"BE",
-        "zip-share":61.14,
+        "zip-share":61.08,
         "locale":"de"
     },
     {
@@ -13548,7 +13548,7 @@
         "bfs":404,
         "town":"Burgdorf",
         "canton":"BE",
-        "zip-share":23.46,
+        "zip-share":23.52,
         "locale":"de"
     },
     {
@@ -13556,7 +13556,7 @@
         "bfs":955,
         "town":"L\u00fctzelfl\u00fch",
         "canton":"BE",
-        "zip-share":15.41,
+        "zip-share":15.4,
         "locale":"de"
     },
     {
@@ -16004,7 +16004,7 @@
         "bfs":587,
         "town":"Matten bei Interlaken",
         "canton":"BE",
-        "zip-share":40.72,
+        "zip-share":40.71,
         "locale":"de"
     },
     {
@@ -16012,7 +16012,7 @@
         "bfs":593,
         "town":"Unterseen",
         "canton":"BE",
-        "zip-share":29.02,
+        "zip-share":29.03,
         "locale":"de"
     },
     {
@@ -17084,7 +17084,7 @@
         "bfs":6240,
         "town":"Lens",
         "canton":"VS",
-        "zip-share":15.18,
+        "zip-share":15.17,
         "locale":"fr"
     },
     {
@@ -17100,7 +17100,7 @@
         "bfs":6235,
         "town":"Chippis",
         "canton":"VS",
-        "zip-share":90.62,
+        "zip-share":85.29,
         "locale":"fr"
     },
     {
@@ -17108,7 +17108,7 @@
         "bfs":6248,
         "town":"Sierre",
         "canton":"VS",
-        "zip-share":9.38,
+        "zip-share":14.71,
         "locale":"fr"
     },
     {
@@ -17188,7 +17188,7 @@
         "bfs":6253,
         "town":"Crans-Montana",
         "canton":"VS",
-        "zip-share":99.12,
+        "zip-share":99.13,
         "locale":"fr"
     },
     {
@@ -17196,7 +17196,7 @@
         "bfs":6253,
         "town":"Crans-Montana",
         "canton":"VS",
-        "zip-share":99.12,
+        "zip-share":99.13,
         "locale":"de"
     },
     {
@@ -17204,7 +17204,7 @@
         "bfs":6240,
         "town":"Lens",
         "canton":"VS",
-        "zip-share":0.79,
+        "zip-share":0.78,
         "locale":"fr"
     },
     {
@@ -17780,7 +17780,7 @@
         "bfs":2476,
         "town":"Hofstetten-Fl\u00fch",
         "canton":"SO",
-        "zip-share":58.96,
+        "zip-share":58.78,
         "locale":"de"
     },
     {
@@ -17788,7 +17788,7 @@
         "bfs":2471,
         "town":"B\u00e4ttwil",
         "canton":"SO",
-        "zip-share":40.97,
+        "zip-share":41.14,
         "locale":"de"
     },
     {
@@ -32508,7 +32508,7 @@
         "bfs":248,
         "town":"Uitikon",
         "canton":"ZH",
-        "zip-share":84.84,
+        "zip-share":84.85,
         "locale":"de"
     },
     {
@@ -32516,7 +32516,7 @@
         "bfs":261,
         "town":"Z\u00fcrich",
         "canton":"ZH",
-        "zip-share":14.94,
+        "zip-share":14.93,
         "locale":"de"
     },
     {
@@ -33140,7 +33140,7 @@
         "bfs":2952,
         "town":"Schleitheim",
         "canton":"SH",
-        "zip-share":96.4,
+        "zip-share":96.41,
         "locale":"de"
     },
     {
@@ -33756,7 +33756,7 @@
         "bfs":219,
         "town":"Elsau",
         "canton":"ZH",
-        "zip-share":59.54,
+        "zip-share":59.63,
         "locale":"de"
     },
     {
@@ -33764,7 +33764,7 @@
         "bfs":230,
         "town":"Winterthur",
         "canton":"ZH",
-        "zip-share":40.46,
+        "zip-share":40.37,
         "locale":"de"
     },
     {
@@ -35092,7 +35092,7 @@
         "bfs":4911,
         "town":"B\u00fcrglen (TG)",
         "canton":"TG",
-        "zip-share":92.84,
+        "zip-share":92.85,
         "locale":"de"
     },
     {
@@ -35100,7 +35100,7 @@
         "bfs":4921,
         "town":"Bussnang",
         "canton":"TG",
-        "zip-share":7.05,
+        "zip-share":7.04,
         "locale":"de"
     },
     {
@@ -35492,7 +35492,7 @@
         "bfs":115,
         "town":"Gossau (ZH)",
         "canton":"ZH",
-        "zip-share":66.2,
+        "zip-share":66.24,
         "locale":"de"
     },
     {
@@ -35500,7 +35500,7 @@
         "bfs":198,
         "town":"Uster",
         "canton":"ZH",
-        "zip-share":33.8,
+        "zip-share":33.76,
         "locale":"de"
     },
     {
@@ -39084,7 +39084,7 @@
         "bfs":3237,
         "town":"Thal",
         "canton":"SG",
-        "zip-share":98.02,
+        "zip-share":98.08,
         "locale":"de"
     },
     {
@@ -39092,7 +39092,7 @@
         "bfs":3038,
         "town":"Wolfhalden",
         "canton":"AR",
-        "zip-share":1.74,
+        "zip-share":1.68,
         "locale":"de"
     },
     {
@@ -40276,7 +40276,7 @@
         "bfs":3379,
         "town":"Wattwil",
         "canton":"SG",
-        "zip-share":95.72,
+        "zip-share":95.73,
         "locale":"de"
     },
     {
@@ -40284,7 +40284,7 @@
         "bfs":3396,
         "town":"Neckertal",
         "canton":"SG",
-        "zip-share":4.13,
+        "zip-share":4.12,
         "locale":"de"
     },
     {
