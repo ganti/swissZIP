@@ -3116,7 +3116,7 @@
         "bfs":5938,
         "town":"Yverdon-les-Bains",
         "canton":"VD",
-        "zip-share":92.68,
+        "zip-share":96.19,
         "locale":"fr"
     },
     {
@@ -3124,7 +3124,7 @@
         "bfs":5909,
         "town":"Cheseaux-Nor\u00e9az",
         "canton":"VD",
-        "zip-share":7.29,
+        "zip-share":3.78,
         "locale":"fr"
     },
     {
@@ -8088,19 +8088,35 @@
         "locale":"fr"
     },
     {
+        "zip":2074,
+        "bfs":6461,
+        "town":"La T\u00e8ne",
+        "canton":"NE",
+        "zip-share":100.0,
+        "locale":"de"
+    },
+    {
         "zip":2075,
         "bfs":6461,
         "town":"La T\u00e8ne",
         "canton":"NE",
-        "zip-share":98.91,
+        "zip-share":99.18,
         "locale":"fr"
+    },
+    {
+        "zip":2075,
+        "bfs":6461,
+        "town":"La T\u00e8ne",
+        "canton":"NE",
+        "zip-share":99.18,
+        "locale":"de"
     },
     {
         "zip":2075,
         "bfs":6451,
         "town":"Cornaux",
         "canton":"NE",
-        "zip-share":1.09,
+        "zip-share":0.82,
         "locale":"fr"
     },
     {
@@ -12660,7 +12676,7 @@
         "bfs":495,
         "town":"Gampelen",
         "canton":"BE",
-        "zip-share":79.69,
+        "zip-share":79.6,
         "locale":"de"
     },
     {
@@ -12668,7 +12684,7 @@
         "bfs":496,
         "town":"Ins",
         "canton":"BE",
-        "zip-share":14.96,
+        "zip-share":14.95,
         "locale":"de"
     },
     {
@@ -12676,7 +12692,7 @@
         "bfs":2284,
         "town":"Mont-Vully",
         "canton":"FR",
-        "zip-share":4.99,
+        "zip-share":4.98,
         "locale":"fr"
     },
     {
@@ -12684,7 +12700,7 @@
         "bfs":2284,
         "town":"Mont-Vully",
         "canton":"FR",
-        "zip-share":4.99,
+        "zip-share":4.98,
         "locale":"de"
     },
     {
@@ -12692,8 +12708,16 @@
         "bfs":6461,
         "town":"La T\u00e8ne",
         "canton":"NE",
-        "zip-share":0.36,
+        "zip-share":0.47,
         "locale":"fr"
+    },
+    {
+        "zip":3236,
+        "bfs":6461,
+        "town":"La T\u00e8ne",
+        "canton":"NE",
+        "zip-share":0.47,
+        "locale":"de"
     },
     {
         "zip":3237,
@@ -13468,15 +13492,7 @@
         "bfs":992,
         "town":"Wangen an der Aare",
         "canton":"BE",
-        "zip-share":84.7,
-        "locale":"de"
-    },
-    {
-        "zip":3380,
-        "bfs":995,
-        "town":"Wiedlisbach",
-        "canton":"BE",
-        "zip-share":8.79,
+        "zip-share":88.59,
         "locale":"de"
     },
     {
@@ -13484,7 +13500,15 @@
         "bfs":990,
         "town":"Walliswil bei Niederbipp",
         "canton":"BE",
-        "zip-share":6.52,
+        "zip-share":6.82,
+        "locale":"de"
+    },
+    {
+        "zip":3380,
+        "bfs":995,
+        "town":"Wiedlisbach",
+        "canton":"BE",
+        "zip-share":4.6,
         "locale":"de"
     },
     {
@@ -17996,7 +18020,7 @@
         "bfs":2761,
         "town":"Aesch (BL)",
         "canton":"BL",
-        "zip-share":99.18,
+        "zip-share":98.37,
         "locale":"de"
     },
     {
@@ -18004,7 +18028,7 @@
         "bfs":2772,
         "town":"Pfeffingen",
         "canton":"BL",
-        "zip-share":0.82,
+        "zip-share":1.63,
         "locale":"de"
     },
     {
@@ -18020,7 +18044,7 @@
         "bfs":2773,
         "town":"Reinach (BL)",
         "canton":"BL",
-        "zip-share":99.33,
+        "zip-share":99.39,
         "locale":"de"
     },
     {
@@ -18033,18 +18057,18 @@
     },
     {
         "zip":4153,
-        "bfs":2761,
-        "town":"Aesch (BL)",
-        "canton":"BL",
-        "zip-share":0.11,
-        "locale":"de"
-    },
-    {
-        "zip":4153,
         "bfs":2769,
         "town":"M\u00fcnchenstein",
         "canton":"BL",
         "zip-share":0.09,
+        "locale":"de"
+    },
+    {
+        "zip":4153,
+        "bfs":2761,
+        "town":"Aesch (BL)",
+        "canton":"BL",
+        "zip-share":0.06,
         "locale":"de"
     },
     {
@@ -19652,7 +19676,7 @@
         "bfs":971,
         "town":"Attiswil",
         "canton":"BE",
-        "zip-share":93.91,
+        "zip-share":94.73,
         "locale":"de"
     },
     {
@@ -19660,7 +19684,7 @@
         "bfs":992,
         "town":"Wangen an der Aare",
         "canton":"BE",
-        "zip-share":4.35,
+        "zip-share":4.39,
         "locale":"de"
     },
     {
@@ -19668,7 +19692,7 @@
         "bfs":995,
         "town":"Wiedlisbach",
         "canton":"BE",
-        "zip-share":1.74,
+        "zip-share":0.88,
         "locale":"de"
     },
     {
@@ -19692,7 +19716,7 @@
         "bfs":987,
         "town":"Rumisberg",
         "canton":"BE",
-        "zip-share":76.85,
+        "zip-share":77.45,
         "locale":"de"
     },
     {
@@ -19700,7 +19724,7 @@
         "bfs":975,
         "town":"Farnern",
         "canton":"BE",
-        "zip-share":21.6,
+        "zip-share":21.76,
         "locale":"de"
     },
     {
@@ -19708,7 +19732,7 @@
         "bfs":995,
         "town":"Wiedlisbach",
         "canton":"BE",
-        "zip-share":1.56,
+        "zip-share":0.78,
         "locale":"de"
     },
     {
@@ -21148,7 +21172,7 @@
         "bfs":954,
         "town":"Huttwil",
         "canton":"BE",
-        "zip-share":99.98,
+        "zip-share":99.99,
         "locale":"de"
     },
     {
@@ -21156,7 +21180,7 @@
         "bfs":953,
         "town":"Eriswil",
         "canton":"BE",
-        "zip-share":0.02,
+        "zip-share":0.01,
         "locale":"de"
     },
     {
@@ -21164,7 +21188,7 @@
         "bfs":953,
         "town":"Eriswil",
         "canton":"BE",
-        "zip-share":94.28,
+        "zip-share":89.17,
         "locale":"de"
     },
     {
@@ -21172,7 +21196,7 @@
         "bfs":954,
         "town":"Huttwil",
         "canton":"BE",
-        "zip-share":2.41,
+        "zip-share":4.56,
         "locale":"de"
     },
     {
@@ -21180,7 +21204,7 @@
         "bfs":957,
         "town":"Sumiswald",
         "canton":"BE",
-        "zip-share":2.11,
+        "zip-share":3.99,
         "locale":"de"
     },
     {
@@ -21188,7 +21212,7 @@
         "bfs":1135,
         "town":"Luthern",
         "canton":"LU",
-        "zip-share":0.75,
+        "zip-share":1.42,
         "locale":"de"
     },
     {
@@ -21196,7 +21220,7 @@
         "bfs":1145,
         "town":"Ufhusen",
         "canton":"LU",
-        "zip-share":0.45,
+        "zip-share":0.85,
         "locale":"de"
     },
     {
