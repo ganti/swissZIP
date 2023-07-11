@@ -27608,6 +27608,14 @@
         "locale":"it"
     },
     {
+        "zip":6685,
+        "bfs":5304,
+        "town":"Bosco\/Gurin",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"de"
+    },
+    {
         "zip":6690,
         "bfs":5310,
         "town":"Cevio",
@@ -35804,7 +35812,7 @@
         "bfs":3341,
         "town":"Gommiswald",
         "canton":"SG",
-        "zip-share":57.16,
+        "zip-share":57.56,
         "locale":"de"
     },
     {
@@ -35812,7 +35820,7 @@
         "bfs":3379,
         "town":"Wattwil",
         "canton":"SG",
-        "zip-share":42.84,
+        "zip-share":42.44,
         "locale":"de"
     },
     {
