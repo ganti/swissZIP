@@ -1020,15 +1020,7 @@
         "bfs":5629,
         "town":"Clarmont",
         "canton":"VD",
-        "zip-share":90.24,
-        "locale":"fr"
-    },
-    {
-        "zip":1127,
-        "bfs":5656,
-        "town":"Hautemorges",
-        "canton":"VD",
-        "zip-share":9.76,
+        "zip-share":100.0,
         "locale":"fr"
     },
     {
@@ -17892,7 +17884,7 @@
         "bfs":2831,
         "town":"Pratteln",
         "canton":"BL",
-        "zip-share":92.99,
+        "zip-share":95.09,
         "locale":"de"
     },
     {
@@ -17900,7 +17892,7 @@
         "bfs":2770,
         "town":"Muttenz",
         "canton":"BL",
-        "zip-share":6.71,
+        "zip-share":4.6,
         "locale":"de"
     },
     {
@@ -17908,7 +17900,7 @@
         "bfs":2822,
         "town":"Augst",
         "canton":"BL",
-        "zip-share":0.15,
+        "zip-share":0.16,
         "locale":"de"
     },
     {
