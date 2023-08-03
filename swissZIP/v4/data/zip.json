@@ -4036,7 +4036,7 @@
         "bfs":2054,
         "town":"Estavayer",
         "canton":"FR",
-        "zip-share":96.16,
+        "zip-share":96.21,
         "locale":"fr"
     },
     {
@@ -4044,7 +4044,7 @@
         "bfs":2043,
         "town":"S\u00e9vaz",
         "canton":"FR",
-        "zip-share":3.84,
+        "zip-share":3.79,
         "locale":"fr"
     },
     {
@@ -7236,7 +7236,7 @@
         "bfs":6266,
         "town":"Sion",
         "canton":"VS",
-        "zip-share":90.57,
+        "zip-share":90.68,
         "locale":"fr"
     },
     {
@@ -7244,7 +7244,7 @@
         "bfs":6246,
         "town":"Saint-L\u00e9onard",
         "canton":"VS",
-        "zip-share":9.18,
+        "zip-share":9.08,
         "locale":"fr"
     },
     {
@@ -14852,7 +14852,7 @@
         "bfs":939,
         "town":"Steffisburg",
         "canton":"BE",
-        "zip-share":90.73,
+        "zip-share":90.74,
         "locale":"de"
     },
     {
@@ -14860,7 +14860,7 @@
         "bfs":928,
         "town":"Heimberg",
         "canton":"BE",
-        "zip-share":9.27,
+        "zip-share":9.26,
         "locale":"de"
     },
     {
@@ -17004,7 +17004,7 @@
         "bfs":6248,
         "town":"Sierre",
         "canton":"VS",
-        "zip-share":82.89,
+        "zip-share":82.93,
         "locale":"fr"
     },
     {
@@ -17012,7 +17012,7 @@
         "bfs":6253,
         "town":"Crans-Montana",
         "canton":"VS",
-        "zip-share":13.84,
+        "zip-share":13.8,
         "locale":"fr"
     },
     {
@@ -17020,7 +17020,7 @@
         "bfs":6253,
         "town":"Crans-Montana",
         "canton":"VS",
-        "zip-share":13.84,
+        "zip-share":13.8,
         "locale":"de"
     },
     {
@@ -21660,7 +21660,7 @@
         "bfs":4203,
         "town":"M\u00f6riken-Wildegg",
         "canton":"AG",
-        "zip-share":97.39,
+        "zip-share":97.4,
         "locale":"de"
     },
     {
@@ -22620,7 +22620,7 @@
         "bfs":4065,
         "town":"Dottikon",
         "canton":"AG",
-        "zip-share":59.37,
+        "zip-share":59.35,
         "locale":"de"
     },
     {
@@ -22628,7 +22628,7 @@
         "bfs":4080,
         "town":"Villmergen",
         "canton":"AG",
-        "zip-share":40.63,
+        "zip-share":40.65,
         "locale":"de"
     },
     {
@@ -23540,7 +23540,7 @@
         "bfs":1024,
         "town":"Emmen",
         "canton":"LU",
-        "zip-share":94.99,
+        "zip-share":95.0,
         "locale":"de"
     },
     {
@@ -23548,7 +23548,7 @@
         "bfs":1061,
         "town":"Luzern",
         "canton":"LU",
-        "zip-share":3.89,
+        "zip-share":3.88,
         "locale":"de"
     },
     {
@@ -24052,7 +24052,7 @@
         "bfs":1403,
         "town":"Giswil",
         "canton":"OW",
-        "zip-share":91.85,
+        "zip-share":91.83,
         "locale":"de"
     },
     {
@@ -24060,7 +24060,7 @@
         "bfs":1406,
         "town":"Sachseln",
         "canton":"OW",
-        "zip-share":8.15,
+        "zip-share":8.17,
         "locale":"de"
     },
     {
@@ -24876,7 +24876,7 @@
         "bfs":1103,
         "town":"Sursee",
         "canton":"LU",
-        "zip-share":66.18,
+        "zip-share":66.19,
         "locale":"de"
     },
     {
@@ -24884,7 +24884,7 @@
         "bfs":1091,
         "town":"Mauensee",
         "canton":"LU",
-        "zip-share":18.28,
+        "zip-share":18.27,
         "locale":"de"
     },
     {
@@ -24892,7 +24892,7 @@
         "bfs":1095,
         "town":"Oberkirch",
         "canton":"LU",
-        "zip-share":14.84,
+        "zip-share":14.83,
         "locale":"de"
     },
     {
@@ -25068,7 +25068,7 @@
         "bfs":1104,
         "town":"Triengen",
         "canton":"LU",
-        "zip-share":93.55,
+        "zip-share":93.56,
         "locale":"de"
     },
     {
@@ -25076,7 +25076,7 @@
         "bfs":1125,
         "town":"Dagmersellen",
         "canton":"LU",
-        "zip-share":6.45,
+        "zip-share":6.44,
         "locale":"de"
     },
     {
@@ -26092,7 +26092,7 @@
         "bfs":1402,
         "town":"Engelberg",
         "canton":"OW",
-        "zip-share":82.26,
+        "zip-share":82.36,
         "locale":"de"
     },
     {
@@ -26100,7 +26100,7 @@
         "bfs":1511,
         "town":"Wolfenschiessen",
         "canton":"NW",
-        "zip-share":17.19,
+        "zip-share":17.09,
         "locale":"de"
     },
     {
@@ -35868,7 +35868,7 @@
         "bfs":3342,
         "town":"Eschenbach (SG)",
         "canton":"SG",
-        "zip-share":93.74,
+        "zip-share":93.59,
         "locale":"de"
     },
     {
@@ -35876,7 +35876,7 @@
         "bfs":3340,
         "town":"Rapperswil-Jona",
         "canton":"SG",
-        "zip-share":6.26,
+        "zip-share":6.41,
         "locale":"de"
     },
     {
