@@ -4364,15 +4364,7 @@
         "bfs":5805,
         "town":"Oron",
         "canton":"VD",
-        "zip-share":99.89,
-        "locale":"fr"
-    },
-    {
-        "zip":1612,
-        "bfs":2321,
-        "town":"Attalens",
-        "canton":"FR",
-        "zip-share":0.11,
+        "zip-share":100.0,
         "locale":"fr"
     },
     {
@@ -4420,7 +4412,7 @@
         "bfs":2321,
         "town":"Attalens",
         "canton":"FR",
-        "zip-share":51.81,
+        "zip-share":51.9,
         "locale":"fr"
     },
     {
@@ -4428,7 +4420,7 @@
         "bfs":2333,
         "town":"Remaufens",
         "canton":"FR",
-        "zip-share":48.19,
+        "zip-share":48.1,
         "locale":"fr"
     },
     {
@@ -4548,7 +4540,7 @@
         "bfs":2125,
         "town":"Bulle",
         "canton":"FR",
-        "zip-share":99.76,
+        "zip-share":99.74,
         "locale":"fr"
     },
     {
@@ -4572,7 +4564,7 @@
         "bfs":2160,
         "town":"Vuadens",
         "canton":"FR",
-        "zip-share":0.03,
+        "zip-share":0.05,
         "locale":"fr"
     },
     {
@@ -6124,7 +6116,7 @@
         "bfs":2284,
         "town":"Mont-Vully",
         "canton":"FR",
-        "zip-share":63.55,
+        "zip-share":63.75,
         "locale":"fr"
     },
     {
@@ -6132,7 +6124,7 @@
         "bfs":2284,
         "town":"Mont-Vully",
         "canton":"FR",
-        "zip-share":63.55,
+        "zip-share":63.75,
         "locale":"de"
     },
     {
@@ -6140,7 +6132,7 @@
         "bfs":5464,
         "town":"Vully-les-Lacs",
         "canton":"VD",
-        "zip-share":36.45,
+        "zip-share":36.25,
         "locale":"fr"
     },
     {
@@ -17340,7 +17332,7 @@
         "bfs":6173,
         "town":"Bitsch",
         "canton":"VS",
-        "zip-share":91.04,
+        "zip-share":91.05,
         "locale":"de"
     },
     {
@@ -17348,7 +17340,7 @@
         "bfs":6010,
         "town":"Termen",
         "canton":"VS",
-        "zip-share":8.96,
+        "zip-share":8.95,
         "locale":"de"
     },
     {
@@ -23532,7 +23524,7 @@
         "bfs":1024,
         "town":"Emmen",
         "canton":"LU",
-        "zip-share":95.0,
+        "zip-share":95.01,
         "locale":"de"
     },
     {
@@ -25412,7 +25404,7 @@
         "bfs":1031,
         "town":"Hochdorf",
         "canton":"LU",
-        "zip-share":58.01,
+        "zip-share":58.11,
         "locale":"de"
     },
     {
@@ -25420,7 +25412,7 @@
         "bfs":1039,
         "town":"R\u00f6merswil",
         "canton":"LU",
-        "zip-share":33.59,
+        "zip-share":33.51,
         "locale":"de"
     },
     {
@@ -25428,7 +25420,7 @@
         "bfs":1032,
         "town":"Hohenrain",
         "canton":"LU",
-        "zip-share":8.4,
+        "zip-share":8.38,
         "locale":"de"
     },
     {
@@ -25644,7 +25636,7 @@
         "bfs":1710,
         "town":"Walchwil",
         "canton":"ZG",
-        "zip-share":80.03,
+        "zip-share":80.04,
         "locale":"de"
     },
     {
@@ -25652,7 +25644,7 @@
         "bfs":1362,
         "town":"Arth",
         "canton":"SZ",
-        "zip-share":15.09,
+        "zip-share":15.08,
         "locale":"de"
     },
     {
@@ -25660,7 +25652,7 @@
         "bfs":1711,
         "town":"Zug",
         "canton":"ZG",
-        "zip-share":4.89,
+        "zip-share":4.88,
         "locale":"de"
     },
     {
@@ -27332,7 +27324,7 @@
         "bfs":5115,
         "town":"Losone",
         "canton":"TI",
-        "zip-share":98.37,
+        "zip-share":98.48,
         "locale":"it"
     },
     {
@@ -27340,7 +27332,7 @@
         "bfs":5091,
         "town":"Ascona",
         "canton":"TI",
-        "zip-share":1.63,
+        "zip-share":1.52,
         "locale":"it"
     },
     {
@@ -29044,7 +29036,7 @@
         "bfs":5151,
         "town":"Bioggio",
         "canton":"TI",
-        "zip-share":72.8,
+        "zip-share":72.72,
         "locale":"it"
     },
     {
@@ -29052,7 +29044,7 @@
         "bfs":5230,
         "town":"Vernate",
         "canton":"TI",
-        "zip-share":25.18,
+        "zip-share":25.16,
         "locale":"it"
     },
     {
@@ -29060,7 +29052,7 @@
         "bfs":5161,
         "town":"Cademario",
         "canton":"TI",
-        "zip-share":1.87,
+        "zip-share":1.97,
         "locale":"it"
     },
     {
@@ -31244,7 +31236,7 @@
         "bfs":3784,
         "town":"Pontresina",
         "canton":"GR",
-        "zip-share":91.86,
+        "zip-share":91.85,
         "locale":"rm"
     },
     {
@@ -34420,7 +34412,7 @@
         "bfs":4566,
         "town":"Frauenfeld",
         "canton":"TG",
-        "zip-share":89.26,
+        "zip-share":89.27,
         "locale":"de"
     },
     {
@@ -37132,7 +37124,7 @@
         "bfs":247,
         "town":"Schlieren",
         "canton":"ZH",
-        "zip-share":91.39,
+        "zip-share":91.45,
         "locale":"de"
     },
     {
@@ -37140,7 +37132,7 @@
         "bfs":261,
         "town":"Z\u00fcrich",
         "canton":"ZH",
-        "zip-share":8.61,
+        "zip-share":8.55,
         "locale":"de"
     },
     {
@@ -39228,7 +39220,7 @@
         "bfs":3251,
         "town":"Altst\u00e4tten",
         "canton":"SG",
-        "zip-share":9.12,
+        "zip-share":9.13,
         "locale":"de"
     },
     {
