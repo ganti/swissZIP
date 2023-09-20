@@ -6804,7 +6804,7 @@
         "bfs":6155,
         "town":"Saint-Gingolph",
         "canton":"VS",
-        "zip-share":99.73,
+        "zip-share":99.77,
         "locale":"fr"
     },
     {
@@ -6812,7 +6812,7 @@
         "bfs":6154,
         "town":"Port-Valais",
         "canton":"VS",
-        "zip-share":0.27,
+        "zip-share":0.23,
         "locale":"fr"
     },
     {
@@ -7252,7 +7252,7 @@
         "bfs":6266,
         "town":"Sion",
         "canton":"VS",
-        "zip-share":87.41,
+        "zip-share":87.22,
         "locale":"fr"
     },
     {
@@ -7260,7 +7260,7 @@
         "bfs":6265,
         "town":"Savi\u00e8se",
         "canton":"VS",
-        "zip-share":12.59,
+        "zip-share":12.78,
         "locale":"fr"
     },
     {
@@ -11916,7 +11916,7 @@
         "bfs":879,
         "town":"Riggisberg",
         "canton":"BE",
-        "zip-share":59.57,
+        "zip-share":59.68,
         "locale":"de"
     },
     {
@@ -11924,7 +11924,7 @@
         "bfs":889,
         "town":"Thurnen",
         "canton":"BE",
-        "zip-share":40.43,
+        "zip-share":40.32,
         "locale":"de"
     },
     {
@@ -13396,7 +13396,7 @@
         "bfs":989,
         "town":"Th\u00f6rigen",
         "canton":"BE",
-        "zip-share":78.06,
+        "zip-share":78.09,
         "locale":"de"
     },
     {
@@ -13404,7 +13404,7 @@
         "bfs":985,
         "town":"Ochlenberg",
         "canton":"BE",
-        "zip-share":21.94,
+        "zip-share":21.91,
         "locale":"de"
     },
     {
@@ -14036,7 +14036,7 @@
         "bfs":955,
         "town":"L\u00fctzelfl\u00fch",
         "canton":"BE",
-        "zip-share":6.86,
+        "zip-share":6.85,
         "locale":"de"
     },
     {
@@ -15108,7 +15108,7 @@
         "bfs":611,
         "town":"Kiesen",
         "canton":"BE",
-        "zip-share":58.86,
+        "zip-share":58.78,
         "locale":"de"
     },
     {
@@ -15116,7 +15116,7 @@
         "bfs":622,
         "town":"Oppligen",
         "canton":"BE",
-        "zip-share":24.07,
+        "zip-share":24.17,
         "locale":"de"
     },
     {
@@ -15124,7 +15124,7 @@
         "bfs":868,
         "town":"Jaberg",
         "canton":"BE",
-        "zip-share":13.36,
+        "zip-share":13.34,
         "locale":"de"
     },
     {
@@ -22692,7 +22692,7 @@
         "bfs":4080,
         "town":"Villmergen",
         "canton":"AG",
-        "zip-share":99.56,
+        "zip-share":99.57,
         "locale":"de"
     },
     {
@@ -22700,7 +22700,7 @@
         "bfs":4082,
         "town":"Wohlen (AG)",
         "canton":"AG",
-        "zip-share":0.44,
+        "zip-share":0.43,
         "locale":"de"
     },
     {
@@ -22724,7 +22724,7 @@
         "bfs":4196,
         "town":"Fahrwangen",
         "canton":"AG",
-        "zip-share":99.1,
+        "zip-share":99.11,
         "locale":"de"
     },
     {
@@ -22732,7 +22732,7 @@
         "bfs":4202,
         "town":"Meisterschwanden",
         "canton":"AG",
-        "zip-share":0.9,
+        "zip-share":0.89,
         "locale":"de"
     },
     {
@@ -25772,7 +25772,7 @@
         "bfs":1705,
         "town":"Neuheim",
         "canton":"ZG",
-        "zip-share":0.38,
+        "zip-share":0.37,
         "locale":"de"
     },
     {
@@ -26020,7 +26020,7 @@
         "bfs":1504,
         "town":"Emmetten",
         "canton":"NW",
-        "zip-share":92.13,
+        "zip-share":92.04,
         "locale":"de"
     },
     {
@@ -26028,7 +26028,7 @@
         "bfs":1501,
         "town":"Beckenried",
         "canton":"NW",
-        "zip-share":7.87,
+        "zip-share":7.96,
         "locale":"de"
     },
     {
@@ -36532,7 +36532,7 @@
         "bfs":1342,
         "town":"Galgenen",
         "canton":"SZ",
-        "zip-share":47.2,
+        "zip-share":47.19,
         "locale":"de"
     },
     {
@@ -36540,7 +36540,7 @@
         "bfs":1346,
         "town":"Sch\u00fcbelbach",
         "canton":"SZ",
-        "zip-share":39.32,
+        "zip-share":39.34,
         "locale":"de"
     },
     {
@@ -36548,7 +36548,7 @@
         "bfs":1349,
         "town":"Wangen (SZ)",
         "canton":"SZ",
-        "zip-share":13.48,
+        "zip-share":13.47,
         "locale":"de"
     },
     {
@@ -37612,7 +37612,7 @@
         "bfs":3112,
         "town":"Schwende-R\u00fcte",
         "canton":"AI",
-        "zip-share":64.59,
+        "zip-share":64.56,
         "locale":"de"
     },
     {
@@ -37620,7 +37620,7 @@
         "bfs":3101,
         "town":"Appenzell",
         "canton":"AI",
-        "zip-share":26.69,
+        "zip-share":26.7,
         "locale":"de"
     },
     {
@@ -37628,7 +37628,7 @@
         "bfs":3104,
         "town":"Schlatt-Haslen",
         "canton":"AI",
-        "zip-share":7.79,
+        "zip-share":7.8,
         "locale":"de"
     },
     {
@@ -38372,7 +38372,7 @@
         "bfs":3408,
         "town":"Uzwil",
         "canton":"SG",
-        "zip-share":87.67,
+        "zip-share":87.68,
         "locale":"de"
     },
     {
@@ -38380,7 +38380,7 @@
         "bfs":3407,
         "town":"Oberuzwil",
         "canton":"SG",
-        "zip-share":12.15,
+        "zip-share":12.14,
         "locale":"de"
     },
     {
@@ -38660,7 +38660,7 @@
         "bfs":4431,
         "town":"Roggwil (TG)",
         "canton":"TG",
-        "zip-share":3.16,
+        "zip-share":3.17,
         "locale":"de"
     },
     {
