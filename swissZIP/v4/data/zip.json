@@ -5028,7 +5028,7 @@
         "bfs":2096,
         "town":"Romont (FR)",
         "canton":"FR",
-        "zip-share":69.54,
+        "zip-share":69.57,
         "locale":"fr"
     },
     {
@@ -5036,7 +5036,7 @@
         "bfs":2087,
         "town":"M\u00e9zi\u00e8res (FR)",
         "canton":"FR",
-        "zip-share":23.56,
+        "zip-share":23.54,
         "locale":"fr"
     },
     {
@@ -5836,7 +5836,7 @@
         "bfs":2234,
         "town":"La Brillaz",
         "canton":"FR",
-        "zip-share":96.59,
+        "zip-share":96.6,
         "locale":"fr"
     },
     {
@@ -5844,7 +5844,7 @@
         "bfs":2173,
         "town":"Autigny",
         "canton":"FR",
-        "zip-share":3.41,
+        "zip-share":3.4,
         "locale":"fr"
     },
     {
@@ -6852,7 +6852,7 @@
         "bfs":6219,
         "town":"Vernayaz",
         "canton":"VS",
-        "zip-share":87.56,
+        "zip-share":87.54,
         "locale":"fr"
     },
     {
@@ -6860,7 +6860,7 @@
         "bfs":6136,
         "town":"Martigny",
         "canton":"VS",
-        "zip-share":12.44,
+        "zip-share":12.46,
         "locale":"fr"
     },
     {
@@ -6956,7 +6956,7 @@
         "bfs":6136,
         "town":"Martigny",
         "canton":"VS",
-        "zip-share":99.18,
+        "zip-share":99.17,
         "locale":"fr"
     },
     {
@@ -6964,7 +6964,7 @@
         "bfs":6219,
         "town":"Vernayaz",
         "canton":"VS",
-        "zip-share":0.82,
+        "zip-share":0.83,
         "locale":"fr"
     },
     {
@@ -7060,7 +7060,7 @@
         "bfs":6035,
         "town":"Sembrancher",
         "canton":"VS",
-        "zip-share":72.25,
+        "zip-share":72.27,
         "locale":"fr"
     },
     {
@@ -7068,7 +7068,7 @@
         "bfs":6037,
         "town":"Val de Bagnes",
         "canton":"VS",
-        "zip-share":27.75,
+        "zip-share":27.73,
         "locale":"fr"
     },
     {
@@ -9380,7 +9380,7 @@
         "bfs":750,
         "town":"Sutz-Lattrigen",
         "canton":"BE",
-        "zip-share":60.68,
+        "zip-share":60.77,
         "locale":"de"
     },
     {
@@ -9388,7 +9388,7 @@
         "bfs":742,
         "town":"M\u00f6rigen",
         "canton":"BE",
-        "zip-share":39.32,
+        "zip-share":39.23,
         "locale":"de"
     },
     {
@@ -13852,7 +13852,7 @@
         "bfs":410,
         "town":"H\u00f6chstetten",
         "canton":"BE",
-        "zip-share":57.92,
+        "zip-share":57.88,
         "locale":"de"
     },
     {
@@ -13860,7 +13860,7 @@
         "bfs":408,
         "town":"Hellsau",
         "canton":"BE",
-        "zip-share":42.08,
+        "zip-share":42.12,
         "locale":"de"
     },
     {
@@ -17212,7 +17212,7 @@
         "bfs":6253,
         "town":"Crans-Montana",
         "canton":"VS",
-        "zip-share":51.31,
+        "zip-share":51.41,
         "locale":"fr"
     },
     {
@@ -17220,7 +17220,7 @@
         "bfs":6253,
         "town":"Crans-Montana",
         "canton":"VS",
-        "zip-share":51.31,
+        "zip-share":51.41,
         "locale":"de"
     },
     {
@@ -17228,7 +17228,7 @@
         "bfs":6254,
         "town":"Noble-Contr\u00e9e",
         "canton":"VS",
-        "zip-share":48.69,
+        "zip-share":48.59,
         "locale":"fr"
     },
     {
@@ -22580,7 +22580,7 @@
         "bfs":4201,
         "town":"Lenzburg",
         "canton":"AG",
-        "zip-share":89.52,
+        "zip-share":89.53,
         "locale":"de"
     },
     {
@@ -22588,7 +22588,7 @@
         "bfs":4191,
         "town":"Ammerswil",
         "canton":"AG",
-        "zip-share":10.48,
+        "zip-share":10.47,
         "locale":"de"
     },
     {
@@ -23140,7 +23140,7 @@
         "bfs":4145,
         "town":"Teufenthal (AG)",
         "canton":"AG",
-        "zip-share":96.18,
+        "zip-share":96.08,
         "locale":"de"
     },
     {
@@ -23156,7 +23156,7 @@
         "bfs":4006,
         "town":"Gr\u00e4nichen",
         "canton":"AG",
-        "zip-share":1.27,
+        "zip-share":1.38,
         "locale":"de"
     },
     {
@@ -25420,7 +25420,7 @@
         "bfs":1031,
         "town":"Hochdorf",
         "canton":"LU",
-        "zip-share":86.84,
+        "zip-share":86.85,
         "locale":"de"
     },
     {
@@ -25428,7 +25428,7 @@
         "bfs":1039,
         "town":"R\u00f6merswil",
         "canton":"LU",
-        "zip-share":12.14,
+        "zip-share":12.13,
         "locale":"de"
     },
     {
@@ -27292,7 +27292,7 @@
         "bfs":5131,
         "town":"Tenero-Contra",
         "canton":"TI",
-        "zip-share":83.06,
+        "zip-share":83.11,
         "locale":"it"
     },
     {
@@ -27300,7 +27300,7 @@
         "bfs":5118,
         "town":"Minusio",
         "canton":"TI",
-        "zip-share":16.94,
+        "zip-share":16.89,
         "locale":"it"
     },
     {
@@ -27468,7 +27468,7 @@
         "bfs":5131,
         "town":"Tenero-Contra",
         "canton":"TI",
-        "zip-share":78.43,
+        "zip-share":78.47,
         "locale":"it"
     },
     {
@@ -27476,7 +27476,7 @@
         "bfs":5118,
         "town":"Minusio",
         "canton":"TI",
-        "zip-share":17.74,
+        "zip-share":17.71,
         "locale":"it"
     },
     {
@@ -27484,7 +27484,7 @@
         "bfs":5096,
         "town":"Brione sopra Minusio",
         "canton":"TI",
-        "zip-share":3.82,
+        "zip-share":3.81,
         "locale":"it"
     },
     {
@@ -30564,7 +30564,7 @@
         "bfs":3294,
         "town":"Pf\u00e4fers",
         "canton":"SG",
-        "zip-share":96.7,
+        "zip-share":96.71,
         "locale":"de"
     },
     {
@@ -30572,7 +30572,7 @@
         "bfs":3291,
         "town":"Bad Ragaz",
         "canton":"SG",
-        "zip-share":3.3,
+        "zip-share":3.29,
         "locale":"de"
     },
     {
@@ -31244,7 +31244,7 @@
         "bfs":3851,
         "town":"Davos",
         "canton":"GR",
-        "zip-share":95.36,
+        "zip-share":95.37,
         "locale":"de"
     },
     {
@@ -31252,7 +31252,7 @@
         "bfs":3544,
         "town":"Berg\u00fcn Filisur",
         "canton":"GR",
-        "zip-share":4.64,
+        "zip-share":4.63,
         "locale":"rm"
     },
     {
@@ -31260,7 +31260,7 @@
         "bfs":3544,
         "town":"Berg\u00fcn Filisur",
         "canton":"GR",
-        "zip-share":4.64,
+        "zip-share":4.63,
         "locale":"de"
     },
     {
@@ -33780,7 +33780,7 @@
         "bfs":4726,
         "town":"Fischingen",
         "canton":"TG",
-        "zip-share":88.24,
+        "zip-share":88.26,
         "locale":"de"
     },
     {
@@ -33788,7 +33788,7 @@
         "bfs":3392,
         "town":"Kirchberg (SG)",
         "canton":"SG",
-        "zip-share":9.33,
+        "zip-share":9.31,
         "locale":"de"
     },
     {
@@ -33796,7 +33796,7 @@
         "bfs":3394,
         "town":"Mosnang",
         "canton":"SG",
-        "zip-share":2.44,
+        "zip-share":2.43,
         "locale":"de"
     },
     {
@@ -35076,7 +35076,7 @@
         "bfs":4681,
         "town":"Langrickenbach",
         "canton":"TG",
-        "zip-share":57.95,
+        "zip-share":57.93,
         "locale":"de"
     },
     {
@@ -35084,7 +35084,7 @@
         "bfs":4901,
         "town":"Birwinken",
         "canton":"TG",
-        "zip-share":42.05,
+        "zip-share":42.07,
         "locale":"de"
     },
     {
@@ -39236,7 +39236,7 @@
         "bfs":3251,
         "town":"Altst\u00e4tten",
         "canton":"SG",
-        "zip-share":85.11,
+        "zip-share":85.05,
         "locale":"de"
     },
     {
@@ -39244,7 +39244,7 @@
         "bfs":3252,
         "town":"Eichberg",
         "canton":"SG",
-        "zip-share":14.89,
+        "zip-share":14.95,
         "locale":"de"
     },
     {
