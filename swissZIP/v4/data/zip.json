@@ -4684,7 +4684,7 @@
         "bfs":2131,
         "town":"Echarlens",
         "canton":"FR",
-        "zip-share":97.13,
+        "zip-share":97.15,
         "locale":"fr"
     },
     {
@@ -4692,7 +4692,7 @@
         "bfs":2129,
         "town":"Corbi\u00e8res",
         "canton":"FR",
-        "zip-share":2.87,
+        "zip-share":2.85,
         "locale":"fr"
     },
     {
@@ -5164,7 +5164,7 @@
         "bfs":2117,
         "town":"Villaz",
         "canton":"FR",
-        "zip-share":96.57,
+        "zip-share":96.58,
         "locale":"fr"
     },
     {
@@ -5172,7 +5172,7 @@
         "bfs":2114,
         "town":"Villorsonnens",
         "canton":"FR",
-        "zip-share":3.43,
+        "zip-share":3.42,
         "locale":"fr"
     },
     {
@@ -7988,7 +7988,7 @@
         "bfs":6487,
         "town":"Val-de-Ruz",
         "canton":"NE",
-        "zip-share":58.86,
+        "zip-share":59.01,
         "locale":"fr"
     },
     {
@@ -7996,7 +7996,7 @@
         "bfs":6458,
         "town":"Neuch\u00e2tel",
         "canton":"NE",
-        "zip-share":40.97,
+        "zip-share":40.83,
         "locale":"fr"
     },
     {
@@ -9380,7 +9380,7 @@
         "bfs":750,
         "town":"Sutz-Lattrigen",
         "canton":"BE",
-        "zip-share":61.06,
+        "zip-share":61.27,
         "locale":"de"
     },
     {
@@ -9388,7 +9388,7 @@
         "bfs":742,
         "town":"M\u00f6rigen",
         "canton":"BE",
-        "zip-share":38.94,
+        "zip-share":38.73,
         "locale":"de"
     },
     {
@@ -11260,7 +11260,7 @@
         "bfs":546,
         "town":"M\u00fcnchenbuchsee",
         "canton":"BE",
-        "zip-share":77.15,
+        "zip-share":77.16,
         "locale":"de"
     },
     {
@@ -11268,7 +11268,7 @@
         "bfs":310,
         "town":"Rapperswil (BE)",
         "canton":"BE",
-        "zip-share":20.52,
+        "zip-share":20.51,
         "locale":"de"
     },
     {
@@ -13948,7 +13948,7 @@
         "bfs":903,
         "town":"Lauperswil",
         "canton":"BE",
-        "zip-share":62.28,
+        "zip-share":62.3,
         "locale":"de"
     },
     {
@@ -13956,7 +13956,7 @@
         "bfs":905,
         "town":"R\u00fcderswil",
         "canton":"BE",
-        "zip-share":37.72,
+        "zip-share":37.7,
         "locale":"de"
     },
     {
@@ -23284,7 +23284,7 @@
         "bfs":2585,
         "town":"Walterswil (SO)",
         "canton":"SO",
-        "zip-share":87.93,
+        "zip-share":84.72,
         "locale":"de"
     },
     {
@@ -23292,7 +23292,7 @@
         "bfs":2573,
         "town":"Dulliken",
         "canton":"SO",
-        "zip-share":12.07,
+        "zip-share":15.28,
         "locale":"de"
     },
     {
@@ -23548,7 +23548,7 @@
         "bfs":1024,
         "town":"Emmen",
         "canton":"LU",
-        "zip-share":95.03,
+        "zip-share":95.02,
         "locale":"de"
     },
     {
@@ -25116,7 +25116,7 @@
         "bfs":1146,
         "town":"Wauwil",
         "canton":"LU",
-        "zip-share":81.15,
+        "zip-share":81.17,
         "locale":"de"
     },
     {
@@ -25124,7 +25124,7 @@
         "bfs":1091,
         "town":"Mauensee",
         "canton":"LU",
-        "zip-share":18.85,
+        "zip-share":18.83,
         "locale":"de"
     },
     {
@@ -30660,7 +30660,7 @@
         "bfs":3637,
         "town":"Rothenbrunnen",
         "canton":"GR",
-        "zip-share":73.84,
+        "zip-share":73.76,
         "locale":"rm"
     },
     {
@@ -30668,7 +30668,7 @@
         "bfs":3661,
         "town":"Cazis",
         "canton":"GR",
-        "zip-share":26.16,
+        "zip-share":26.24,
         "locale":"rm"
     },
     {
@@ -30676,7 +30676,7 @@
         "bfs":3661,
         "town":"Cazis",
         "canton":"GR",
-        "zip-share":26.16,
+        "zip-share":26.24,
         "locale":"de"
     },
     {
@@ -31308,7 +31308,7 @@
         "bfs":3786,
         "town":"Samedan",
         "canton":"GR",
-        "zip-share":4.32,
+        "zip-share":4.31,
         "locale":"rm"
     },
     {
@@ -33324,7 +33324,7 @@
         "bfs":4671,
         "town":"Kreuzlingen",
         "canton":"TG",
-        "zip-share":98.73,
+        "zip-share":98.74,
         "locale":"de"
     },
     {
@@ -34860,7 +34860,7 @@
         "bfs":4941,
         "town":"M\u00e4rstetten",
         "canton":"TG",
-        "zip-share":81.23,
+        "zip-share":81.2,
         "locale":"de"
     },
     {
@@ -34868,7 +34868,7 @@
         "bfs":4951,
         "town":"Wigoltingen",
         "canton":"TG",
-        "zip-share":18.77,
+        "zip-share":18.8,
         "locale":"de"
     },
     {
@@ -35076,7 +35076,7 @@
         "bfs":4681,
         "town":"Langrickenbach",
         "canton":"TG",
-        "zip-share":57.93,
+        "zip-share":57.79,
         "locale":"de"
     },
     {
@@ -35084,7 +35084,7 @@
         "bfs":4901,
         "town":"Birwinken",
         "canton":"TG",
-        "zip-share":42.07,
+        "zip-share":42.21,
         "locale":"de"
     },
     {
@@ -36292,7 +36292,7 @@
         "bfs":1323,
         "town":"Wollerau",
         "canton":"SZ",
-        "zip-share":59.15,
+        "zip-share":59.16,
         "locale":"de"
     },
     {
@@ -36300,7 +36300,7 @@
         "bfs":1322,
         "town":"Freienbach",
         "canton":"SZ",
-        "zip-share":40.65,
+        "zip-share":40.64,
         "locale":"de"
     },
     {
@@ -37420,7 +37420,7 @@
         "bfs":3203,
         "town":"St. Gallen",
         "canton":"SG",
-        "zip-share":1.48,
+        "zip-share":1.47,
         "locale":"de"
     },
     {
