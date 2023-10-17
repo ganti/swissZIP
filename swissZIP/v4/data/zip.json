@@ -7652,7 +7652,7 @@
         "bfs":6416,
         "town":"Milvignes",
         "canton":"NE",
-        "zip-share":97.88,
+        "zip-share":97.89,
         "locale":"fr"
     },
     {
@@ -7660,7 +7660,7 @@
         "bfs":6404,
         "town":"Boudry",
         "canton":"NE",
-        "zip-share":2.12,
+        "zip-share":2.11,
         "locale":"fr"
     },
     {
@@ -7724,15 +7724,7 @@
         "bfs":6413,
         "town":"Rochefort",
         "canton":"NE",
-        "zip-share":97.02,
-        "locale":"fr"
-    },
-    {
-        "zip":2019,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":1.92,
+        "zip-share":98.92,
         "locale":"fr"
     },
     {
@@ -7740,7 +7732,7 @@
         "bfs":6404,
         "town":"Boudry",
         "canton":"NE",
-        "zip-share":1.06,
+        "zip-share":1.08,
         "locale":"fr"
     },
     {
@@ -7865,18 +7857,10 @@
     },
     {
         "zip":2037,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":81.65,
-        "locale":"fr"
-    },
-    {
-        "zip":2037,
         "bfs":6413,
         "town":"Rochefort",
         "canton":"NE",
-        "zip-share":15.34,
+        "zip-share":83.6,
         "locale":"fr"
     },
     {
@@ -7884,51 +7868,19 @@
         "bfs":6458,
         "town":"Neuch\u00e2tel",
         "canton":"NE",
-        "zip-share":3.01,
+        "zip-share":16.4,
         "locale":"fr"
     },
     {
         "zip":2042,
         "bfs":6458,
         "town":"Neuch\u00e2tel",
-        "canton":"NE",
-        "zip-share":98.73,
-        "locale":"fr"
-    },
-    {
-        "zip":2042,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":1.27,
-        "locale":"fr"
-    },
-    {
-        "zip":2043,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":100.0,
-        "locale":"fr"
-    },
-    {
-        "zip":2046,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
         "canton":"NE",
         "zip-share":100.0,
         "locale":"fr"
     },
     {
         "zip":2052,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":100.0,
-        "locale":"fr"
-    },
-    {
-        "zip":2053,
         "bfs":6487,
         "town":"Val-de-Ruz",
         "canton":"NE",
@@ -7960,14 +7912,6 @@
         "locale":"fr"
     },
     {
-        "zip":2058,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":100.0,
-        "locale":"fr"
-    },
-    {
         "zip":2063,
         "bfs":6487,
         "town":"Val-de-Ruz",
@@ -7985,18 +7929,18 @@
     },
     {
         "zip":2067,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
+        "bfs":6458,
+        "town":"Neuch\u00e2tel",
         "canton":"NE",
-        "zip-share":59.01,
+        "zip-share":78.94,
         "locale":"fr"
     },
     {
         "zip":2067,
-        "bfs":6458,
-        "town":"Neuch\u00e2tel",
+        "bfs":6487,
+        "town":"Val-de-Ruz",
         "canton":"NE",
-        "zip-share":40.83,
+        "zip-share":20.74,
         "locale":"fr"
     },
     {
@@ -8004,7 +7948,7 @@
         "bfs":6453,
         "town":"Enges",
         "canton":"NE",
-        "zip-share":0.17,
+        "zip-share":0.32,
         "locale":"fr"
     },
     {
@@ -8304,30 +8248,6 @@
         "locale":"fr"
     },
     {
-        "zip":2206,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":100.0,
-        "locale":"fr"
-    },
-    {
-        "zip":2207,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":100.0,
-        "locale":"fr"
-    },
-    {
-        "zip":2208,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":100.0,
-        "locale":"fr"
-    },
-    {
         "zip":2300,
         "bfs":6421,
         "town":"La Chaux-de-Fonds",
@@ -8340,7 +8260,7 @@
         "bfs":6423,
         "town":"La Sagne",
         "canton":"NE",
-        "zip-share":81.91,
+        "zip-share":87.06,
         "locale":"fr"
     },
     {
@@ -8348,7 +8268,7 @@
         "bfs":6487,
         "town":"Val-de-Ruz",
         "canton":"NE",
-        "zip-share":11.83,
+        "zip-share":6.29,
         "locale":"fr"
     },
     {
@@ -8356,7 +8276,7 @@
         "bfs":6421,
         "town":"La Chaux-de-Fonds",
         "canton":"NE",
-        "zip-share":5.12,
+        "zip-share":5.44,
         "locale":"fr"
     },
     {
@@ -8364,7 +8284,7 @@
         "bfs":6437,
         "town":"Les Ponts-de-Martel",
         "canton":"NE",
-        "zip-share":1.14,
+        "zip-share":1.21,
         "locale":"fr"
     },
     {
@@ -8964,15 +8884,7 @@
         "bfs":724,
         "town":"Nods",
         "canton":"BE",
-        "zip-share":97.03,
-        "locale":"fr"
-    },
-    {
-        "zip":2518,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":2.97,
+        "zip-share":100.0,
         "locale":"fr"
     },
     {
@@ -9004,15 +8916,7 @@
         "bfs":6456,
         "town":"Ligni\u00e8res",
         "canton":"NE",
-        "zip-share":51.3,
-        "locale":"fr"
-    },
-    {
-        "zip":2523,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":34.87,
+        "zip-share":78.79,
         "locale":"fr"
     },
     {
@@ -9020,7 +8924,7 @@
         "bfs":6455,
         "town":"Le Landeron",
         "canton":"NE",
-        "zip-share":5.03,
+        "zip-share":7.71,
         "locale":"fr"
     },
     {
@@ -9028,7 +8932,7 @@
         "bfs":724,
         "town":"Nods",
         "canton":"BE",
-        "zip-share":5.03,
+        "zip-share":7.71,
         "locale":"fr"
     },
     {
@@ -9036,7 +8940,7 @@
         "bfs":723,
         "town":"La Neuveville",
         "canton":"BE",
-        "zip-share":3.77,
+        "zip-share":5.78,
         "locale":"de"
     },
     {
@@ -9044,7 +8948,7 @@
         "bfs":723,
         "town":"La Neuveville",
         "canton":"BE",
-        "zip-share":3.77,
+        "zip-share":5.78,
         "locale":"fr"
     },
     {
@@ -9620,15 +9524,7 @@
         "bfs":441,
         "town":"Renan (BE)",
         "canton":"BE",
-        "zip-share":75.99,
-        "locale":"fr"
-    },
-    {
-        "zip":2616,
-        "bfs":6487,
-        "town":"Val-de-Ruz",
-        "canton":"NE",
-        "zip-share":18.26,
+        "zip-share":92.97,
         "locale":"fr"
     },
     {
@@ -9636,7 +9532,7 @@
         "bfs":6421,
         "town":"La Chaux-de-Fonds",
         "canton":"NE",
-        "zip-share":5.75,
+        "zip-share":7.03,
         "locale":"fr"
     },
     {
@@ -36540,7 +36436,7 @@
         "bfs":1342,
         "town":"Galgenen",
         "canton":"SZ",
-        "zip-share":47.12,
+        "zip-share":47.11,
         "locale":"de"
     },
     {
@@ -36548,7 +36444,7 @@
         "bfs":1346,
         "town":"Sch\u00fcbelbach",
         "canton":"SZ",
-        "zip-share":39.35,
+        "zip-share":39.36,
         "locale":"de"
     },
     {
