@@ -7,7 +7,7 @@ Test it here: https://swisszip.api.ganti.dev/zip/3073
 [![UpdateZIP](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml/badge.svg?branch=main)](https://github.com/ganti/swissZIP/actions/workflows/updateZIP.yml)
 
 ## Query
-`/zip.php?zip=3073&format=(json | xml | debug)` 
+`/zip.php?zip=3073&format=(json|xml|debug)&canton=BE` 
 
 | category | type | value | description |
 | ------ | ------ | ------ | ------ |
@@ -89,7 +89,7 @@ from the official commune register
 - https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis
 
 ## CC0 License
-CC0-1.0  2019-2022 github.com/ganti
+CC0-1.0  2019-2024 github.com/ganti
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
