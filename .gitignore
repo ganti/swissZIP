@@ -7,3 +7,7 @@ fetchData/ch.swisstopo.amtliches-gebaeudeadressverzeichnis.zip
 id_rsa
 id_rsa.pub
 fetchData/venv/*
+.idea/*
+vendor/*
+tests/vendor/*
+tests/phpunit-report.html
