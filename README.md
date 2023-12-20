@@ -13,6 +13,7 @@ Test it here: https://swisszip.api.ganti.dev/zip/3073
 | ------ | ------ | ------ | ------ |
 | zip | 4 digit number | 1000-9999 | Postleitzahl/ ZIP-Code |
 | format | string | json; xml; debug | output format |
+| canton | string | e.g AG, GR, ZH | filter by canton |
 
 ## Response
 | category | type | value | description |
