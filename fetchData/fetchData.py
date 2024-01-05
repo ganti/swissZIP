@@ -115,7 +115,7 @@ def main():
     df = df.loc[:, ["zip","bfs",'town', 'canton', 'zip-share', 'locale']]
     df = df.sort_values(by=['zip', 'zip-share', 'town'], ascending=[True, False, True])
     #save
-    df.to_json(r'../swissZIP/v4/data/zip.json', orient='records', indent=4);
+    df.to_json(r'./../swissZIP/v4/data/zip.json', orient='records', indent=4);
     #uploadNewFile()
     #cleanup()
 
