@@ -97,7 +97,7 @@ def addSpecialCityZipsWithoutBuildings(df):
 def calculateZipShare(df):
     #calculate percentage of zip-share
     df['zip-share'] = df.groupby(['zip','town'])['town'].transform('count') / df.groupby(['zip'])['zip'].transform('count') * 100
-    df['zip-share'] = df['zip-share'].round(decimals=2)
+    df['zip-share'] = df['zip-share'].round(decimals=3)
     df['zip-share'].values[df['zip-share'].values > 100] = 100
     return df
 
