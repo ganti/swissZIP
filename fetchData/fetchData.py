@@ -21,8 +21,8 @@ def download(url, file_name):
 
 def getDataFromInternet():
     downloads = {
-        'ch.swisstopo.amtliches-gebaeudeadressverzeichnis': 'https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/csv/2056/',
-        'PLZO_CSV_LV95': 'https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/'
+        'amtliches-gebaeudeadressverzeichnis_2056.csv': 'https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis/',
+        'ortschaftenverzeichnis_plz_2056.csv': 'https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/ortschaftenverzeichnis_plz/'
     }
     for file, url_path in downloads.items():
         file_name = file+'.zip'
@@ -38,7 +38,7 @@ def getDataFromInternet():
             sys.exit('File does not exist: '+file_name)
 
 def getGemeindeverzeichnis():
-    file_name = r'./PLZO_CSV_LV95/PLZO_CSV_LV95/PLZO_CSV_LV95.csv'
+    file_name = r'./ortschaftenverzeichnis_plz_2056.csv/PLZO_CSV_LV95/PLZO_CSV_LV95.csv'
     if os.path.exists(file_name):
         dfTown = pd.read_csv(file_name, sep=';', engine='python', dtype='unicode')
     else:
@@ -56,7 +56,7 @@ def getGemeindeverzeichnis():
     return dfTown
 
 def getGebaeudeverzeichnis():
-    file_name = r'./ch.swisstopo.amtliches-gebaeudeadressverzeichnis/pure_adr.csv'
+    file_name = r'./amtliches-gebaeudeadressverzeichnis_2056.csv/pure_adr.csv'
     if os.path.exists(file_name):
         dfStreet = pd.read_csv(file_name, sep=';', engine='python', dtype='unicode')
     else:
@@ -97,7 +97,7 @@ def addSpecialCityZipsWithoutBuildings(df):
 def calculateZipShare(df):
     #calculate percentage of zip-share
     df['zip-share'] = df.groupby(['zip','town'])['town'].transform('count') / df.groupby(['zip'])['zip'].transform('count') * 100
-    df['zip-share'] = df['zip-share'].round(decimals=3)
+    df['zip-share'] = df['zip-share'].round(decimals=2)
     df['zip-share'].values[df['zip-share'].values > 100] = 100
     return df
 
