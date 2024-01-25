@@ -14836,7 +14836,7 @@
         "bfs":945,
         "town":"Unterlangenegg",
         "canton":"BE",
-        "zip-share":84.75,
+        "zip-share":84.46,
         "locale":"de"
     },
     {
@@ -14844,7 +14844,7 @@
         "bfs":923,
         "town":"Buchholterberg",
         "canton":"BE",
-        "zip-share":15.25,
+        "zip-share":15.54,
         "locale":"de"
     },
     {
@@ -15172,7 +15172,7 @@
         "bfs":943,
         "town":"Uebeschi",
         "canton":"BE",
-        "zip-share":96.29,
+        "zip-share":96.3,
         "locale":"de"
     },
     {
@@ -15180,7 +15180,7 @@
         "bfs":941,
         "town":"Thierachern",
         "canton":"BE",
-        "zip-share":3.71,
+        "zip-share":3.7,
         "locale":"de"
     },
     {
@@ -20564,7 +20564,7 @@
         "bfs":2428,
         "town":"M\u00fcmliswil-Ramiswil",
         "canton":"SO",
-        "zip-share":97.14,
+        "zip-share":97.1,
         "locale":"de"
     },
     {
@@ -20580,7 +20580,7 @@
         "bfs":2427,
         "town":"Matzendorf",
         "canton":"SO",
-        "zip-share":0.87,
+        "zip-share":0.9,
         "locale":"de"
     },
     {
@@ -21796,7 +21796,7 @@
         "bfs":4095,
         "town":"Brugg",
         "canton":"AG",
-        "zip-share":0.69,
+        "zip-share":0.68,
         "locale":"de"
     },
     {
@@ -22908,7 +22908,7 @@
         "bfs":4230,
         "town":"Buttwil",
         "canton":"AG",
-        "zip-share":74.34,
+        "zip-share":74.43,
         "locale":"de"
     },
     {
@@ -22916,7 +22916,7 @@
         "bfs":4228,
         "town":"Boswil",
         "canton":"AG",
-        "zip-share":19.68,
+        "zip-share":19.61,
         "locale":"de"
     },
     {
@@ -22924,7 +22924,7 @@
         "bfs":4227,
         "town":"Bettwil",
         "canton":"AG",
-        "zip-share":5.98,
+        "zip-share":5.96,
         "locale":"de"
     },
     {
@@ -24052,7 +24052,7 @@
         "bfs":1404,
         "town":"Kerns",
         "canton":"OW",
-        "zip-share":89.28,
+        "zip-share":89.47,
         "locale":"de"
     },
     {
@@ -24060,7 +24060,7 @@
         "bfs":1406,
         "town":"Sachseln",
         "canton":"OW",
-        "zip-share":10.72,
+        "zip-share":10.53,
         "locale":"de"
     },
     {
@@ -24468,7 +24468,7 @@
         "bfs":1131,
         "town":"Grossdietwil",
         "canton":"LU",
-        "zip-share":99.34,
+        "zip-share":99.35,
         "locale":"de"
     },
     {
@@ -24476,7 +24476,7 @@
         "bfs":333,
         "town":"Melchnau",
         "canton":"BE",
-        "zip-share":0.66,
+        "zip-share":0.65,
         "locale":"de"
     },
     {
@@ -24924,7 +24924,7 @@
         "bfs":1103,
         "town":"Sursee",
         "canton":"LU",
-        "zip-share":66.21,
+        "zip-share":66.2,
         "locale":"de"
     },
     {
@@ -24940,7 +24940,7 @@
         "bfs":1095,
         "town":"Oberkirch",
         "canton":"LU",
-        "zip-share":14.82,
+        "zip-share":14.83,
         "locale":"de"
     },
     {
@@ -25452,7 +25452,7 @@
         "bfs":1039,
         "town":"R\u00f6merswil",
         "canton":"LU",
-        "zip-share":12.12,
+        "zip-share":12.11,
         "locale":"de"
     },
     {
@@ -26148,7 +26148,7 @@
         "bfs":1402,
         "town":"Engelberg",
         "canton":"OW",
-        "zip-share":87.01,
+        "zip-share":87.08,
         "locale":"de"
     },
     {
@@ -26156,7 +26156,7 @@
         "bfs":1511,
         "town":"Wolfenschiessen",
         "canton":"NW",
-        "zip-share":12.6,
+        "zip-share":12.53,
         "locale":"de"
     },
     {
@@ -26492,7 +26492,7 @@
         "bfs":1201,
         "town":"Altdorf (UR)",
         "canton":"UR",
-        "zip-share":61.82,
+        "zip-share":61.86,
         "locale":"de"
     },
     {
@@ -26500,7 +26500,7 @@
         "bfs":1205,
         "town":"B\u00fcrglen (UR)",
         "canton":"UR",
-        "zip-share":37.88,
+        "zip-share":37.85,
         "locale":"de"
     },
     {
@@ -26788,7 +26788,7 @@
         "bfs":5138,
         "town":"Cugnasco-Gerra",
         "canton":"TI",
-        "zip-share":60.04,
+        "zip-share":60.02,
         "locale":"it"
     },
     {
@@ -26796,7 +26796,7 @@
         "bfs":5113,
         "town":"Locarno",
         "canton":"TI",
-        "zip-share":39.96,
+        "zip-share":39.98,
         "locale":"it"
     },
     {
@@ -28132,7 +28132,7 @@
         "bfs":5192,
         "town":"Lugano",
         "canton":"TI",
-        "zip-share":97.65,
+        "zip-share":97.64,
         "locale":"it"
     },
     {
@@ -28140,7 +28140,7 @@
         "bfs":5144,
         "town":"Arogno",
         "canton":"TI",
-        "zip-share":2.35,
+        "zip-share":2.36,
         "locale":"it"
     },
     {
@@ -29036,7 +29036,7 @@
         "bfs":5193,
         "town":"Magliaso",
         "canton":"TI",
-        "zip-share":93.16,
+        "zip-share":93.13,
         "locale":"it"
     },
     {
@@ -29044,7 +29044,7 @@
         "bfs":5206,
         "town":"Neggio",
         "canton":"TI",
-        "zip-share":6.84,
+        "zip-share":6.87,
         "locale":"it"
     },
     {
@@ -29060,7 +29060,7 @@
         "bfs":5207,
         "town":"Novaggio",
         "canton":"TI",
-        "zip-share":52.65,
+        "zip-share":52.62,
         "locale":"it"
     },
     {
@@ -29068,7 +29068,7 @@
         "bfs":5181,
         "town":"Curio",
         "canton":"TI",
-        "zip-share":33.37,
+        "zip-share":33.4,
         "locale":"it"
     },
     {
@@ -29076,7 +29076,7 @@
         "bfs":5200,
         "town":"Miglieglia",
         "canton":"TI",
-        "zip-share":13.59,
+        "zip-share":13.6,
         "locale":"it"
     },
     {
@@ -34508,7 +34508,7 @@
         "bfs":4566,
         "town":"Frauenfeld",
         "canton":"TG",
-        "zip-share":89.28,
+        "zip-share":89.29,
         "locale":"de"
     },
     {
@@ -35772,7 +35772,7 @@
         "bfs":153,
         "town":"Hombrechtikon",
         "canton":"ZH",
-        "zip-share":93.14,
+        "zip-share":93.16,
         "locale":"de"
     },
     {
@@ -35780,7 +35780,7 @@
         "bfs":3340,
         "town":"Rapperswil-Jona",
         "canton":"SG",
-        "zip-share":6.86,
+        "zip-share":6.84,
         "locale":"de"
     },
     {
@@ -37220,7 +37220,7 @@
         "bfs":247,
         "town":"Schlieren",
         "canton":"ZH",
-        "zip-share":90.91,
+        "zip-share":90.92,
         "locale":"de"
     },
     {
@@ -37228,7 +37228,7 @@
         "bfs":261,
         "town":"Z\u00fcrich",
         "canton":"ZH",
-        "zip-share":9.09,
+        "zip-share":9.08,
         "locale":"de"
     },
     {
@@ -38316,7 +38316,7 @@
         "bfs":4471,
         "town":"Bischofszell",
         "canton":"TG",
-        "zip-share":83.62,
+        "zip-share":83.53,
         "locale":"de"
     },
     {
@@ -38324,7 +38324,7 @@
         "bfs":4511,
         "town":"Zihlschlacht-Sitterdorf",
         "canton":"TG",
-        "zip-share":7.79,
+        "zip-share":7.9,
         "locale":"de"
     },
     {
@@ -38332,7 +38332,7 @@
         "bfs":4486,
         "town":"Hauptwil-Gottshaus",
         "canton":"TG",
-        "zip-share":5.54,
+        "zip-share":5.53,
         "locale":"de"
     },
     {
@@ -39332,7 +39332,7 @@
         "bfs":3256,
         "town":"R\u00fcthi (SG)",
         "canton":"SG",
-        "zip-share":55.95,
+        "zip-share":55.98,
         "locale":"de"
     },
     {
@@ -39340,7 +39340,7 @@
         "bfs":3251,
         "town":"Altst\u00e4tten",
         "canton":"SG",
-        "zip-share":44.05,
+        "zip-share":44.02,
         "locale":"de"
     },
     {
@@ -40156,7 +40156,7 @@
         "bfs":3379,
         "town":"Wattwil",
         "canton":"SG",
-        "zip-share":95.73,
+        "zip-share":95.74,
         "locale":"de"
     },
     {
@@ -40300,7 +40300,7 @@
         "bfs":3359,
         "town":"Wildhaus-Alt St. Johann",
         "canton":"SG",
-        "zip-share":99.17,
+        "zip-share":99.18,
         "locale":"de"
     },
     {
