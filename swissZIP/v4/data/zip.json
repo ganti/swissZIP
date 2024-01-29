@@ -13432,6 +13432,14 @@
         "locale":"de"
     },
     {
+        "zip":3374,
+        "bfs":992,
+        "town":"Wangen an der Aare",
+        "canton":"BE",
+        "zip-share":100.0,
+        "locale":"de"
+    },
+    {
         "zip":3375,
         "bfs":980,
         "town":"Inkwil",
@@ -15220,7 +15228,7 @@
         "bfs":942,
         "town":"Thun",
         "canton":"BE",
-        "zip-share":83.64,
+        "zip-share":82.06,
         "locale":"de"
     },
     {
@@ -15228,7 +15236,15 @@
         "bfs":768,
         "town":"Spiez",
         "canton":"BE",
-        "zip-share":16.36,
+        "zip-share":16.05,
+        "locale":"de"
+    },
+    {
+        "zip":3645,
+        "bfs":767,
+        "town":"Reutigen",
+        "canton":"BE",
+        "zip-share":1.89,
         "locale":"de"
     },
     {
@@ -36324,7 +36340,7 @@
         "bfs":1323,
         "town":"Wollerau",
         "canton":"SZ",
-        "zip-share":59.07,
+        "zip-share":59.08,
         "locale":"de"
     },
     {
@@ -36332,7 +36348,7 @@
         "bfs":1322,
         "town":"Freienbach",
         "canton":"SZ",
-        "zip-share":40.73,
+        "zip-share":40.72,
         "locale":"de"
     },
     {
@@ -36388,7 +36404,7 @@
         "bfs":1301,
         "town":"Einsiedeln",
         "canton":"SZ",
-        "zip-share":92.09,
+        "zip-share":92.19,
         "locale":"de"
     },
     {
@@ -36396,7 +36412,7 @@
         "bfs":1706,
         "town":"Ober\u00e4geri",
         "canton":"ZG",
-        "zip-share":5.1,
+        "zip-share":5.11,
         "locale":"de"
     },
     {
@@ -36404,7 +36420,7 @@
         "bfs":1321,
         "town":"Feusisberg",
         "canton":"SZ",
-        "zip-share":2.81,
+        "zip-share":2.71,
         "locale":"de"
     },
     {
