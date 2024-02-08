@@ -38,7 +38,7 @@ def getDataFromInternet():
             sys.exit('File does not exist: '+file_name)
 
 def getGemeindeverzeichnis():
-    file_name = r'./ortschaftenverzeichnis_plz_2056.csv/PLZO_CSV_LV95/PLZO_CSV_LV95.csv'
+    file_name = r'./ortschaftenverzeichnis_plz_2056.csv/AMTOVZ_CSV_LV95/AMTOVZ_CSV_LV95.csv'
     if os.path.exists(file_name):
         dfTown = pd.read_csv(file_name, sep=';', engine='python', dtype='unicode')
     else:
