@@ -13,4 +13,4 @@ vendor/*
 tests/vendor/*
 tests/phpunit-report.html
 fetchData/amtliches-gebaeudeadressverzeichnis_2056.csv/pure_adr.csv
-fetchData/ortschaftenverzeichnis_plz_2056.csv/PLZO_CSV_LV95/PLZO_CSV_LV95.csv
+fetchData/ortschaftenverzeichnis_plz_2056.csv/AMTOVZ_CSV_LV95/AMTOVZ_CSV_LV95.csv
