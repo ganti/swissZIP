@@ -15028,7 +15028,7 @@
         "bfs":901,
         "town":"Eggiwil",
         "canton":"BE",
-        "zip-share":0.28,
+        "zip-share":0.27,
         "locale":"de"
     },
     {
@@ -16636,7 +16636,7 @@
         "bfs":573,
         "town":"Brienz (BE)",
         "canton":"BE",
-        "zip-share":90.29,
+        "zip-share":90.3,
         "locale":"de"
     },
     {
@@ -16644,7 +16644,7 @@
         "bfs":592,
         "town":"Schwanden bei Brienz",
         "canton":"BE",
-        "zip-share":7.88,
+        "zip-share":7.87,
         "locale":"de"
     },
     {
@@ -16652,7 +16652,7 @@
         "bfs":589,
         "town":"Oberried am Brienzersee",
         "canton":"BE",
-        "zip-share":1.83,
+        "zip-share":1.82,
         "locale":"de"
     },
     {
@@ -17156,7 +17156,7 @@
         "bfs":6198,
         "town":"Niedergesteln",
         "canton":"VS",
-        "zip-share":63.13,
+        "zip-share":62.89,
         "locale":"de"
     },
     {
@@ -17164,7 +17164,7 @@
         "bfs":6199,
         "town":"Raron",
         "canton":"VS",
-        "zip-share":36.4,
+        "zip-share":36.65,
         "locale":"de"
     },
     {
@@ -21892,7 +21892,7 @@
         "bfs":4143,
         "town":"Schmiedrued",
         "canton":"AG",
-        "zip-share":94.32,
+        "zip-share":94.33,
         "locale":"de"
     },
     {
@@ -21900,7 +21900,7 @@
         "bfs":4135,
         "town":"Gontenschwil",
         "canton":"AG",
-        "zip-share":5.68,
+        "zip-share":5.67,
         "locale":"de"
     },
     {
@@ -26588,7 +26588,7 @@
         "bfs":1503,
         "town":"Dallenwil",
         "canton":"NW",
-        "zip-share":81.31,
+        "zip-share":81.33,
         "locale":"de"
     },
     {
@@ -26596,7 +26596,7 @@
         "bfs":1508,
         "town":"Oberdorf (NW)",
         "canton":"NW",
-        "zip-share":12.61,
+        "zip-share":12.6,
         "locale":"de"
     },
     {
@@ -26644,7 +26644,7 @@
         "bfs":1402,
         "town":"Engelberg",
         "canton":"OW",
-        "zip-share":87.27,
+        "zip-share":87.32,
         "locale":"de"
     },
     {
@@ -26652,7 +26652,7 @@
         "bfs":1511,
         "town":"Wolfenschiessen",
         "canton":"NW",
-        "zip-share":12.34,
+        "zip-share":12.3,
         "locale":"de"
     },
     {
@@ -27796,7 +27796,7 @@
         "bfs":5108,
         "town":"Gordola",
         "canton":"TI",
-        "zip-share":60.16,
+        "zip-share":60.15,
         "locale":"it"
     },
     {
@@ -27804,7 +27804,7 @@
         "bfs":5113,
         "town":"Locarno",
         "canton":"TI",
-        "zip-share":39.84,
+        "zip-share":39.85,
         "locale":"it"
     },
     {
@@ -28036,7 +28036,7 @@
         "bfs":5396,
         "town":"Terre di Pedemonte",
         "canton":"TI",
-        "zip-share":71.69,
+        "zip-share":71.65,
         "locale":"it"
     },
     {
@@ -28044,7 +28044,7 @@
         "bfs":5113,
         "town":"Locarno",
         "canton":"TI",
-        "zip-share":28.31,
+        "zip-share":28.35,
         "locale":"it"
     },
     {
@@ -37988,7 +37988,7 @@
         "bfs":1323,
         "town":"Wollerau",
         "canton":"SZ",
-        "zip-share":58.98,
+        "zip-share":58.95,
         "locale":"de"
     },
     {
@@ -37996,7 +37996,7 @@
         "bfs":1322,
         "town":"Freienbach",
         "canton":"SZ",
-        "zip-share":40.82,
+        "zip-share":40.85,
         "locale":"de"
     },
     {
@@ -39524,7 +39524,7 @@
         "bfs":3101,
         "town":"Appenzell",
         "canton":"AI",
-        "zip-share":1.24,
+        "zip-share":1.25,
         "locale":"de"
     },
     {
@@ -39532,7 +39532,7 @@
         "bfs":3101,
         "town":"Appenzell",
         "canton":"AI",
-        "zip-share":1.24,
+        "zip-share":1.25,
         "locale":"de"
     },
     {
@@ -41124,7 +41124,7 @@
         "bfs":3238,
         "town":"Widnau",
         "canton":"SG",
-        "zip-share":93.04,
+        "zip-share":93.05,
         "locale":"de"
     },
     {
@@ -41132,7 +41132,7 @@
         "bfs":3234,
         "town":"Diepoldsau",
         "canton":"SG",
-        "zip-share":6.96,
+        "zip-share":6.95,
         "locale":"de"
     },
     {
@@ -41604,7 +41604,7 @@
         "bfs":3427,
         "town":"Wil (SG)",
         "canton":"SG",
-        "zip-share":1.67,
+        "zip-share":1.68,
         "locale":"de"
     },
     {
@@ -41612,7 +41612,7 @@
         "bfs":3423,
         "town":"Niederhelfenschwil",
         "canton":"SG",
-        "zip-share":1.43,
+        "zip-share":1.44,
         "locale":"de"
     },
     {
@@ -41620,7 +41620,7 @@
         "bfs":3423,
         "town":"Niederhelfenschwil",
         "canton":"SG",
-        "zip-share":1.43,
+        "zip-share":1.44,
         "locale":"de"
     },
     {
