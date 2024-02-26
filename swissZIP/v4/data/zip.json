@@ -8452,7 +8452,7 @@
         "bfs":6512,
         "town":"Val-de-Travers",
         "canton":"NE",
-        "zip-share":98.79,
+        "zip-share":99.21,
         "locale":"fr"
     },
     {
@@ -8460,7 +8460,7 @@
         "bfs":6413,
         "town":"Rochefort",
         "canton":"NE",
-        "zip-share":0.64,
+        "zip-share":0.65,
         "locale":"fr"
     },
     {
@@ -8468,7 +8468,7 @@
         "bfs":6417,
         "town":"La Grande B\u00e9roche",
         "canton":"NE",
-        "zip-share":0.57,
+        "zip-share":0.14,
         "locale":"fr"
     },
     {
@@ -8612,7 +8612,7 @@
         "bfs":6413,
         "town":"Rochefort",
         "canton":"NE",
-        "zip-share":89.13,
+        "zip-share":97.73,
         "locale":"fr"
     },
     {
@@ -8620,7 +8620,7 @@
         "bfs":6404,
         "town":"Boudry",
         "canton":"NE",
-        "zip-share":10.87,
+        "zip-share":2.27,
         "locale":"fr"
     },
     {
@@ -17305,10 +17305,18 @@
     },
     {
         "zip":3943,
+        "bfs":6194,
+        "town":"Eischoll",
+        "canton":"VS",
+        "zip-share":89.71,
+        "locale":"de"
+    },
+    {
+        "zip":3943,
         "bfs":6119,
         "town":"Turtmann-Unterems",
         "canton":"VS",
-        "zip-share":50.35,
+        "zip-share":6.33,
         "locale":"de"
     },
     {
@@ -17316,15 +17324,7 @@
         "bfs":6198,
         "town":"Niedergesteln",
         "canton":"VS",
-        "zip-share":31.47,
-        "locale":"de"
-    },
-    {
-        "zip":3943,
-        "bfs":6194,
-        "town":"Eischoll",
-        "canton":"VS",
-        "zip-share":18.18,
+        "zip-share":3.96,
         "locale":"de"
     },
     {
@@ -37356,7 +37356,7 @@
         "bfs":112,
         "town":"Bubikon",
         "canton":"ZH",
-        "zip-share":97.39,
+        "zip-share":97.38,
         "locale":"de"
     },
     {
@@ -37364,7 +37364,7 @@
         "bfs":3340,
         "town":"Rapperswil-Jona",
         "canton":"SG",
-        "zip-share":2.61,
+        "zip-share":2.62,
         "locale":"de"
     },
     {
