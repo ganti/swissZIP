@@ -17084,7 +17084,7 @@
         "bfs":6293,
         "town":"Stalden (VS)",
         "canton":"VS",
-        "zip-share":66.92,
+        "zip-share":66.88,
         "locale":"de"
     },
     {
@@ -17092,7 +17092,7 @@
         "bfs":6282,
         "town":"Eisten",
         "canton":"VS",
-        "zip-share":25.8,
+        "zip-share":25.79,
         "locale":"de"
     },
     {
@@ -17124,7 +17124,7 @@
         "bfs":6296,
         "town":"T\u00f6rbel",
         "canton":"VS",
-        "zip-share":0.07,
+        "zip-share":0.14,
         "locale":"de"
     },
     {
@@ -17132,7 +17132,7 @@
         "bfs":6296,
         "town":"T\u00f6rbel",
         "canton":"VS",
-        "zip-share":95.76,
+        "zip-share":97.84,
         "locale":"de"
     },
     {
@@ -17140,7 +17140,7 @@
         "bfs":6293,
         "town":"Stalden (VS)",
         "canton":"VS",
-        "zip-share":4.24,
+        "zip-share":2.16,
         "locale":"de"
     },
     {
@@ -20964,7 +20964,7 @@
         "bfs":2572,
         "town":"D\u00e4niken",
         "canton":"SO",
-        "zip-share":95.72,
+        "zip-share":96.9,
         "locale":"de"
     },
     {
@@ -20972,7 +20972,7 @@
         "bfs":2576,
         "town":"Gretzenbach",
         "canton":"SO",
-        "zip-share":2.45,
+        "zip-share":2.48,
         "locale":"de"
     },
     {
@@ -20980,7 +20980,7 @@
         "bfs":2495,
         "town":"Niederg\u00f6sgen",
         "canton":"SO",
-        "zip-share":1.83,
+        "zip-share":0.62,
         "locale":"de"
     },
     {
@@ -28828,7 +28828,7 @@
         "bfs":5192,
         "town":"Lugano",
         "canton":"TI",
-        "zip-share":97.64,
+        "zip-share":97.7,
         "locale":"it"
     },
     {
@@ -28836,7 +28836,7 @@
         "bfs":5144,
         "town":"Arogno",
         "canton":"TI",
-        "zip-share":2.36,
+        "zip-share":2.3,
         "locale":"it"
     },
     {
@@ -28884,7 +28884,7 @@
         "bfs":5242,
         "town":"Balerna",
         "canton":"TI",
-        "zip-share":99.84,
+        "zip-share":99.69,
         "locale":"it"
     },
     {
@@ -28892,7 +28892,7 @@
         "bfs":5251,
         "town":"Coldrerio",
         "canton":"TI",
-        "zip-share":0.16,
+        "zip-share":0.31,
         "locale":"it"
     },
     {
@@ -29188,7 +29188,7 @@
         "bfs":5192,
         "town":"Lugano",
         "canton":"TI",
-        "zip-share":98.15,
+        "zip-share":98.2,
         "locale":"it"
     },
     {
@@ -29196,7 +29196,7 @@
         "bfs":5196,
         "town":"Massagno",
         "canton":"TI",
-        "zip-share":1.44,
+        "zip-share":1.4,
         "locale":"it"
     },
     {
@@ -29204,7 +29204,7 @@
         "bfs":5210,
         "town":"Paradiso",
         "canton":"TI",
-        "zip-share":0.41,
+        "zip-share":0.4,
         "locale":"it"
     },
     {
@@ -29452,7 +29452,7 @@
         "bfs":5231,
         "town":"Vezia",
         "canton":"TI",
-        "zip-share":94.17,
+        "zip-share":94.01,
         "locale":"it"
     },
     {
@@ -29460,7 +29460,7 @@
         "bfs":5192,
         "town":"Lugano",
         "canton":"TI",
-        "zip-share":5.83,
+        "zip-share":5.99,
         "locale":"it"
     },
     {
@@ -29916,7 +29916,7 @@
         "bfs":5151,
         "town":"Bioggio",
         "canton":"TI",
-        "zip-share":74.93,
+        "zip-share":74.26,
         "locale":"it"
     },
     {
@@ -29924,7 +29924,7 @@
         "bfs":5230,
         "town":"Vernate",
         "canton":"TI",
-        "zip-share":23.14,
+        "zip-share":22.93,
         "locale":"it"
     },
     {
@@ -29932,7 +29932,7 @@
         "bfs":5161,
         "town":"Cademario",
         "canton":"TI",
-        "zip-share":1.79,
+        "zip-share":2.66,
         "locale":"it"
     },
     {
@@ -32941,23 +32941,7 @@
         "town":"Zernez",
         "canton":"GR",
         "zip-share":100.0,
-        "locale":"de"
-    },
-    {
-        "zip":7527,
-        "bfs":3746,
-        "town":"Zernez",
-        "canton":"GR",
-        "zip-share":100.0,
         "locale":"rm"
-    },
-    {
-        "zip":7530,
-        "bfs":3746,
-        "town":"Zernez",
-        "canton":"GR",
-        "zip-share":100.0,
-        "locale":"de"
     },
     {
         "zip":7530,
@@ -33021,23 +33005,7 @@
         "town":"Zernez",
         "canton":"GR",
         "zip-share":100.0,
-        "locale":"de"
-    },
-    {
-        "zip":7542,
-        "bfs":3746,
-        "town":"Zernez",
-        "canton":"GR",
-        "zip-share":100.0,
         "locale":"rm"
-    },
-    {
-        "zip":7543,
-        "bfs":3746,
-        "town":"Zernez",
-        "canton":"GR",
-        "zip-share":100.0,
-        "locale":"de"
     },
     {
         "zip":7543,
