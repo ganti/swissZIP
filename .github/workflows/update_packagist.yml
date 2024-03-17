@@ -1,5 +1,0 @@
-uses: mnavarrocarter/packagist-update@v1.0
-with:
-  username: "ganti"
-  api_token: ${{ secrets.packagist_token }}
-  package_name: ganti/swisszip 
