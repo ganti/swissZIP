@@ -36,8 +36,8 @@ jobs:
           commit_prefix: "[Bot] "
           commit_message: "Update ZIP data"
           force: true
-      - name: Upddate Packagist
-        uses: mnavarrocarter/packagist-update@v1.0
+      - name: Packagist Update
+        uses: mnavarrocarter/packagist-update@v1.0.0    
         with:
           username: "ganti"
           api_token: ${{ secrets.packagist_token }}
