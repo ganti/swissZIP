@@ -46,7 +46,7 @@ def getGemeindeverzeichnis():
 
     
     dfTown = dfTown.reset_index(drop=True)
-    dfTown = dfTown.drop(['Ortschaftsname', 'Zusatzziffer', 'E', 'N'], axis=1)
+    dfTown = dfTown.drop(['Ortschaftsname', 'Zusatzziffer', 'E', 'N', 'Validity'], axis=1)
     dfTown = dfTown.rename(columns={'PLZ': 'zipTown', 'BFS-Nr': 'bfs', 'Gemeindename': 'town', 'Kantonskürzel': 'canton', 'Sprache': 'locale'})
     dfTown['zipTown'] = dfTown['zipTown'].astype(int)
 
@@ -86,7 +86,7 @@ def sanatizeTownWithNumberAtEnd(df):
     return df
 
 def addSpecialCityZipsWithoutBuildings(df):
-    speicalCityZips = pd.read_csv('./add-city-zips.csv', sep=';', engine='python', dtype='unicode')
+    speicalCityZips = pd.read_csv(r'./add-city-zips.csv', sep=';', engine='python', dtype='unicode')
     speicalCityZips['bfs'] = speicalCityZips['bfs'].astype(int)
     speicalCityZips['zip'] = speicalCityZips['zip'].astype(int)
     speicalCityZips['zip-share'] = speicalCityZips['zip-share'].astype(int)
