@@ -31,6 +31,7 @@ jobs:
           python fetchData.py  
       - name: Update Repo
         uses: devops-infra/action-commit-push@master
+        continue-on-error: true
         with:
           github_token: "${{ secrets.GITHUB_TOKEN }}"
           commit_prefix: "[Bot] "
