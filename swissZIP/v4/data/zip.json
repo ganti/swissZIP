@@ -16768,6 +16768,14 @@
         "locale":"de"
     },
     {
+        "zip":3925,
+        "bfs":6285,
+        "town":"Gr\u00e4chen",
+        "canton":"VS",
+        "zip-share":100.0,
+        "locale":"de"
+    },
+    {
         "zip":3926,
         "bfs":6283,
         "town":"Embd",
@@ -16987,6 +16995,14 @@
         "zip":3947,
         "bfs":6104,
         "town":"Ergisch",
+        "canton":"VS",
+        "zip-share":100.0,
+        "locale":"de"
+    },
+    {
+        "zip":3948,
+        "bfs":6112,
+        "town":"Oberems VS",
         "canton":"VS",
         "zip-share":100.0,
         "locale":"de"
@@ -27544,6 +27560,14 @@
         "locale":"it"
     },
     {
+        "zip":6611,
+        "bfs":5136,
+        "town":"Onsernone",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
         "zip":6612,
         "bfs":5091,
         "town":"Ascona",
@@ -27792,6 +27816,38 @@
         "locale":"it"
     },
     {
+        "zip":6661,
+        "bfs":5136,
+        "town":"Onsernone",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
+        "zip":6662,
+        "bfs":5136,
+        "town":"Onsernone",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
+        "zip":6663,
+        "bfs":5136,
+        "town":"Onsernone",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
+        "zip":6664,
+        "bfs":5136,
+        "town":"Onsernone",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
         "zip":6670,
         "bfs":5324,
         "town":"Avegno Gordevio",
@@ -27864,6 +27920,22 @@
         "locale":"it"
     },
     {
+        "zip":6683,
+        "bfs":5309,
+        "town":"Cerentino",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
+        "zip":6684,
+        "bfs":5307,
+        "town":"Campo (Vallemaggia)",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
         "zip":6685,
         "bfs":5304,
         "town":"Bosco\/Gurin",
@@ -27875,6 +27947,38 @@
         "zip":6690,
         "bfs":5310,
         "town":"Cevio",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
+        "zip":6692,
+        "bfs":5323,
+        "town":"Lavizzara",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
+        "zip":6694,
+        "bfs":5323,
+        "town":"Lavizzara",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
+        "zip":6695,
+        "bfs":5323,
+        "town":"Lavizzara",
+        "canton":"TI",
+        "zip-share":100.0,
+        "locale":"it"
+    },
+    {
+        "zip":6696,
+        "bfs":5323,
+        "town":"Lavizzara",
         "canton":"TI",
         "zip-share":100.0,
         "locale":"it"
