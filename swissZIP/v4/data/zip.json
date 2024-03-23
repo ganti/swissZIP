@@ -8,6 +8,22 @@
         "locale":"fr"
     },
     {
+        "zip":1001,
+        "bfs":5586,
+        "town":"Lausanne",
+        "canton":"VD",
+        "zip-share":100.0,
+        "locale":"fr"
+    },
+    {
+        "zip":1002,
+        "bfs":5586,
+        "town":"Lausanne",
+        "canton":"VD",
+        "zip-share":100.0,
+        "locale":"fr"
+    },
+    {
         "zip":1003,
         "bfs":5586,
         "town":"Lausanne",
