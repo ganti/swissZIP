@@ -30,49 +30,67 @@ def getDataFromInternet():
         download(url=url_path+file_name, file_name=file_name)
 
         if os.path.exists(file_name):
-            if os.path.isdir(extract_folder): 
+            if os.path.isdir(extract_folder):
                 shutil.rmtree(extract_folder, ignore_errors=True)
             shutil.unpack_archive(file_name, extract_folder)
             os.remove(file_name)
         else:
             sys.exit('File does not exist: '+file_name)
 
-def getGemeindeverzeichnis():
+def getOrtschaftenverzeichnis():
     file_name = r'./ortschaftenverzeichnis_plz_2056.csv/AMTOVZ_CSV_LV95/AMTOVZ_CSV_LV95.csv'
     if os.path.exists(file_name):
         dfTown = pd.read_csv(file_name, sep=';', engine='python', dtype='unicode')
     else:
         sys.exit('File does not exist '+file_name)
 
-    
     dfTown = dfTown.reset_index(drop=True)
-    dfTown = dfTown.drop(['Ortschaftsname', 'Zusatzziffer', 'E', 'N', 'Validity'], axis=1)
-    dfTown = dfTown.rename(columns={'PLZ': 'zipTown', 'BFS-Nr': 'bfs', 'Gemeindename': 'town', 'Kantonskürzel': 'canton', 'Sprache': 'locale'})
-    dfTown['zipTown'] = dfTown['zipTown'].astype(int)
+    dfTown = dfTown.drop(['Zusatzziffer', 'E', 'N', 'Validity'], axis=1)
+    dfTown = dfTown.rename(columns={'PLZ': 'zip', 'BFS-Nr': 'bfs', 'Gemeindename': 'municipality', 'Ortschaftsname': 'town', 'Kantonskürzel': 'canton', 'Sprache': 'locale'})
 
     dfTown['bfs'] = dfTown['bfs'].astype(int)
-    dfTown = dfTown.drop(['zipTown'], axis=1)
+    dfTown['zip'] = dfTown['zip'].astype(int)
     dfTown = dfTown[dfTown['canton'].notna()]
+
+    dfTown = sanitizeTownWithNumberAtEnd(dfTown)
+
     return dfTown
 
 def getGebaeudeverzeichnis():
     file_name = r'./amtliches-gebaeudeadressverzeichnis_2056.csv/pure_adr.csv'
     if os.path.exists(file_name):
-        dfStreet = pd.read_csv(file_name, sep=';', engine='python', dtype='unicode')
+        df = pd.read_csv(file_name, sep=';', engine='python', dtype='unicode')
     else:
         sys.exit('File does not exist '+file_name)
-    dfStreet = dfStreet.reset_index(drop=True)
-    dfStreet[['zip','streetVillage']] = dfStreet['ZIP_LABEL'].str.split(' ', n=1, expand=True)
-    dfStreet['zip'] = dfStreet['zip'].astype(int)
-    dfStreet['streetVillage'] = dfStreet['streetVillage'].str.strip()
-    
-    dfStreet = dfStreet.rename(columns={'COM_FOSNR': 'bfs'})
+    df = df.reset_index(drop=True)
+    df = df.rename(columns={'COM_FOSNR': 'bfs'})
+    df[['houseZip','houseTown']] = df['ZIP_LABEL'].str.split(' ', n=1, expand=True)
+    dfStreet = df[['houseZip', 'houseTown', 'bfs']].copy()
+
     dfStreet['bfs'] = dfStreet['bfs'].astype(int)
-    dfStreet = dfStreet.drop(['ZIP_LABEL','ADR_EGAID', 'STR_ESID', 'BDG_EGID', 'COM_CANTON','ADR_EDID', 'STN_LABEL','ADR_NUMBER', 'BDG_CATEGORY', 'BDG_NAME', 'ADR_STATUS', 'ADR_OFFICIAL', 'ADR_MODIFIED','ADR_EASTING', 'ADR_NORTHING'], axis=1)
-    dfStreet = dfStreet.drop(['streetVillage'], axis=1)
+    dfStreet['houseZip'] = dfStreet['houseZip'].astype(int)
+    dfStreet['houseTown'] = dfStreet['houseTown'].str.strip()
+
+    dfStreet = sanitizeTownWithNumberAtEnd(dfStreet, 'houseTown')
+    dfStreet = getZipShareFromGebaeudeverzeichnis(dfStreet)
     return dfStreet
 
-def sanatizeTownWithNumberAtEnd(df):
+
+def getZipShareFromGebaeudeverzeichnis(df):
+    df['houseCount'] = df.groupby(['houseTown', 'houseZip', 'bfs'])['houseZip'].transform('count').fillna(0)
+    df['zipCount'] = df.groupby(['houseZip'])['houseZip'].transform('count')
+
+    df = df.groupby(['houseTown', 'houseZip', 'bfs']).agg({'houseCount': 'size', 'zipCount': 'first'}).reset_index()
+
+    df['zip-share'] = df['houseCount'] / df['zipCount']
+    df['zip-share'] = df['zip-share'].fillna(0)  # Replace NaN with 0
+    df.loc[(df['houseCount'] == 0) | (df['zipCount'] == 0), 'zip-share'] = 0  # Set 0 when houseCount or zipCount is 0
+    df['zip-share'] = (df['zip-share'] * 100).round(2)
+
+    df = df.drop(columns=['houseCount', 'zipCount'])
+    return df
+
+def sanitizeTownWithNumberAtEnd(df, column='town'):
     #sanatize Villages with number at end
     #df = df[df['village'].str.contains('\d', regex= True)]
     villageCleanup = {
@@ -82,45 +100,69 @@ def sanatizeTownWithNumberAtEnd(df):
         "Laax GR 2": "Laax GR"
     }
     for old, new in villageCleanup.items():
-        df['town'] = df['town'].replace([old], new)
+        df[column] = df[column].replace([old], new)
     return df
 
 def addSpecialCityZipsWithoutBuildings(df):
     speicalCityZips = pd.read_csv(r'./add-city-zips.csv', sep=';', engine='python', dtype='unicode')
+    speicalCityZips['municipality'] = speicalCityZips['town']
     speicalCityZips['bfs'] = speicalCityZips['bfs'].astype(int)
     speicalCityZips['zip'] = speicalCityZips['zip'].astype(int)
-    speicalCityZips['zip-share'] = speicalCityZips['zip-share'].astype(int)
-
+    speicalCityZips['zip-share'] = speicalCityZips['zip-share'].astype(float)
     df = pd.concat([speicalCityZips.dropna(), df], axis=0 )
     return df
 
-def calculateZipShare(df):
-    #calculate percentage of zip-share
-    df['zip-share'] = df.groupby(['zip','town'])['town'].transform('count') / df.groupby(['zip'])['zip'].transform('count') * 100
-    df['zip-share'] = df['zip-share'].round(decimals=2)
-    df['zip-share'].values[df['zip-share'].values > 100] = 100
-    return df
+def generateLegacyZipJsonV4(df):
+    """
+        Aggregate 'zip-share' data by 'bfs', derive 'town' from 'municipality',
+        and save as legacy JSON for SwissZIP version 4.
+    """
+    print(df)
+    dfLegacy = df.groupby(['bfs', 'zip'], as_index=False).agg({'zip-share':'sum', 'municipality':'first', 'canton':'first', 'locale':'first'})
+    dfLegacy.reset_index(drop=True, inplace=True)
+    dfLegacy.rename(columns={'municipality': 'town'}, inplace=True)
+    dfLegacy = dfLegacy.sort_values(by=['zip', 'zip-share', 'town'], ascending=[True, False, True])
+    dfLegacy.to_json(r'./../swissZIP/v4/data/zip.json', orient='records', indent=4)
 
-def main():    
-    getDataFromInternet()
-    dfTown = getGemeindeverzeichnis()
-    dfStreet = getGebaeudeverzeichnis()
-    df = pd.merge(dfStreet, dfTown, on='bfs', how='left')
-    
-    df = sanatizeTownWithNumberAtEnd(df)
-    df = calculateZipShare(df)
+def generateLegacyZipJsonV4(df):
+    """
+        Aggregate 'zip-share' data by 'bfs', derive 'town' from 'municipality',
+        and save as legacy JSON for SwissZIP version 4.
+    """
+    dfLegacy = df.groupby(['bfs', 'zip'], as_index=False).agg({'zip-share':'sum', 'municipality':'first', 'canton':'first', 'locale':'first'})
+    dfLegacy.reset_index(drop=True, inplace=True)
+    dfLegacy.rename(columns={'municipality': 'town'}, inplace=True)
+    dfLegacy = dfLegacy.sort_values(by=['zip', 'zip-share', 'town'], ascending=[True, False, True])
+    dfLegacy.to_json(r'./../swissZIP/v4/data/zip.json', orient='records', indent=4)
+
+def generateLegacyZipJsonV5(df):
+    df.to_json(r'./../swissZIP/v5/data/zip_by_town.json', orient='records', indent=4)
+
+    dfMuni = df.groupby(['bfs', 'zip'], as_index=False).agg({'zip-share':'sum', 'municipality':'first', 'canton':'first', 'locale':'first'})
+    dfMuni.reset_index(drop=True, inplace=True)
+    dfMuni.rename(columns={'municipality': 'town'}, inplace=True)
+    dfMuni = dfMuni.sort_values(by=['zip', 'zip-share', 'town'], ascending=[True, False, True])
+    dfMuni.to_json(r'./../swissZIP/v5/data/zip_by_municipality.json', orient='records', indent=4)
+
+
+def compileList(dfTown, dfHouse):
+    df = dfTown.merge(dfHouse, how='right', left_on=['zip', 'bfs', 'town'], right_on=['houseZip', 'bfs', 'houseTown'])
+    df.drop(columns='houseZip', inplace=True)
     df = addSpecialCityZipsWithoutBuildings(df)
-    
-    df = df.dropna().drop_duplicates()
-    df = df.loc[:, ["zip","bfs",'town', 'canton', 'zip-share', 'locale']]
+
+    #group to integrate
+    df = df.groupby(['bfs', 'zip', 'town'], as_index=False).agg({'zip-share':'max', 'municipality':'first', 'canton':'first', 'locale':'first'})
+    df.reset_index(drop=True, inplace=True)
     df = df.sort_values(by=['zip', 'zip-share', 'town'], ascending=[True, False, True])
-    #save
-    df.to_json(r'./../swissZIP/v4/data/zip.json', orient='records', indent=4);
-    #uploadNewFile()
-    #cleanup()
 
+    df['municipality'] = df.apply(lambda row: row['town'] if pd.isna(row['municipality']) else row['municipality'], axis=1)
 
-    
+    df = df.dropna(subset=['canton']) #remove Lichtenstein
+
+    df = df.loc[:, ['zip', 'zip-share', 'town', 'bfs', 'municipality', 'canton', 'locale']]
+    df = df.astype({'zip':'int', 'zip-share':'float', 'town':'string', 'bfs':'int', 'municipality':'string', 'canton':'string', 'locale':'string'})
+    df = df.sort_values(by=['zip', 'zip-share', 'town'], ascending=[True, False, True])
+    return df
 
 def cleanup():
     files = [   r'./PLZO_CSV_LV95',
@@ -128,34 +170,19 @@ def cleanup():
     ]
     for f in files:
         if os.path.exists(f):
-            if os.path.isdir(f): 
+            if os.path.isdir(f):
                 shutil.rmtree(f, ignore_errors=True)
             else:
                 os.remove(f)
 
-
-def uploadNewFile():
-    file_new = r'./zip.json'
-    file_org = r'./../swissZIP/v4/data/zip.json'
-    if filecmp.cmp(file_new, file_org):
-        msg = datetime.today().strftime('%Y-%m-%d')+' Update data (no update)'
-    else:
-        msg = datetime.today().strftime('%Y-%m-%d')+' Update data'
-        shutil.copyfile(file_new, file_org)
-    addToGitRepo(file_name=file_org, msg=msg)
-    
-def addToGitRepo(file_name, msg):
-    cmds = [
-        'git config --local core.sshCommand "ssh -i $(pwd)/../id_rsa -F /dev/null" ',
-        "git remote set-url origin git@github.com:ganti/swissZIP.git ",
-        "git add "+ file_name,
-        #"git commit -m '"+msg+"' "+file_name,
-        #"git push"
-        
-    ]
-    separator = "> /dev/null && "
-    cmd = separator.join(cmds)
-    subprocess.run(cmd, shell=True)
+def main():
+    getDataFromInternet()
+    dfTown = getOrtschaftenverzeichnis()
+    dfHouse = getGebaeudeverzeichnis()
+    df = compileList(dfTown, dfHouse)
+    generateLegacyZipJsonV4(df)
+    generateLegacyZipJsonV5(df)
+    cleanup()
 
 
 if __name__ == "__main__":

@@ -1,4 +1,5 @@
 <?php
+
 error_reporting(E_ALL);
 
 $api = new swissZIP();
@@ -7,16 +8,20 @@ $api->sendResult();
 
 class swissZIP
 {
-
-
     private const ALLOWED_FORMATS = ['json', 'xml', 'debug'];
     private const ALLOWED_CANTONS = ['AG', 'AI', 'AR', 'BE', 'BL', 'BS', 'FR', 'GE', 'GL', 'GR', 'JU', 'LU', 'NE', 'NW', 'OW', 'SG', 'SH', 'SO', 'SZ', 'TG', 'TI', 'UR', 'VD', 'VS', 'ZG', 'ZH'];
-    private string $zip_json_file = './data/zip.json';
+    private const ALLOWED_SCOPES = ['municipality', 'town'];
+
     private styledOutput $output;
     private string $format = 'json';
     private ?string $filterCanton = null;
+    private string $scope = 'municipality';
+    private array $zip_json_files = [
+        'municipality' => './data/zip_by_municipality.json',
+        'town' => './data/zip_by_town.json',
+    ];
 
-    function __construct()
+    public function __construct()
     {
         $this->output = new styledOutput();
     }
@@ -38,6 +43,14 @@ class swissZIP
             }
             $this->filterCanton = $canton;
         }
+        if (isset($_GET['scope'])) {
+            $scope = (!empty($_GET['scope']) ? strtolower(urlencode($_GET['scope'])) : null);
+            if (!empty($scope) and !in_array($scope, $this::ALLOWED_SCOPES)) {
+                $this->output->setError('scope invalid', 'use one of the following ' . join(', ', $this::ALLOWED_SCOPES));
+                return;
+            }
+            $this->scope = $scope;
+        }
         if (isset($_GET['zip'])) {
             $zip = (!empty($_GET['zip']) ? urlencode($_GET['zip']) : 0);
 
@@ -49,12 +62,18 @@ class swissZIP
                 $this->getZIPdata($zip);
             }
         }
+
     }
 
     private function getZIPdata($zip): void
     {
-        $json = file_get_contents($this->zip_json_file);
-        $zip_data = json_decode($json, True);
+        $jsonFile = $this->zip_json_files[$this->scope];
+        if(!is_readable($jsonFile)) {
+            $this->output->setError('file error', 'data not readable');
+            return;
+        }
+        $json = file_get_contents($jsonFile);
+        $zip_data = json_decode($json, true);
 
         //Filter
         $zipResult = [];
@@ -64,7 +83,7 @@ class swissZIP
             }
         }
 
-        if($this->filterCanton !== null){
+        if($this->filterCanton !== null) {
             $zipCantonResult = [];
             foreach ($zipResult as $d) {
                 if ($d['canton'] == $this->filterCanton) {
@@ -73,9 +92,6 @@ class swissZIP
             }
             $zipResult = $zipCantonResult;
         }
-
-        //Order by biggest share
-        //usort($res, fn($b, $a) => $a['zip-share'] <=> $b['zip-share']);
 
         $this->output->setData($zipResult);
 
@@ -91,7 +107,7 @@ class swissZIP
             header('Content-Type: text/plain');
             print_r($this->output->getOutput());
 
-        } else if ($this->format == 'json') {
+        } elseif ($this->format == 'json') {
             header('Content-type: application/json');
             header('Access-Control-Allow-Origin: *');
             if (version_compare(phpversion(), '7.1', '>=')) {
@@ -99,7 +115,7 @@ class swissZIP
             }
             echo json_encode($this->output->getOutput());
 
-        } else if ($this->format == 'xml') {
+        } elseif ($this->format == 'xml') {
             header("Content-type: text/xml");
             $xml_data = new SimpleXMLElement('<?xml version="1.0"?><data></data>');
             $this->array_to_xml($this->output->getOutput(), $xml_data);
@@ -126,7 +142,6 @@ class swissZIP
 
 class styledOutput
 {
-
     private array $output = [
         'status' => [
             'status' => 'error',

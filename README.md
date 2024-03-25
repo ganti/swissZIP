@@ -9,25 +9,27 @@ Test it here: https://swisszip.api.ganti.dev/zip/3073
 ## Query
 `/zip.php?zip=3073&format=(json|xml|debug)&canton=BE` 
 
-| category | type | value | description |
-| ------ | ------ | ------ | ------ |
-| zip | 4 digit number | 1000-9999 | Postleitzahl/ ZIP-Code |
-| format | string | json; xml; debug | output format |
-| canton | string | e.g AG, GR, ZH | filter by canton |
+| category | type | value              | description                                                                                                                                                                                                      |
+|----------| ------ |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| zip      | 4 digit number | 1000-9999          | Postleitzahl/ ZIP-Code                                                                                                                                                                                           |
+| format   | string | json; xml; debug   | output format                                                                                                                                                                                                    |
+| canton   | string | e.g AG, GR, ZH     | filter by canton                                                                                                                                                                                                 |
+| scope    | string | municipality, town | default: municipality; If "town" (Ortschaft) is set, note that there can be multiple towns within one municipality (Gemeinde) or multiple municipalities within a town. As example try both params with zip 7415 |
 
 ## Response
-| category | type | value | description |
-| ------ | ------ | ------ | ------ |
-| status | count | number | how many results |
-| status | distinct | 0 or 1 | there was exactly one result |
-| status | status | 'ok' or 'error' | general information if request was successful |
-| status | error['name'] | string | error |
-| status | error['description'] | string | description of error |
-| data | zip | 4 digit number | Postleitzahl/ ZIP-Code |
-| data | bfs | 4 digit number | GemeindeNummer, Official Village ID |
-| data | town | string | Name of town |
-| data | zip-share | number | percentage of area |
-| data | locale | string | de, fr, it, rm |
+| category | type | value | description                                       |
+| ------ | ------ | ------ |---------------------------------------------------|
+| status | count | number | how many results                                  |
+| status | distinct | 0 or 1 | there was exactly one result                      |
+| status | status | 'ok' or 'error' | general information if request was successful     |
+| status | error['name'] | string | error                                             |
+| status | error['description'] | string | description of error                              |
+| data | zip | 4 digit number | Postleitzahl/ ZIP-Code                            |
+| data | bfs | 4 digit number | GemeindeNummer, Official municipality ID               |
+| data | town | string | Name of town (Ortschaft)                          |
+| data | municipality | string | Name of municipality (official municipality name) |
+| data | zip-share | number | percentage of area                                |
+| data | locale | string | de, fr, it, rm                                    |
 
 ```php
 (
@@ -45,6 +47,7 @@ Test it here: https://swisszip.api.ganti.dev/zip/3073
                     [zip] => 3073
                     [bfs] => 356
                     [town] => Muri bei Bern
+                    [municipality] => Muri bei Bern
                     [canton] => BE
                     [zip-share] => 95.58
                     [locale] => de
@@ -55,6 +58,7 @@ Test it here: https://swisszip.api.ganti.dev/zip/3073
                     [zip] => 3073
                     [bfs] => 351
                     [town] => Bern
+                    [municipality] => Bern
                     [canton] => BE
                     [zip-share] => 4.24
                     [locale] => de
@@ -65,6 +69,7 @@ Test it here: https://swisszip.api.ganti.dev/zip/3073
                     [zip] => 3073
                     [bfs] => 363
                     [town] => Ostermundigen
+                    [municipality] => Ostermundigen
                     [canton] => BE
                     [zip-share] => 0.15
                     [locale] => de
@@ -75,6 +80,7 @@ Test it here: https://swisszip.api.ganti.dev/zip/3073
                     [zip] => 3073
                     [bfs] => 630
                     [town] => Allmendingen
+                    [municipality] => Allmendingen
                     [canton] => BE
                     [zip-share] => 0.02
                     [locale] => de

@@ -1,6 +1,4 @@
-# swissZIP v4
-⚠️️️️️️⚠️️️️️️⚠️️️️️️ __This version is depreacted use [version 5](https://github.com/ganti/swissZIP/tree/main/swissZIP/v5) ⚠️️️️️️⚠️️️️️️
-
+# swissZIP (Schweizer Postleitzahlen API)
 Get town by Postleitzahl (ZIP-Code)
 
 Test it here: https://swisszip.api.ganti.dev/zip/3073

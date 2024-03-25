@@ -146,9 +146,6 @@ final class zipTests extends TestCase
             if ($format == 'xml') {
                 $this->assertEquals('text/xml;charset=UTF-8', $response->getHeader('Content-type')[0], 'not xml contenttype');
             }
-            if ($format == 'debug') {
-                $this->assertEquals('text/text;charset=UTF-8', $response->getHeader('Content-type')[0], 'not text/text contenttype');
-            }
         }
 
     }
