@@ -9,12 +9,12 @@ Test it here: https://swisszip.api.ganti.dev/zip/3073
 ## Query
 `/zip.php?zip=3073&format=(json|xml|debug)&canton=BE` 
 
-| category | type | value              | description                                                                                                                                                                                                      |
-|----------| ------ |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| zip      | 4 digit number | 1000-9999          | Postleitzahl/ ZIP-Code                                                                                                                                                                                           |
-| format   | string | json; xml; debug   | output format                                                                                                                                                                                                    |
-| canton   | string | e.g AG, GR, ZH     | filter by canton                                                                                                                                                                                                 |
-| scope    | string | municipality, town | default: municipality; If "town" (Ortschaft) is set, note that there can be multiple towns within one municipality (Gemeinde) or multiple municipalities within a town. As example try both params with zip 7415 |
+| category | type | value              | description                                                                                                                                                                                                                                                            |
+|----------| ------ |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| zip      | 4 digit number | 1000-9999          | Postleitzahl/ ZIP-Code                                                                                                                                                                                                                                                 |
+| format   | string | json; xml; debug   | output format                                                                                                                                                                                                                                                          |
+| canton   | string | e.g AG, GR, ZH     | filter by canton                                                                                                                                                                                                                                                       |
+| scope    | string | municipality, town | default: municipality; If "town" (Ortschaft) is set, note that there can be multiple towns within one municipality (Gemeinde) or multiple municipalities within a town. As example try both params with zip [7415](https://swisszip.api.ganti.dev/zip/7415?scope=town) |
 
 ## Response
 | category | type | value | description                                       |
