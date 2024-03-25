@@ -9,12 +9,12 @@ Test it here: https://swisszip.api.ganti.dev/zip/3073
 ## Query
 `/zip.php?zip=3073&format=(json|xml|debug)&canton=BE` 
 
-| category | type | value              | description                                                                                                                                                                                                                                                            |
-|----------| ------ |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| zip      | 4 digit number | 1000-9999          | Postleitzahl/ ZIP-Code                                                                                                                                                                                                                                                 |
-| format   | string | json; xml; debug   | output format                                                                                                                                                                                                                                                          |
-| canton   | string | e.g AG, GR, ZH     | filter by canton                                                                                                                                                                                                                                                       |
-| scope    | string | municipality, town | default: municipality; If "town" (Ortschaft) is set, note that there can be multiple towns within one municipality (Gemeinde) or multiple municipalities within a town. As example try both params with zip [7415](https://swisszip.api.ganti.dev/zip/7415?scope=town) |
+| category | type | value              | description                                                                                                                                                                                                                                                                     |
+|----------| ------ |--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| zip      | 4 digit number | 1000-9999          | Postleitzahl/ ZIP-Code                                                                                                                                                                                                                                                          |
+| format   | string | json; xml; debug   | output format                                                                                                                                                                                                                                                                   |
+| canton   | string | e.g AG, GR, ZH     | filter by canton                                                                                                                                                                                                                                                                |
+| scope    | string | municipality, town | default: municipality; If town (Ortschaft) is set the grouping changes. there can be multiple towns within one municipality (Gemeinde) or multiple municipalities within a town. As example try both params with zip [7415](https://swisszip.api.ganti.dev/zip/7415?scope=town) |
 
 ## Response
 | category | type | value | description                                       |
@@ -32,63 +32,60 @@ Test it here: https://swisszip.api.ganti.dev/zip/3073
 | data | locale | string | de, fr, it, rm                                    |
 
 ```php
-(
-    [status] => Array
+   [status] => Array
         (
+            [status] => ok
             [count] => 4
             [distinct] => 0
-            [status] => ok
         )
-
+   
     [data] => Array
         (
             [0] => Array
                 (
                     [zip] => 3073
+                    [zip-share] => 99.06
+                    [town] => Gümligen
                     [bfs] => 356
-                    [town] => Muri bei Bern
                     [municipality] => Muri bei Bern
                     [canton] => BE
-                    [zip-share] => 95.58
                     [locale] => de
                 )
-
+   
             [1] => Array
                 (
                     [zip] => 3073
+                    [zip-share] => 0.58
+                    [town] => Gümligen
                     [bfs] => 351
-                    [town] => Bern
                     [municipality] => Bern
                     [canton] => BE
-                    [zip-share] => 4.24
                     [locale] => de
                 )
-
+   
             [2] => Array
                 (
                     [zip] => 3073
+                    [zip-share] => 0.31
+                    [town] => Gümligen
                     [bfs] => 363
-                    [town] => Ostermundigen
                     [municipality] => Ostermundigen
                     [canton] => BE
-                    [zip-share] => 0.15
                     [locale] => de
                 )
-
+   
             [3] => Array
                 (
                     [zip] => 3073
+                    [zip-share] => 0.04
+                    [town] => Gümligen
                     [bfs] => 630
-                    [town] => Allmendingen
                     [municipality] => Allmendingen
                     [canton] => BE
-                    [zip-share] => 0.02
                     [locale] => de
                 )
-
+   
         )
-
-)
 ```
 ## Datasource
 from the official commune register
