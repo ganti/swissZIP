@@ -4527,6 +4527,15 @@
         "locale":"fr"
     },
     {
+        "zip":1470,
+        "zip-share":0.07,
+        "town":"Estavayer-le-Lac",
+        "bfs":2025,
+        "municipality":"Lully (FR)",
+        "canton":"FR",
+        "locale":"fr"
+    },
+    {
         "zip":1473,
         "zip-share":51.58,
         "town":"Ch\u00e2tillon FR",
@@ -6454,7 +6463,7 @@
     },
     {
         "zip":1675,
-        "zip-share":62.36,
+        "zip-share":62.43,
         "town":"Vauderens",
         "bfs":2102,
         "municipality":"Ursy",
@@ -6463,7 +6472,7 @@
     },
     {
         "zip":1675,
-        "zip-share":20.3,
+        "zip-share":20.26,
         "town":"Mossel",
         "bfs":2102,
         "municipality":"Ursy",
@@ -6472,7 +6481,7 @@
     },
     {
         "zip":1675,
-        "zip-share":17.16,
+        "zip-share":17.13,
         "town":"Blessens",
         "bfs":2097,
         "municipality":"Rue",
@@ -13357,15 +13366,6 @@
     },
     {
         "zip":2747,
-        "zip-share":8.53,
-        "town":"Corcelles BE",
-        "bfs":691,
-        "municipality":"Cr\u00e9mines",
-        "canton":"BE",
-        "locale":"fr"
-    },
-    {
-        "zip":2747,
         "zip-share":2.35,
         "town":"Seehof",
         "bfs":2421,
@@ -13595,15 +13595,6 @@
         "town":"Roggenburg",
         "bfs":6713,
         "municipality":"Ederswiler",
-        "canton":"JU",
-        "locale":"de"
-    },
-    {
-        "zip":2814,
-        "zip-share":0.96,
-        "town":"Roggenburg",
-        "bfs":6719,
-        "municipality":"Pleigne",
         "canton":"JU",
         "locale":"de"
     },
@@ -15076,7 +15067,7 @@
     },
     {
         "zip":3082,
-        "zip-share":75.6,
+        "zip-share":75.56,
         "town":"Schlosswil",
         "bfs":608,
         "municipality":"Grossh\u00f6chstetten",
@@ -15085,7 +15076,7 @@
     },
     {
         "zip":3082,
-        "zip-share":24.4,
+        "zip-share":24.44,
         "town":"Schlosswil",
         "bfs":627,
         "municipality":"Worb",
@@ -18540,15 +18531,6 @@
         "locale":"de"
     },
     {
-        "zip":3512,
-        "zip-share":0.39,
-        "town":"Walkringen",
-        "bfs":613,
-        "municipality":"Landiswil",
-        "canton":"BE",
-        "locale":"de"
-    },
-    {
         "zip":3513,
         "zip-share":97.19,
         "town":"Bigenthal",
@@ -20728,7 +20710,7 @@
     },
     {
         "zip":3855,
-        "zip-share":75.82,
+        "zip-share":75.8,
         "town":"Brienz BE",
         "bfs":573,
         "municipality":"Brienz (BE)",
@@ -20737,7 +20719,7 @@
     },
     {
         "zip":3855,
-        "zip-share":14.62,
+        "zip-share":14.63,
         "town":"Schwanden b. Brienz",
         "bfs":592,
         "municipality":"Schwanden bei Brienz",
@@ -20746,7 +20728,7 @@
     },
     {
         "zip":3855,
-        "zip-share":7.87,
+        "zip-share":7.88,
         "town":"Axalp",
         "bfs":573,
         "municipality":"Brienz (BE)",
@@ -21691,6 +21673,15 @@
     },
     {
         "zip":3953,
+        "zip-share":0.8,
+        "town":"Inden",
+        "bfs":6111,
+        "municipality":"Leukerbad",
+        "canton":"VS",
+        "locale":"de"
+    },
+    {
+        "zip":3953,
         "zip-share":0.21,
         "town":"Leuk Stadt",
         "bfs":6116,
@@ -22289,6 +22280,15 @@
         "town":"Bitsch",
         "bfs":6010,
         "municipality":"Termen",
+        "canton":"VS",
+        "locale":"de"
+    },
+    {
+        "zip":3982,
+        "zip-share":0.41,
+        "town":"Bitsch",
+        "bfs":6181,
+        "municipality":"Riederalp",
         "canton":"VS",
         "locale":"de"
     },
@@ -25106,6 +25106,15 @@
         "town":"Subingen",
         "bfs":2532,
         "municipality":"Subingen",
+        "canton":"SO",
+        "locale":"de"
+    },
+    {
+        "zip":4553,
+        "zip-share":1.02,
+        "town":"Subingen",
+        "bfs":2517,
+        "municipality":"Derendingen",
         "canton":"SO",
         "locale":"de"
     },
@@ -31465,7 +31474,7 @@
     },
     {
         "zip":6242,
-        "zip-share":94.48,
+        "zip-share":94.45,
         "town":"Wauwil",
         "bfs":1146,
         "municipality":"Wauwil",
@@ -31474,7 +31483,7 @@
     },
     {
         "zip":6242,
-        "zip-share":5.52,
+        "zip-share":5.55,
         "town":"Wauwil",
         "bfs":1091,
         "municipality":"Mauensee",
@@ -32086,7 +32095,7 @@
     },
     {
         "zip":6313,
-        "zip-share":59.45,
+        "zip-share":59.49,
         "town":"Menzingen",
         "bfs":1704,
         "municipality":"Menzingen",
@@ -32095,7 +32104,7 @@
     },
     {
         "zip":6313,
-        "zip-share":25.23,
+        "zip-share":25.18,
         "town":"Edlibach",
         "bfs":1704,
         "municipality":"Menzingen",
@@ -32104,7 +32113,7 @@
     },
     {
         "zip":6313,
-        "zip-share":15.08,
+        "zip-share":15.09,
         "town":"Finstersee",
         "bfs":1704,
         "municipality":"Menzingen",
@@ -32392,7 +32401,7 @@
     },
     {
         "zip":6343,
-        "zip-share":65.24,
+        "zip-share":65.27,
         "town":"Rotkreuz",
         "bfs":1707,
         "municipality":"Risch",
@@ -32419,7 +32428,7 @@
     },
     {
         "zip":6343,
-        "zip-share":7.19,
+        "zip-share":7.15,
         "town":"Holzh\u00e4usern ZG",
         "bfs":1707,
         "municipality":"Risch",
@@ -34129,7 +34138,7 @@
     },
     {
         "zip":6593,
-        "zip-share":98.0,
+        "zip-share":97.99,
         "town":"Cadenazzo",
         "bfs":5003,
         "municipality":"Cadenazzo",
@@ -34138,7 +34147,7 @@
     },
     {
         "zip":6593,
-        "zip-share":1.65,
+        "zip-share":1.66,
         "town":"Cadenazzo",
         "bfs":5398,
         "municipality":"Gambarogno",
@@ -34264,7 +34273,7 @@
     },
     {
         "zip":6600,
-        "zip-share":50.7,
+        "zip-share":50.72,
         "town":"Locarno",
         "bfs":5113,
         "municipality":"Locarno",
@@ -34273,7 +34282,7 @@
     },
     {
         "zip":6600,
-        "zip-share":26.89,
+        "zip-share":26.85,
         "town":"Solduno",
         "bfs":5113,
         "municipality":"Locarno",
@@ -34282,7 +34291,7 @@
     },
     {
         "zip":6600,
-        "zip-share":22.34,
+        "zip-share":22.37,
         "town":"Muralto",
         "bfs":5120,
         "municipality":"Muralto",
@@ -35631,6 +35640,15 @@
         "locale":"it"
     },
     {
+        "zip":6830,
+        "zip-share":0.57,
+        "town":"Chiasso",
+        "bfs":5242,
+        "municipality":"Balerna",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
         "zip":6832,
         "zip-share":64.45,
         "town":"Pedrinate",
@@ -36185,6 +36203,15 @@
         "town":"Bioggio",
         "bfs":5151,
         "municipality":"Bioggio",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
+        "zip":6934,
+        "zip-share":0.82,
+        "town":"Bioggio",
+        "bfs":5141,
+        "municipality":"Agno",
         "canton":"TI",
         "locale":"it"
     },
@@ -36770,6 +36797,15 @@
         "town":"Agno",
         "bfs":5151,
         "municipality":"Bioggio",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
+        "zip":6982,
+        "zip-share":0.17,
+        "town":"Agno",
+        "bfs":5205,
+        "municipality":"Muzzano",
         "canton":"TI",
         "locale":"it"
     },
@@ -47399,6 +47435,15 @@
         "town":"Trogen",
         "bfs":3036,
         "municipality":"Wald (AR)",
+        "canton":"AR",
+        "locale":"de"
+    },
+    {
+        "zip":9043,
+        "zip-share":0.25,
+        "town":"Trogen",
+        "bfs":3022,
+        "municipality":"Gais",
         "canton":"AR",
         "locale":"de"
     },
