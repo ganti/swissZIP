@@ -26170,7 +26170,7 @@
     {
         "bfs":5138,
         "zip":6516,
-        "zip-share":81.54,
+        "zip-share":81.95,
         "town":"Cugnasco-Gerra",
         "canton":"TI",
         "locale":"it"
@@ -26178,7 +26178,7 @@
     {
         "bfs":5113,
         "zip":6516,
-        "zip-share":18.46,
+        "zip-share":18.05,
         "town":"Locarno",
         "canton":"TI",
         "locale":"it"
@@ -26626,7 +26626,7 @@
     {
         "bfs":5398,
         "zip":6594,
-        "zip-share":95.95,
+        "zip-share":95.39,
         "town":"Gambarogno",
         "canton":"TI",
         "locale":"it"
@@ -26634,15 +26634,23 @@
     {
         "bfs":5113,
         "zip":6594,
-        "zip-share":4.05,
+        "zip-share":4.03,
         "town":"Locarno",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
+        "bfs":5138,
+        "zip":6594,
+        "zip-share":0.58,
+        "town":"Cugnasco-Gerra",
         "canton":"TI",
         "locale":"it"
     },
     {
         "bfs":5112,
         "zip":6595,
-        "zip-share":82.87,
+        "zip-share":82.68,
         "town":"Lavertezzo",
         "canton":"TI",
         "locale":"it"
@@ -26650,8 +26658,16 @@
     {
         "bfs":5113,
         "zip":6595,
-        "zip-share":17.13,
+        "zip-share":17.08,
         "town":"Locarno",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
+        "bfs":5138,
+        "zip":6595,
+        "zip-share":0.24,
+        "town":"Cugnasco-Gerra",
         "canton":"TI",
         "locale":"it"
     },
@@ -35418,7 +35434,7 @@
     {
         "bfs":1322,
         "zip":8806,
-        "zip-share":68.98,
+        "zip-share":69.08,
         "town":"Freienbach",
         "canton":"SZ",
         "locale":"de"
@@ -35426,7 +35442,7 @@
     {
         "bfs":1323,
         "zip":8806,
-        "zip-share":31.02,
+        "zip-share":30.92,
         "town":"Wollerau",
         "canton":"SZ",
         "locale":"de"
@@ -35498,7 +35514,7 @@
     {
         "bfs":1323,
         "zip":8832,
-        "zip-share":68.21,
+        "zip-share":68.19,
         "town":"Wollerau",
         "canton":"SZ",
         "locale":"de"
@@ -35506,7 +35522,7 @@
     {
         "bfs":1322,
         "zip":8832,
-        "zip-share":31.6,
+        "zip-share":31.62,
         "town":"Freienbach",
         "canton":"SZ",
         "locale":"de"
@@ -35762,7 +35778,7 @@
     {
         "bfs":1349,
         "zip":8855,
-        "zip-share":93.8,
+        "zip-share":93.86,
         "town":"Wangen (SZ)",
         "canton":"SZ",
         "locale":"de"
@@ -35770,7 +35786,7 @@
     {
         "bfs":1347,
         "zip":8855,
-        "zip-share":5.69,
+        "zip-share":5.63,
         "town":"Tuggen",
         "canton":"SZ",
         "locale":"de"
@@ -37650,7 +37666,7 @@
     {
         "bfs":3424,
         "zip":9245,
-        "zip-share":99.33,
+        "zip-share":99.19,
         "town":"Oberb\u00fcren",
         "canton":"SG",
         "locale":"de"
@@ -37658,7 +37674,7 @@
     {
         "bfs":3423,
         "zip":9245,
-        "zip-share":0.67,
+        "zip-share":0.81,
         "town":"Niederhelfenschwil",
         "canton":"SG",
         "locale":"de"
@@ -38802,7 +38818,7 @@
     {
         "bfs":3426,
         "zip":9524,
-        "zip-share":99.02,
+        "zip-share":98.2,
         "town":"Zuzwil (SG)",
         "canton":"SG",
         "locale":"de"
@@ -38810,8 +38826,16 @@
     {
         "bfs":3427,
         "zip":9524,
-        "zip-share":0.98,
+        "zip-share":0.97,
         "town":"Wil (SG)",
+        "canton":"SG",
+        "locale":"de"
+    },
+    {
+        "bfs":3423,
+        "zip":9524,
+        "zip-share":0.83,
+        "town":"Niederhelfenschwil",
         "canton":"SG",
         "locale":"de"
     },

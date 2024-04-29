@@ -33535,7 +33535,7 @@
     },
     {
         "zip":6516,
-        "zip-share":81.54,
+        "zip-share":81.95,
         "town":"Cugnasco",
         "bfs":5138,
         "municipality":"Cugnasco-Gerra",
@@ -33544,7 +33544,7 @@
     },
     {
         "zip":6516,
-        "zip-share":18.46,
+        "zip-share":18.05,
         "town":"Cugnasco",
         "bfs":5113,
         "municipality":"Locarno",
@@ -34075,7 +34075,7 @@
     },
     {
         "zip":6594,
-        "zip-share":95.95,
+        "zip-share":95.39,
         "town":"Contone",
         "bfs":5398,
         "municipality":"Gambarogno",
@@ -34084,7 +34084,7 @@
     },
     {
         "zip":6594,
-        "zip-share":4.05,
+        "zip-share":4.03,
         "town":"Contone",
         "bfs":5113,
         "municipality":"Locarno",
@@ -34092,8 +34092,17 @@
         "locale":"it"
     },
     {
+        "zip":6594,
+        "zip-share":0.58,
+        "town":"Contone",
+        "bfs":5138,
+        "municipality":"Cugnasco-Gerra",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
         "zip":6595,
-        "zip-share":82.87,
+        "zip-share":82.68,
         "town":"Riazzino",
         "bfs":5112,
         "municipality":"Lavertezzo",
@@ -34102,10 +34111,19 @@
     },
     {
         "zip":6595,
-        "zip-share":17.13,
+        "zip-share":17.08,
         "town":"Riazzino",
         "bfs":5113,
         "municipality":"Locarno",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
+        "zip":6595,
+        "zip-share":0.24,
+        "town":"Riazzino",
+        "bfs":5138,
+        "municipality":"Cugnasco-Gerra",
         "canton":"TI",
         "locale":"it"
     },
@@ -40474,7 +40492,7 @@
     },
     {
         "zip":8152,
-        "zip-share":42.79,
+        "zip-share":42.84,
         "town":"Glattbrugg",
         "bfs":66,
         "municipality":"Opfikon",
@@ -40483,7 +40501,7 @@
     },
     {
         "zip":8152,
-        "zip-share":37.92,
+        "zip-share":37.96,
         "town":"Opfikon",
         "bfs":66,
         "municipality":"Opfikon",
@@ -40492,7 +40510,7 @@
     },
     {
         "zip":8152,
-        "zip-share":16.87,
+        "zip-share":16.78,
         "town":"Glattpark (Opfikon)",
         "bfs":66,
         "municipality":"Opfikon",
@@ -45658,7 +45676,7 @@
     },
     {
         "zip":8806,
-        "zip-share":68.98,
+        "zip-share":69.08,
         "town":"B\u00e4ch SZ",
         "bfs":1322,
         "municipality":"Freienbach",
@@ -45667,7 +45685,7 @@
     },
     {
         "zip":8806,
-        "zip-share":31.02,
+        "zip-share":30.92,
         "town":"B\u00e4ch SZ",
         "bfs":1323,
         "municipality":"Wollerau",
@@ -45748,7 +45766,7 @@
     },
     {
         "zip":8832,
-        "zip-share":68.21,
+        "zip-share":68.19,
         "town":"Wollerau",
         "bfs":1323,
         "municipality":"Wollerau",
@@ -45757,7 +45775,7 @@
     },
     {
         "zip":8832,
-        "zip-share":31.51,
+        "zip-share":31.53,
         "town":"Wilen b. Wollerau",
         "bfs":1322,
         "municipality":"Freienbach",
@@ -45856,7 +45874,7 @@
     },
     {
         "zip":8840,
-        "zip-share":86.0,
+        "zip-share":85.99,
         "town":"Einsiedeln",
         "bfs":1301,
         "municipality":"Einsiedeln",
@@ -45865,7 +45883,7 @@
     },
     {
         "zip":8840,
-        "zip-share":14.0,
+        "zip-share":14.01,
         "town":"Trachslau",
         "bfs":1301,
         "municipality":"Einsiedeln",
@@ -46072,7 +46090,7 @@
     },
     {
         "zip":8855,
-        "zip-share":93.8,
+        "zip-share":93.86,
         "town":"Wangen SZ",
         "bfs":1349,
         "municipality":"Wangen (SZ)",
@@ -46081,7 +46099,7 @@
     },
     {
         "zip":8855,
-        "zip-share":5.69,
+        "zip-share":5.63,
         "town":"Wangen SZ",
         "bfs":1347,
         "municipality":"Tuggen",
@@ -48385,7 +48403,7 @@
     },
     {
         "zip":9245,
-        "zip-share":74.5,
+        "zip-share":74.39,
         "town":"Oberb\u00fcren",
         "bfs":3424,
         "municipality":"Oberb\u00fcren",
@@ -48394,7 +48412,7 @@
     },
     {
         "zip":9245,
-        "zip-share":24.83,
+        "zip-share":24.8,
         "town":"Sonnental",
         "bfs":3424,
         "municipality":"Oberb\u00fcren",
@@ -48403,8 +48421,17 @@
     },
     {
         "zip":9245,
-        "zip-share":0.67,
+        "zip-share":0.66,
         "town":"Oberb\u00fcren",
+        "bfs":3423,
+        "municipality":"Niederhelfenschwil",
+        "canton":"SG",
+        "locale":"de"
+    },
+    {
+        "zip":9245,
+        "zip-share":0.15,
+        "town":"Sonnental",
         "bfs":3423,
         "municipality":"Niederhelfenschwil",
         "canton":"SG",
@@ -49852,7 +49879,7 @@
     },
     {
         "zip":9524,
-        "zip-share":99.02,
+        "zip-share":98.2,
         "town":"Zuzwil SG",
         "bfs":3426,
         "municipality":"Zuzwil (SG)",
@@ -49861,10 +49888,19 @@
     },
     {
         "zip":9524,
-        "zip-share":0.98,
+        "zip-share":0.97,
         "town":"Zuzwil SG",
         "bfs":3427,
         "municipality":"Wil (SG)",
+        "canton":"SG",
+        "locale":"de"
+    },
+    {
+        "zip":9524,
+        "zip-share":0.83,
+        "town":"Zuzwil SG",
+        "bfs":3423,
+        "municipality":"Niederhelfenschwil",
         "canton":"SG",
         "locale":"de"
     },
