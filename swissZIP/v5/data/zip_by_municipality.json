@@ -6144,6 +6144,14 @@
         "locale":"fr"
     },
     {
+        "bfs":6153,
+        "zip":1893,
+        "zip-share":1.82,
+        "town":"Monthey",
+        "canton":"VS",
+        "locale":"fr"
+    },
+    {
         "bfs":6158,
         "zip":1895,
         "zip-share":97.37,
@@ -20616,14 +20624,6 @@
         "locale":"de"
     },
     {
-        "bfs":4228,
-        "zip":5630,
-        "zip-share":0.81,
-        "town":"Boswil",
-        "canton":"AG",
-        "locale":"de"
-    },
-    {
         "bfs":4230,
         "zip":5632,
         "zip-share":93.48,
@@ -21104,14 +21104,6 @@
         "locale":"de"
     },
     {
-        "bfs":1507,
-        "zip":6010,
-        "zip-share":0.3,
-        "town":"Hergiswil (NW)",
-        "canton":"NW",
-        "locale":"de"
-    },
-    {
         "bfs":1059,
         "zip":6012,
         "zip-share":100.0,
@@ -21133,14 +21125,6 @@
         "zip-share":8.57,
         "town":"Kriens",
         "canton":"LU",
-        "locale":"de"
-    },
-    {
-        "bfs":1507,
-        "zip":6013,
-        "zip-share":5.71,
-        "town":"Hergiswil (NW)",
-        "canton":"NW",
         "locale":"de"
     },
     {
@@ -21476,14 +21460,6 @@
         "zip":6034,
         "zip-share":1.05,
         "town":"Dietwil",
-        "canton":"AG",
-        "locale":"de"
-    },
-    {
-        "bfs":4239,
-        "zip":6034,
-        "zip-share":1.05,
-        "town":"Sins",
         "canton":"AG",
         "locale":"de"
     },
@@ -22116,14 +22092,6 @@
         "zip":6145,
         "zip-share":96.55,
         "town":"Fischbach",
-        "canton":"LU",
-        "locale":"de"
-    },
-    {
-        "bfs":1131,
-        "zip":6145,
-        "zip-share":3.45,
-        "town":"Grossdietwil",
         "canton":"LU",
         "locale":"de"
     },
@@ -22808,14 +22776,6 @@
         "locale":"de"
     },
     {
-        "bfs":1131,
-        "zip":6245,
-        "zip-share":3.51,
-        "town":"Grossdietwil",
-        "canton":"LU",
-        "locale":"de"
-    },
-    {
         "bfs":1123,
         "zip":6246,
         "zip-share":94.74,
@@ -23005,14 +22965,6 @@
         "zip-share":1.85,
         "town":"Hochdorf",
         "canton":"LU",
-        "locale":"de"
-    },
-    {
-        "bfs":4239,
-        "zip":6275,
-        "zip-share":0.93,
-        "town":"Sins",
-        "canton":"AG",
         "locale":"de"
     },
     {
@@ -23498,7 +23450,7 @@
     {
         "bfs":1510,
         "zip":6363,
-        "zip-share":80.44,
+        "zip-share":78.27,
         "town":"Stansstad",
         "canton":"NW",
         "locale":"de"
@@ -23538,7 +23490,7 @@
     {
         "bfs":1508,
         "zip":6370,
-        "zip-share":29.25,
+        "zip-share":28.72,
         "town":"Oberdorf (NW)",
         "canton":"NW",
         "locale":"de"
@@ -23596,14 +23548,6 @@
         "zip":6374,
         "zip-share":0.57,
         "town":"Ennetb\u00fcrgen",
-        "canton":"NW",
-        "locale":"de"
-    },
-    {
-        "bfs":1508,
-        "zip":6374,
-        "zip-share":0.57,
-        "town":"Oberdorf (NW)",
         "canton":"NW",
         "locale":"de"
     },
@@ -24052,14 +23996,6 @@
         "zip":6460,
         "zip-share":12.8,
         "town":"B\u00fcrglen (UR)",
-        "canton":"UR",
-        "locale":"de"
-    },
-    {
-        "bfs":1207,
-        "zip":6460,
-        "zip-share":1.22,
-        "town":"Fl\u00fcelen",
         "canton":"UR",
         "locale":"de"
     },
@@ -24760,14 +24696,6 @@
         "locale":"it"
     },
     {
-        "bfs":5138,
-        "zip":6594,
-        "zip-share":3.57,
-        "town":"Cugnasco-Gerra",
-        "canton":"TI",
-        "locale":"it"
-    },
-    {
         "bfs":5113,
         "zip":6594,
         "zip-share":3.57,
@@ -24788,14 +24716,6 @@
         "zip":6595,
         "zip-share":12.5,
         "town":"Locarno",
-        "canton":"TI",
-        "locale":"it"
-    },
-    {
-        "bfs":5138,
-        "zip":6595,
-        "zip-share":4.17,
-        "town":"Cugnasco-Gerra",
         "canton":"TI",
         "locale":"it"
     },
@@ -28896,6 +28816,14 @@
         "locale":"rm"
     },
     {
+        "bfs":3762,
+        "zip":7557,
+        "zip-share":5.56,
+        "town":"Scuol",
+        "canton":"GR",
+        "locale":"rm"
+    },
+    {
         "bfs":3764,
         "zip":7558,
         "zip-share":85.71,
@@ -29800,14 +29728,6 @@
         "locale":"de"
     },
     {
-        "bfs":58,
-        "zip":8180,
-        "zip-share":0.34,
-        "town":"Glattfelden",
-        "canton":"ZH",
-        "locale":"de"
-    },
-    {
         "bfs":60,
         "zip":8181,
         "zip-share":100.0,
@@ -30124,14 +30044,6 @@
         "zip":8226,
         "zip-share":1.89,
         "town":"G\u00e4chlingen",
-        "canton":"SH",
-        "locale":"de"
-    },
-    {
-        "bfs":2951,
-        "zip":8226,
-        "zip-share":0.94,
-        "town":"Beggingen",
         "canton":"SH",
         "locale":"de"
     },
@@ -35136,14 +35048,6 @@
         "locale":"de"
     },
     {
-        "bfs":3401,
-        "zip":9230,
-        "zip-share":0.34,
-        "town":"Degersheim",
-        "canton":"SG",
-        "locale":"de"
-    },
-    {
         "bfs":3402,
         "zip":9231,
         "zip-share":100.0,
@@ -35242,7 +35146,7 @@
     {
         "bfs":3423,
         "zip":9245,
-        "zip-share":1.24,
+        "zip-share":0.62,
         "town":"Niederhelfenschwil",
         "canton":"SG",
         "locale":"de"
@@ -36300,14 +36204,6 @@
         "zip":9524,
         "zip-share":2.78,
         "town":"Wil (SG)",
-        "canton":"SG",
-        "locale":"de"
-    },
-    {
-        "bfs":3423,
-        "zip":9524,
-        "zip-share":0.93,
-        "town":"Niederhelfenschwil",
         "canton":"SG",
         "locale":"de"
     },

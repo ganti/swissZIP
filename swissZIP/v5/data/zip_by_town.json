@@ -8289,6 +8289,15 @@
         "locale":"fr"
     },
     {
+        "zip":1893,
+        "zip-share":1.82,
+        "town":"Muraz (Collombey)",
+        "bfs":6153,
+        "municipality":"Monthey",
+        "canton":"VS",
+        "locale":"fr"
+    },
+    {
         "zip":1895,
         "zip-share":97.37,
         "town":"Vionnaz",
@@ -26667,15 +26676,6 @@
         "locale":"de"
     },
     {
-        "zip":5630,
-        "zip-share":0.81,
-        "town":"Muri AG",
-        "bfs":4228,
-        "municipality":"Boswil",
-        "canton":"AG",
-        "locale":"de"
-    },
-    {
         "zip":5632,
         "zip-share":93.48,
         "town":"Buttwil",
@@ -27252,15 +27252,6 @@
         "locale":"de"
     },
     {
-        "zip":6010,
-        "zip-share":0.3,
-        "town":"Kriens",
-        "bfs":1507,
-        "municipality":"Hergiswil (NW)",
-        "canton":"NW",
-        "locale":"de"
-    },
-    {
         "zip":6012,
         "zip-share":100.0,
         "town":"Obernau",
@@ -27285,15 +27276,6 @@
         "bfs":1059,
         "municipality":"Kriens",
         "canton":"LU",
-        "locale":"de"
-    },
-    {
-        "zip":6013,
-        "zip-share":5.71,
-        "town":"Eigenthal",
-        "bfs":1507,
-        "municipality":"Hergiswil (NW)",
-        "canton":"NW",
         "locale":"de"
     },
     {
@@ -27671,15 +27653,6 @@
         "town":"Inwil",
         "bfs":4231,
         "municipality":"Dietwil",
-        "canton":"AG",
-        "locale":"de"
-    },
-    {
-        "zip":6034,
-        "zip-share":1.05,
-        "town":"Inwil",
-        "bfs":4239,
-        "municipality":"Sins",
         "canton":"AG",
         "locale":"de"
     },
@@ -28418,15 +28391,6 @@
         "town":"Fischbach LU",
         "bfs":1129,
         "municipality":"Fischbach",
-        "canton":"LU",
-        "locale":"de"
-    },
-    {
-        "zip":6145,
-        "zip-share":3.45,
-        "town":"Fischbach LU",
-        "bfs":1131,
-        "municipality":"Grossdietwil",
         "canton":"LU",
         "locale":"de"
     },
@@ -29241,15 +29205,6 @@
         "locale":"de"
     },
     {
-        "zip":6245,
-        "zip-share":3.51,
-        "town":"Ebersecken",
-        "bfs":1131,
-        "municipality":"Grossdietwil",
-        "canton":"LU",
-        "locale":"de"
-    },
-    {
         "zip":6246,
         "zip-share":94.74,
         "town":"Altishofen",
@@ -29490,15 +29445,6 @@
         "bfs":1031,
         "municipality":"Hochdorf",
         "canton":"LU",
-        "locale":"de"
-    },
-    {
-        "zip":6275,
-        "zip-share":0.93,
-        "town":"Ballwil",
-        "bfs":4239,
-        "municipality":"Sins",
-        "canton":"AG",
         "locale":"de"
     },
     {
@@ -30222,15 +30168,6 @@
         "locale":"de"
     },
     {
-        "zip":6363,
-        "zip-share":2.17,
-        "town":"B\u00fcrgenstock",
-        "bfs":1510,
-        "municipality":"Stansstad",
-        "canton":"NW",
-        "locale":"de"
-    },
-    {
         "zip":6365,
         "zip-share":90.0,
         "town":"Kehrsiten",
@@ -30272,15 +30209,6 @@
         "town":"Stans",
         "bfs":1506,
         "municipality":"Ennetmoos",
-        "canton":"NW",
-        "locale":"de"
-    },
-    {
-        "zip":6370,
-        "zip-share":0.53,
-        "town":"Stans",
-        "bfs":1508,
-        "municipality":"Oberdorf (NW)",
         "canton":"NW",
         "locale":"de"
     },
@@ -30335,15 +30263,6 @@
         "town":"Buochs",
         "bfs":1505,
         "municipality":"Ennetb\u00fcrgen",
-        "canton":"NW",
-        "locale":"de"
-    },
-    {
-        "zip":6374,
-        "zip-share":0.57,
-        "town":"Buochs",
-        "bfs":1508,
-        "municipality":"Oberdorf (NW)",
         "canton":"NW",
         "locale":"de"
     },
@@ -30929,15 +30848,6 @@
         "town":"Altdorf UR",
         "bfs":1205,
         "municipality":"B\u00fcrglen (UR)",
-        "canton":"UR",
-        "locale":"de"
-    },
-    {
-        "zip":6460,
-        "zip-share":1.22,
-        "town":"Altdorf UR",
-        "bfs":1207,
-        "municipality":"Fl\u00fcelen",
         "canton":"UR",
         "locale":"de"
     },
@@ -31761,15 +31671,6 @@
         "locale":"it"
     },
     {
-        "zip":6594,
-        "zip-share":3.57,
-        "town":"Contone",
-        "bfs":5138,
-        "municipality":"Cugnasco-Gerra",
-        "canton":"TI",
-        "locale":"it"
-    },
-    {
         "zip":6595,
         "zip-share":70.83,
         "town":"Riazzino",
@@ -31784,15 +31685,6 @@
         "town":"Riazzino",
         "bfs":5113,
         "municipality":"Locarno",
-        "canton":"TI",
-        "locale":"it"
-    },
-    {
-        "zip":6595,
-        "zip-share":4.17,
-        "town":"Riazzino",
-        "bfs":5138,
-        "municipality":"Cugnasco-Gerra",
         "canton":"TI",
         "locale":"it"
     },
@@ -37215,6 +37107,15 @@
         "locale":"rm"
     },
     {
+        "zip":7557,
+        "zip-share":5.56,
+        "town":"Vn\u00e0",
+        "bfs":3762,
+        "municipality":"Scuol",
+        "canton":"GR",
+        "locale":"rm"
+    },
+    {
         "zip":7558,
         "zip-share":85.71,
         "town":"Strada",
@@ -38304,15 +38205,6 @@
         "locale":"de"
     },
     {
-        "zip":8180,
-        "zip-share":0.34,
-        "town":"B\u00fclach",
-        "bfs":58,
-        "municipality":"Glattfelden",
-        "canton":"ZH",
-        "locale":"de"
-    },
-    {
         "zip":8181,
         "zip-share":100.0,
         "town":"H\u00f6ri",
@@ -38678,15 +38570,6 @@
         "town":"Schleitheim",
         "bfs":2901,
         "municipality":"G\u00e4chlingen",
-        "canton":"SH",
-        "locale":"de"
-    },
-    {
-        "zip":8226,
-        "zip-share":0.94,
-        "town":"Schleitheim",
-        "bfs":2951,
-        "municipality":"Beggingen",
         "canton":"SH",
         "locale":"de"
     },
@@ -45414,15 +45297,6 @@
         "locale":"de"
     },
     {
-        "zip":9230,
-        "zip-share":0.34,
-        "town":"Flawil",
-        "bfs":3401,
-        "municipality":"Degersheim",
-        "canton":"SG",
-        "locale":"de"
-    },
-    {
         "zip":9231,
         "zip-share":100.0,
         "town":"Egg (Flawil)",
@@ -45543,15 +45417,6 @@
         "zip":9245,
         "zip-share":0.62,
         "town":"Oberb\u00fcren",
-        "bfs":3423,
-        "municipality":"Niederhelfenschwil",
-        "canton":"SG",
-        "locale":"de"
-    },
-    {
-        "zip":9245,
-        "zip-share":0.62,
-        "town":"Sonnental",
         "bfs":3423,
         "municipality":"Niederhelfenschwil",
         "canton":"SG",
@@ -46895,15 +46760,6 @@
         "town":"Zuzwil SG",
         "bfs":3427,
         "municipality":"Wil (SG)",
-        "canton":"SG",
-        "locale":"de"
-    },
-    {
-        "zip":9524,
-        "zip-share":0.93,
-        "town":"Zuzwil SG",
-        "bfs":3423,
-        "municipality":"Niederhelfenschwil",
         "canton":"SG",
         "locale":"de"
     },
