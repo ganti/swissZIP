@@ -9904,6 +9904,14 @@
         "locale":"de"
     },
     {
+        "bfs":6719,
+        "zip":2814,
+        "zip-share":0.96,
+        "town":"Pleigne",
+        "canton":"JU",
+        "locale":"de"
+    },
+    {
         "bfs":6709,
         "zip":2822,
         "zip-share":100.0,
@@ -22376,6 +22384,14 @@
         "locale":"de"
     },
     {
+        "bfs":4228,
+        "zip":5630,
+        "zip-share":0.65,
+        "town":"Boswil",
+        "canton":"AG",
+        "locale":"de"
+    },
+    {
         "bfs":4230,
         "zip":5632,
         "zip-share":89.01,
@@ -22888,6 +22904,14 @@
         "locale":"de"
     },
     {
+        "bfs":1507,
+        "zip":6010,
+        "zip-share":0.1,
+        "town":"Hergiswil (NW)",
+        "canton":"NW",
+        "locale":"de"
+    },
+    {
         "bfs":1059,
         "zip":6012,
         "zip-share":100.0,
@@ -22901,6 +22925,14 @@
         "zip-share":94.37,
         "town":"Schwarzenberg",
         "canton":"LU",
+        "locale":"de"
+    },
+    {
+        "bfs":1507,
+        "zip":6013,
+        "zip-share":2.98,
+        "town":"Hergiswil (NW)",
+        "canton":"NW",
         "locale":"de"
     },
     {
@@ -23252,6 +23284,14 @@
         "zip":6034,
         "zip-share":1.11,
         "town":"Dietwil",
+        "canton":"AG",
+        "locale":"de"
+    },
+    {
+        "bfs":4239,
+        "zip":6034,
+        "zip-share":0.43,
+        "town":"Sins",
         "canton":"AG",
         "locale":"de"
     },
@@ -23892,6 +23932,14 @@
         "zip":6145,
         "zip-share":99.13,
         "town":"Fischbach",
+        "canton":"LU",
+        "locale":"de"
+    },
+    {
+        "bfs":1131,
+        "zip":6145,
+        "zip-share":0.87,
+        "town":"Grossdietwil",
         "canton":"LU",
         "locale":"de"
     },
@@ -24624,6 +24672,14 @@
         "locale":"de"
     },
     {
+        "bfs":1131,
+        "zip":6245,
+        "zip-share":7.14,
+        "town":"Grossdietwil",
+        "canton":"LU",
+        "locale":"de"
+    },
+    {
         "bfs":1123,
         "zip":6246,
         "zip-share":96.5,
@@ -24829,6 +24885,14 @@
         "zip-share":1.12,
         "town":"Hochdorf",
         "canton":"LU",
+        "locale":"de"
+    },
+    {
+        "bfs":4239,
+        "zip":6275,
+        "zip-share":0.48,
+        "town":"Sins",
+        "canton":"AG",
         "locale":"de"
     },
     {
@@ -25346,7 +25410,7 @@
     {
         "bfs":1510,
         "zip":6363,
-        "zip-share":74.83,
+        "zip-share":78.91,
         "town":"Stansstad",
         "canton":"NW",
         "locale":"de"
@@ -25386,7 +25450,7 @@
     {
         "bfs":1508,
         "zip":6370,
-        "zip-share":25.71,
+        "zip-share":25.85,
         "town":"Oberdorf (NW)",
         "canton":"NW",
         "locale":"de"
@@ -25444,6 +25508,14 @@
         "zip":6374,
         "zip-share":0.55,
         "town":"Ennetb\u00fcrgen",
+        "canton":"NW",
+        "locale":"de"
+    },
+    {
+        "bfs":1508,
+        "zip":6374,
+        "zip-share":0.41,
+        "town":"Oberdorf (NW)",
         "canton":"NW",
         "locale":"de"
     },
@@ -25900,6 +25972,14 @@
         "zip":6460,
         "zip-share":9.24,
         "town":"B\u00fcrglen (UR)",
+        "canton":"UR",
+        "locale":"de"
+    },
+    {
+        "bfs":1207,
+        "zip":6460,
+        "zip-share":0.22,
+        "town":"Fl\u00fcelen",
         "canton":"UR",
         "locale":"de"
     },
@@ -26648,6 +26728,14 @@
         "locale":"it"
     },
     {
+        "bfs":5138,
+        "zip":6594,
+        "zip-share":0.58,
+        "town":"Cugnasco-Gerra",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
         "bfs":5112,
         "zip":6595,
         "zip-share":82.68,
@@ -26660,6 +26748,14 @@
         "zip":6595,
         "zip-share":17.08,
         "town":"Locarno",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
+        "bfs":5138,
+        "zip":6595,
+        "zip-share":0.24,
+        "town":"Cugnasco-Gerra",
         "canton":"TI",
         "locale":"it"
     },
@@ -28280,6 +28376,14 @@
         "locale":"it"
     },
     {
+        "bfs":5221,
+        "zip":6948,
+        "zip-share":0.33,
+        "town":"Savosa",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
         "bfs":5176,
         "zip":6949,
         "zip-share":100.0,
@@ -28516,6 +28620,14 @@
         "zip":6982,
         "zip-share":0.17,
         "town":"Bioggio",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
+        "bfs":5205,
+        "zip":6982,
+        "zip-share":0.17,
+        "town":"Muzzano",
         "canton":"TI",
         "locale":"it"
     },
@@ -32220,6 +32332,14 @@
         "zip":8226,
         "zip-share":98.76,
         "town":"Schleitheim",
+        "canton":"SH",
+        "locale":"de"
+    },
+    {
+        "bfs":2951,
+        "zip":8226,
+        "zip-share":0.66,
+        "town":"Beggingen",
         "canton":"SH",
         "locale":"de"
     },
@@ -37560,6 +37680,14 @@
         "locale":"de"
     },
     {
+        "bfs":3401,
+        "zip":9230,
+        "zip-share":0.86,
+        "town":"Degersheim",
+        "canton":"SG",
+        "locale":"de"
+    },
+    {
         "bfs":3424,
         "zip":9230,
         "zip-share":0.58,
@@ -37666,7 +37794,7 @@
     {
         "bfs":3423,
         "zip":9245,
-        "zip-share":0.66,
+        "zip-share":0.81,
         "town":"Niederhelfenschwil",
         "canton":"SG",
         "locale":"de"
@@ -38820,6 +38948,14 @@
         "zip":9524,
         "zip-share":0.97,
         "town":"Wil (SG)",
+        "canton":"SG",
+        "locale":"de"
+    },
+    {
+        "bfs":3423,
+        "zip":9524,
+        "zip-share":0.83,
+        "town":"Niederhelfenschwil",
         "canton":"SG",
         "locale":"de"
     },
