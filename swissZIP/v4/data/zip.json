@@ -3698,7 +3698,7 @@
     {
         "bfs":2054,
         "zip":1475,
-        "zip-share":100.0,
+        "zip-share":99.99,
         "town":"Estavayer",
         "canton":"FR",
         "locale":"fr"
@@ -9842,7 +9842,7 @@
     {
         "bfs":6719,
         "zip":2807,
-        "zip-share":95.49,
+        "zip-share":95.5,
         "town":"Pleigne",
         "canton":"JU",
         "locale":"fr"
@@ -9850,7 +9850,7 @@
     {
         "bfs":6810,
         "zip":2807,
-        "zip-share":4.51,
+        "zip-share":4.5,
         "town":"La Baroche",
         "canton":"JU",
         "locale":"fr"
@@ -10690,7 +10690,7 @@
     {
         "bfs":360,
         "zip":3033,
-        "zip-share":97.25,
+        "zip-share":97.26,
         "town":"Wohlen bei Bern",
         "canton":"BE",
         "locale":"de"
@@ -10698,7 +10698,7 @@
     {
         "bfs":663,
         "zip":3033,
-        "zip-share":2.75,
+        "zip-share":2.74,
         "town":"Frauenkappelen",
         "canton":"BE",
         "locale":"de"
@@ -10970,7 +10970,7 @@
     {
         "bfs":352,
         "zip":3065,
-        "zip-share":98.26,
+        "zip-share":98.25,
         "town":"Bolligen",
         "canton":"BE",
         "locale":"de"
@@ -10978,7 +10978,7 @@
     {
         "bfs":363,
         "zip":3065,
-        "zip-share":1.74,
+        "zip-share":1.75,
         "town":"Ostermundigen",
         "canton":"BE",
         "locale":"de"
@@ -12498,7 +12498,7 @@
     {
         "bfs":305,
         "zip":3273,
-        "zip-share":98.68,
+        "zip-share":98.69,
         "town":"Kappelen",
         "canton":"BE",
         "locale":"de"
@@ -12506,7 +12506,7 @@
     {
         "bfs":301,
         "zip":3273,
-        "zip-share":1.32,
+        "zip-share":1.31,
         "town":"Aarberg",
         "canton":"BE",
         "locale":"de"
@@ -13922,7 +13922,7 @@
     {
         "bfs":612,
         "zip":3510,
-        "zip-share":81.56,
+        "zip-share":81.48,
         "town":"Konolfingen",
         "canton":"BE",
         "locale":"de"
@@ -13930,7 +13930,7 @@
     {
         "bfs":607,
         "zip":3510,
-        "zip-share":9.36,
+        "zip-share":9.4,
         "town":"Freimettigen",
         "canton":"BE",
         "locale":"de"
@@ -13938,7 +13938,7 @@
     {
         "bfs":609,
         "zip":3510,
-        "zip-share":8.21,
+        "zip-share":8.25,
         "town":"H\u00e4utligen",
         "canton":"BE",
         "locale":"de"
@@ -15274,7 +15274,7 @@
     {
         "bfs":563,
         "zip":3725,
-        "zip-share":97.53,
+        "zip-share":97.52,
         "town":"Frutigen",
         "canton":"BE",
         "locale":"de"
@@ -15282,7 +15282,7 @@
     {
         "bfs":561,
         "zip":3725,
-        "zip-share":2.47,
+        "zip-share":2.48,
         "town":"Adelboden",
         "canton":"BE",
         "locale":"de"
@@ -24538,7 +24538,7 @@
     {
         "bfs":1097,
         "zip":6221,
-        "zip-share":90.17,
+        "zip-share":90.1,
         "town":"Rickenbach (LU)",
         "canton":"LU",
         "locale":"de"
@@ -24546,7 +24546,7 @@
     {
         "bfs":1081,
         "zip":6221,
-        "zip-share":9.83,
+        "zip-share":9.9,
         "town":"Berom\u00fcnster",
         "canton":"LU",
         "locale":"de"
@@ -25450,7 +25450,7 @@
     {
         "bfs":1509,
         "zip":6370,
-        "zip-share":74.04,
+        "zip-share":74.01,
         "town":"Stans",
         "canton":"NW",
         "locale":"de"
@@ -25458,7 +25458,7 @@
     {
         "bfs":1508,
         "zip":6370,
-        "zip-share":25.85,
+        "zip-share":25.88,
         "town":"Oberdorf (NW)",
         "canton":"NW",
         "locale":"de"
@@ -25578,7 +25578,7 @@
     {
         "bfs":1503,
         "zip":6383,
-        "zip-share":88.62,
+        "zip-share":88.61,
         "town":"Dallenwil",
         "canton":"NW",
         "locale":"de"
@@ -25586,7 +25586,7 @@
     {
         "bfs":1508,
         "zip":6383,
-        "zip-share":8.11,
+        "zip-share":8.12,
         "town":"Oberdorf (NW)",
         "canton":"NW",
         "locale":"de"
@@ -25642,7 +25642,7 @@
     {
         "bfs":1511,
         "zip":6390,
-        "zip-share":4.38,
+        "zip-share":4.37,
         "town":"Wolfenschiessen",
         "canton":"NW",
         "locale":"de"
@@ -25866,7 +25866,7 @@
     {
         "bfs":1367,
         "zip":6436,
-        "zip-share":95.46,
+        "zip-share":95.45,
         "town":"Muotathal",
         "canton":"SZ",
         "locale":"de"
@@ -25874,7 +25874,7 @@
     {
         "bfs":1205,
         "zip":6436,
-        "zip-share":3.77,
+        "zip-share":3.78,
         "town":"B\u00fcrglen (UR)",
         "canton":"UR",
         "locale":"de"
@@ -30770,7 +30770,7 @@
     {
         "bfs":3790,
         "zip":7512,
-        "zip-share":50.2,
+        "zip-share":50.0,
         "town":"Silvaplana",
         "canton":"GR",
         "locale":"rm"
@@ -30778,7 +30778,7 @@
     {
         "bfs":3787,
         "zip":7512,
-        "zip-share":49.8,
+        "zip-share":50.0,
         "town":"St. Moritz",
         "canton":"GR",
         "locale":"rm"
@@ -32186,7 +32186,7 @@
     {
         "bfs":2939,
         "zip":8212,
-        "zip-share":0.65,
+        "zip-share":0.64,
         "town":"Schaffhausen",
         "canton":"SH",
         "locale":"de"
@@ -32410,7 +32410,7 @@
     {
         "bfs":2914,
         "zip":8236,
-        "zip-share":67.58,
+        "zip-share":67.21,
         "town":"B\u00fcttenhardt",
         "canton":"SH",
         "locale":"de"
@@ -32418,7 +32418,7 @@
     {
         "bfs":2920,
         "zip":8236,
-        "zip-share":32.42,
+        "zip-share":32.79,
         "town":"Thayngen",
         "canton":"SH",
         "locale":"de"
@@ -34346,7 +34346,7 @@
     {
         "bfs":4416,
         "zip":8580,
-        "zip-share":15.77,
+        "zip-share":15.78,
         "town":"Hefenhofen",
         "canton":"TG",
         "locale":"de"
@@ -35634,7 +35634,7 @@
     {
         "bfs":1323,
         "zip":8832,
-        "zip-share":68.15,
+        "zip-share":68.12,
         "town":"Wollerau",
         "canton":"SZ",
         "locale":"de"
@@ -35642,7 +35642,7 @@
     {
         "bfs":1322,
         "zip":8832,
-        "zip-share":31.66,
+        "zip-share":31.69,
         "town":"Freienbach",
         "canton":"SZ",
         "locale":"de"
@@ -37250,7 +37250,7 @@
     {
         "bfs":3006,
         "zip":9107,
-        "zip-share":83.87,
+        "zip-share":83.88,
         "town":"Urn\u00e4sch",
         "canton":"AR",
         "locale":"de"
@@ -37258,7 +37258,7 @@
     {
         "bfs":3002,
         "zip":9107,
-        "zip-share":13.82,
+        "zip-share":13.81,
         "town":"Hundwil",
         "canton":"AR",
         "locale":"de"
@@ -37762,7 +37762,7 @@
     {
         "bfs":3405,
         "zip":9243,
-        "zip-share":99.11,
+        "zip-share":99.22,
         "town":"Jonschwil",
         "canton":"SG",
         "locale":"de"
@@ -37770,7 +37770,7 @@
     {
         "bfs":3393,
         "zip":9243,
-        "zip-share":0.89,
+        "zip-share":0.78,
         "town":"L\u00fctisburg",
         "canton":"SG",
         "locale":"de"
@@ -37914,7 +37914,7 @@
     {
         "bfs":4431,
         "zip":9306,
-        "zip-share":92.39,
+        "zip-share":92.41,
         "town":"Roggwil (TG)",
         "canton":"TG",
         "locale":"de"
@@ -37922,7 +37922,7 @@
     {
         "bfs":3211,
         "zip":9306,
-        "zip-share":7.61,
+        "zip-share":7.59,
         "town":"Berg (SG)",
         "canton":"SG",
         "locale":"de"
@@ -38714,7 +38714,7 @@
     {
         "bfs":3271,
         "zip":9470,
-        "zip-share":82.54,
+        "zip-share":82.51,
         "town":"Buchs (SG)",
         "canton":"SG",
         "locale":"de"
@@ -38722,7 +38722,7 @@
     {
         "bfs":3273,
         "zip":9470,
-        "zip-share":13.21,
+        "zip-share":13.2,
         "town":"Grabs",
         "canton":"SG",
         "locale":"de"
@@ -38730,7 +38730,7 @@
     {
         "bfs":3275,
         "zip":9470,
-        "zip-share":4.25,
+        "zip-share":4.29,
         "town":"Sevelen",
         "canton":"SG",
         "locale":"de"
