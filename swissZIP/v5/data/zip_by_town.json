@@ -883,7 +883,7 @@
     },
     {
         "zip":1080,
-        "zip-share":99.56,
+        "zip-share":99.59,
         "town":"Les Cullayes",
         "bfs":5799,
         "municipality":"Servion",
@@ -892,7 +892,7 @@
     },
     {
         "zip":1080,
-        "zip-share":0.44,
+        "zip-share":0.41,
         "town":"Les Cullayes",
         "bfs":5604,
         "municipality":"Forel (Lavaux)",
@@ -2026,7 +2026,7 @@
     },
     {
         "zip":1212,
-        "zip-share":8.1,
+        "zip-share":8.11,
         "town":"Grand-Lancy",
         "bfs":6631,
         "municipality":"Onex",
@@ -2044,7 +2044,7 @@
     },
     {
         "zip":1213,
-        "zip-share":56.73,
+        "zip-share":56.71,
         "town":"Onex",
         "bfs":6631,
         "municipality":"Onex",
@@ -2053,7 +2053,7 @@
     },
     {
         "zip":1213,
-        "zip-share":42.61,
+        "zip-share":42.62,
         "town":"Petit-Lancy",
         "bfs":6628,
         "municipality":"Lancy",
@@ -2080,7 +2080,7 @@
     },
     {
         "zip":1214,
-        "zip-share":92.27,
+        "zip-share":92.22,
         "town":"Vernier",
         "bfs":6643,
         "municipality":"Vernier",
@@ -2089,7 +2089,7 @@
     },
     {
         "zip":1214,
-        "zip-share":6.03,
+        "zip-share":6.06,
         "town":"Vernier",
         "bfs":6638,
         "municipality":"Satigny",
@@ -2179,7 +2179,7 @@
     },
     {
         "zip":1219,
-        "zip-share":46.41,
+        "zip-share":46.34,
         "town":"A\u00efre",
         "bfs":6643,
         "municipality":"Vernier",
@@ -2188,7 +2188,7 @@
     },
     {
         "zip":1219,
-        "zip-share":37.35,
+        "zip-share":37.44,
         "town":"Ch\u00e2telaine",
         "bfs":6643,
         "municipality":"Vernier",
@@ -2197,7 +2197,7 @@
     },
     {
         "zip":1219,
-        "zip-share":16.25,
+        "zip-share":16.22,
         "town":"Le Lignon",
         "bfs":6643,
         "municipality":"Vernier",
@@ -2260,7 +2260,7 @@
     },
     {
         "zip":1227,
-        "zip-share":81.1,
+        "zip-share":81.14,
         "town":"Carouge GE",
         "bfs":6608,
         "municipality":"Carouge (GE)",
@@ -2269,7 +2269,7 @@
     },
     {
         "zip":1227,
-        "zip-share":17.61,
+        "zip-share":17.57,
         "town":"Les Acacias",
         "bfs":6621,
         "municipality":"Gen\u00e8ve",
@@ -2575,7 +2575,7 @@
     },
     {
         "zip":1256,
-        "zip-share":83.04,
+        "zip-share":83.02,
         "town":"Troinex",
         "bfs":6641,
         "municipality":"Troinex",
@@ -2584,7 +2584,7 @@
     },
     {
         "zip":1256,
-        "zip-share":16.54,
+        "zip-share":16.55,
         "town":"Troinex",
         "bfs":6633,
         "municipality":"Plan-les-Ouates",
@@ -4492,7 +4492,7 @@
     },
     {
         "zip":1470,
-        "zip-share":75.98,
+        "zip-share":76.0,
         "town":"Estavayer-le-Lac",
         "bfs":2054,
         "municipality":"Estavayer",
@@ -4510,7 +4510,7 @@
     },
     {
         "zip":1470,
-        "zip-share":7.93,
+        "zip-share":7.92,
         "town":"Seiry",
         "bfs":2025,
         "municipality":"Lully (FR)",
@@ -4519,7 +4519,7 @@
     },
     {
         "zip":1470,
-        "zip-share":5.32,
+        "zip-share":5.31,
         "town":"Bollion",
         "bfs":2025,
         "municipality":"Lully (FR)",
@@ -5176,7 +5176,7 @@
     },
     {
         "zip":1566,
-        "zip-share":93.52,
+        "zip-share":93.54,
         "town":"St-Aubin FR",
         "bfs":2041,
         "municipality":"Saint-Aubin (FR)",
@@ -5185,7 +5185,7 @@
     },
     {
         "zip":1566,
-        "zip-share":6.48,
+        "zip-share":6.46,
         "town":"Les Friques",
         "bfs":2041,
         "municipality":"Saint-Aubin (FR)",
@@ -6013,7 +6013,7 @@
     },
     {
         "zip":1652,
-        "zip-share":63.44,
+        "zip-share":63.52,
         "town":"Botterens",
         "bfs":2123,
         "municipality":"Botterens",
@@ -6022,7 +6022,7 @@
     },
     {
         "zip":1652,
-        "zip-share":36.56,
+        "zip-share":36.48,
         "town":"Villarbeney",
         "bfs":2123,
         "municipality":"Botterens",
@@ -6841,7 +6841,7 @@
     },
     {
         "zip":1695,
-        "zip-share":30.6,
+        "zip-share":30.89,
         "town":"Rueyres-St-Laurent",
         "bfs":2236,
         "municipality":"Gibloux",
@@ -6850,7 +6850,7 @@
     },
     {
         "zip":1695,
-        "zip-share":28.01,
+        "zip-share":27.89,
         "town":"Villarlod",
         "bfs":2236,
         "municipality":"Gibloux",
@@ -6859,7 +6859,7 @@
     },
     {
         "zip":1695,
-        "zip-share":21.47,
+        "zip-share":21.38,
         "town":"Villarsel-le-Gibloux",
         "bfs":2236,
         "municipality":"Gibloux",
@@ -6868,7 +6868,7 @@
     },
     {
         "zip":1695,
-        "zip-share":19.92,
+        "zip-share":19.83,
         "town":"Estavayer-le-Gibloux",
         "bfs":2236,
         "municipality":"Gibloux",
@@ -6994,7 +6994,7 @@
     },
     {
         "zip":1714,
-        "zip-share":65.07,
+        "zip-share":65.13,
         "town":"Heitenried",
         "bfs":2296,
         "municipality":"Heitenried",
@@ -7003,7 +7003,7 @@
     },
     {
         "zip":1714,
-        "zip-share":34.93,
+        "zip-share":34.87,
         "town":"Heitenried",
         "bfs":2306,
         "municipality":"Tafers",
@@ -7120,7 +7120,7 @@
     },
     {
         "zip":1719,
-        "zip-share":64.28,
+        "zip-share":64.32,
         "town":"Br\u00fcnisried",
         "bfs":2292,
         "municipality":"Br\u00fcnisried",
@@ -7129,7 +7129,7 @@
     },
     {
         "zip":1719,
-        "zip-share":35.07,
+        "zip-share":35.03,
         "town":"Zumholz",
         "bfs":2299,
         "municipality":"Plaffeien",
@@ -7219,7 +7219,7 @@
     },
     {
         "zip":1723,
-        "zip-share":92.72,
+        "zip-share":92.73,
         "town":"Marly",
         "bfs":2206,
         "municipality":"Marly",
@@ -7228,7 +7228,7 @@
     },
     {
         "zip":1723,
-        "zip-share":5.3,
+        "zip-share":5.29,
         "town":"Pierrafortscha",
         "bfs":2216,
         "municipality":"Pierrafortscha",
@@ -7246,7 +7246,7 @@
     },
     {
         "zip":1724,
-        "zip-share":32.09,
+        "zip-share":32.13,
         "town":"Le Mouret",
         "bfs":2220,
         "municipality":"Le Mouret",
@@ -7255,7 +7255,7 @@
     },
     {
         "zip":1724,
-        "zip-share":19.8,
+        "zip-share":19.71,
         "town":"Bonnefontaine",
         "bfs":2220,
         "municipality":"Le Mouret",
@@ -7264,7 +7264,7 @@
     },
     {
         "zip":1724,
-        "zip-share":12.44,
+        "zip-share":12.46,
         "town":"Mont\u00e9vraz",
         "bfs":2220,
         "municipality":"Le Mouret",
@@ -7273,7 +7273,7 @@
     },
     {
         "zip":1724,
-        "zip-share":8.9,
+        "zip-share":8.91,
         "town":"Essert FR",
         "bfs":2220,
         "municipality":"Le Mouret",
@@ -7282,7 +7282,7 @@
     },
     {
         "zip":1724,
-        "zip-share":7.96,
+        "zip-share":7.97,
         "town":"Oberried FR",
         "bfs":2220,
         "municipality":"Le Mouret",
@@ -7291,7 +7291,7 @@
     },
     {
         "zip":1724,
-        "zip-share":7.43,
+        "zip-share":7.44,
         "town":"Ferpicloz",
         "bfs":2194,
         "municipality":"Ferpicloz",
@@ -7300,7 +7300,7 @@
     },
     {
         "zip":1724,
-        "zip-share":5.39,
+        "zip-share":5.4,
         "town":"Z\u00e9nauva",
         "bfs":2220,
         "municipality":"Le Mouret",
@@ -7354,7 +7354,7 @@
     },
     {
         "zip":1725,
-        "zip-share":96.65,
+        "zip-share":96.67,
         "town":"Posieux",
         "bfs":2233,
         "municipality":"Hauterive (FR)",
@@ -7363,7 +7363,7 @@
     },
     {
         "zip":1725,
-        "zip-share":1.74,
+        "zip-share":1.73,
         "town":"Posieux",
         "bfs":2206,
         "municipality":"Marly",
@@ -7372,7 +7372,7 @@
     },
     {
         "zip":1725,
-        "zip-share":1.61,
+        "zip-share":1.6,
         "town":"Posieux",
         "bfs":2238,
         "municipality":"Bois-d'Amont",
@@ -8677,7 +8677,7 @@
     },
     {
         "zip":1873,
-        "zip-share":80.36,
+        "zip-share":80.35,
         "town":"Val-d'Illiez",
         "bfs":6157,
         "municipality":"Val-d'Illiez",
@@ -8803,7 +8803,7 @@
     },
     {
         "zip":1884,
-        "zip-share":67.53,
+        "zip-share":67.25,
         "town":"Villars-sur-Ollon",
         "bfs":5409,
         "municipality":"Ollon",
@@ -8812,7 +8812,7 @@
     },
     {
         "zip":1884,
-        "zip-share":17.77,
+        "zip-share":17.93,
         "town":"Arveyes",
         "bfs":5409,
         "municipality":"Ollon",
@@ -8821,7 +8821,7 @@
     },
     {
         "zip":1884,
-        "zip-share":14.7,
+        "zip-share":14.82,
         "town":"Hu\u00e9moz",
         "bfs":5409,
         "municipality":"Ollon",
@@ -8929,7 +8929,7 @@
     },
     {
         "zip":1896,
-        "zip-share":75.65,
+        "zip-share":75.29,
         "town":"Vouvry",
         "bfs":6159,
         "municipality":"Vouvry",
@@ -8938,7 +8938,7 @@
     },
     {
         "zip":1896,
-        "zip-share":24.35,
+        "zip-share":24.71,
         "town":"Miex",
         "bfs":6159,
         "municipality":"Vouvry",
@@ -8947,7 +8947,7 @@
     },
     {
         "zip":1897,
-        "zip-share":75.14,
+        "zip-share":75.04,
         "town":"Bouveret",
         "bfs":6154,
         "municipality":"Port-Valais",
@@ -8956,10 +8956,19 @@
     },
     {
         "zip":1897,
-        "zip-share":24.86,
+        "zip-share":24.82,
         "town":"Les Evouettes",
         "bfs":6154,
         "municipality":"Port-Valais",
+        "canton":"VS",
+        "locale":"fr"
+    },
+    {
+        "zip":1897,
+        "zip-share":0.13,
+        "town":"Les Evouettes",
+        "bfs":6159,
+        "municipality":"Vouvry",
         "canton":"VS",
         "locale":"fr"
     },
@@ -8983,10 +8992,19 @@
     },
     {
         "zip":1899,
-        "zip-share":100.0,
+        "zip-share":99.8,
         "town":"Torgon",
         "bfs":6158,
         "municipality":"Vionnaz",
+        "canton":"VS",
+        "locale":"fr"
+    },
+    {
+        "zip":1899,
+        "zip-share":0.2,
+        "town":"Torgon",
+        "bfs":6159,
+        "municipality":"Vouvry",
         "canton":"VS",
         "locale":"fr"
     },
@@ -9091,7 +9109,7 @@
     },
     {
         "zip":1912,
-        "zip-share":73.72,
+        "zip-share":73.77,
         "town":"Leytron",
         "bfs":6135,
         "municipality":"Leytron",
@@ -9100,7 +9118,7 @@
     },
     {
         "zip":1912,
-        "zip-share":12.54,
+        "zip-share":12.51,
         "town":"Dugny (Leytron)",
         "bfs":6135,
         "municipality":"Leytron",
@@ -9109,7 +9127,7 @@
     },
     {
         "zip":1912,
-        "zip-share":7.32,
+        "zip-share":7.31,
         "town":"Montagnon (Leytron)",
         "bfs":6135,
         "municipality":"Leytron",
@@ -9118,7 +9136,7 @@
     },
     {
         "zip":1912,
-        "zip-share":6.42,
+        "zip-share":6.41,
         "town":"Produit (Leytron)",
         "bfs":6135,
         "municipality":"Leytron",
@@ -9325,7 +9343,7 @@
     },
     {
         "zip":1933,
-        "zip-share":67.39,
+        "zip-share":67.46,
         "town":"Sembrancher",
         "bfs":6035,
         "municipality":"Sembrancher",
@@ -9334,7 +9352,7 @@
     },
     {
         "zip":1933,
-        "zip-share":13.11,
+        "zip-share":13.12,
         "town":"Vens (Sembrancher)",
         "bfs":6037,
         "municipality":"Val de Bagnes",
@@ -9343,7 +9361,7 @@
     },
     {
         "zip":1933,
-        "zip-share":9.97,
+        "zip-share":9.98,
         "town":"La Garde (Sembrancher)",
         "bfs":6035,
         "municipality":"Sembrancher",
@@ -9352,7 +9370,7 @@
     },
     {
         "zip":1933,
-        "zip-share":9.53,
+        "zip-share":9.44,
         "town":"Chamoille (Sembrancher)",
         "bfs":6035,
         "municipality":"Sembrancher",
@@ -9568,7 +9586,7 @@
     },
     {
         "zip":1947,
-        "zip-share":65.6,
+        "zip-share":65.65,
         "town":"Verseg\u00e8res",
         "bfs":6037,
         "municipality":"Val de Bagnes",
@@ -9577,7 +9595,7 @@
     },
     {
         "zip":1947,
-        "zip-share":34.4,
+        "zip-share":34.35,
         "town":"Champsec",
         "bfs":6037,
         "municipality":"Val de Bagnes",
@@ -9622,7 +9640,7 @@
     },
     {
         "zip":1950,
-        "zip-share":1.19,
+        "zip-share":1.2,
         "town":"Sion",
         "bfs":6265,
         "municipality":"Savi\u00e8se",
@@ -9703,7 +9721,7 @@
     },
     {
         "zip":1958,
-        "zip-share":73.81,
+        "zip-share":74.06,
         "town":"St-L\u00e9onard",
         "bfs":6246,
         "municipality":"Saint-L\u00e9onard",
@@ -9712,19 +9730,10 @@
     },
     {
         "zip":1958,
-        "zip-share":26.08,
+        "zip-share":25.89,
         "town":"Uvrier",
         "bfs":6266,
         "municipality":"Sion",
-        "canton":"VS",
-        "locale":"fr"
-    },
-    {
-        "zip":1958,
-        "zip-share":0.05,
-        "town":"St-L\u00e9onard",
-        "bfs":6082,
-        "municipality":"Ayent",
         "canton":"VS",
         "locale":"fr"
     },
@@ -9811,7 +9820,7 @@
     },
     {
         "zip":1966,
-        "zip-share":22.02,
+        "zip-share":20.89,
         "town":"Fortunau (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9820,7 +9829,7 @@
     },
     {
         "zip":1966,
-        "zip-share":17.84,
+        "zip-share":18.13,
         "town":"Blignou (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9829,7 +9838,7 @@
     },
     {
         "zip":1966,
-        "zip-share":13.21,
+        "zip-share":13.42,
         "town":"Botyre (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9838,7 +9847,7 @@
     },
     {
         "zip":1966,
-        "zip-share":10.78,
+        "zip-share":10.89,
         "town":"Luc (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9847,7 +9856,7 @@
     },
     {
         "zip":1966,
-        "zip-share":9.73,
+        "zip-share":9.89,
         "town":"Saxonne (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9856,7 +9865,7 @@
     },
     {
         "zip":1966,
-        "zip-share":6.66,
+        "zip-share":6.77,
         "town":"La Place (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9865,16 +9874,7 @@
     },
     {
         "zip":1966,
-        "zip-share":5.74,
-        "town":"Sign\u00e8se (Ayent)",
-        "bfs":6082,
-        "municipality":"Ayent",
-        "canton":"VS",
-        "locale":"fr"
-    },
-    {
-        "zip":1966,
-        "zip-share":5.68,
+        "zip-share":5.77,
         "town":"Argnou (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9883,7 +9883,16 @@
     },
     {
         "zip":1966,
-        "zip-share":5.68,
+        "zip-share":5.77,
+        "town":"Sign\u00e8se (Ayent)",
+        "bfs":6082,
+        "municipality":"Ayent",
+        "canton":"VS",
+        "locale":"fr"
+    },
+    {
+        "zip":1966,
+        "zip-share":5.77,
         "town":"St-Romain (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9892,7 +9901,7 @@
     },
     {
         "zip":1966,
-        "zip-share":2.61,
+        "zip-share":2.65,
         "town":"Villa (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9937,7 +9946,7 @@
     },
     {
         "zip":1969,
-        "zip-share":38.98,
+        "zip-share":41.94,
         "town":"Suen (St-Martin)",
         "bfs":6087,
         "municipality":"Saint-Martin (VS)",
@@ -9946,7 +9955,7 @@
     },
     {
         "zip":1969,
-        "zip-share":21.65,
+        "zip-share":23.34,
         "town":"St-Martin VS",
         "bfs":6087,
         "municipality":"Saint-Martin (VS)",
@@ -9955,16 +9964,7 @@
     },
     {
         "zip":1969,
-        "zip-share":20.16,
-        "town":"Eison (St-Martin)",
-        "bfs":6087,
-        "municipality":"Saint-Martin (VS)",
-        "canton":"VS",
-        "locale":"fr"
-    },
-    {
-        "zip":1969,
-        "zip-share":15.35,
+        "zip-share":16.13,
         "town":"Trogne (St-Martin)",
         "bfs":6087,
         "municipality":"Saint-Martin (VS)",
@@ -9973,7 +9973,16 @@
     },
     {
         "zip":1969,
-        "zip-share":3.86,
+        "zip-share":14.43,
+        "town":"Eison (St-Martin)",
+        "bfs":6087,
+        "municipality":"Saint-Martin (VS)",
+        "canton":"VS",
+        "locale":"fr"
+    },
+    {
+        "zip":1969,
+        "zip-share":4.16,
         "town":"Liez (St-Martin)",
         "bfs":6087,
         "municipality":"Saint-Martin (VS)",
@@ -9982,7 +9991,7 @@
     },
     {
         "zip":1971,
-        "zip-share":71.47,
+        "zip-share":71.42,
         "town":"Grimisuat",
         "bfs":6263,
         "municipality":"Grimisuat",
@@ -9991,7 +10000,7 @@
     },
     {
         "zip":1971,
-        "zip-share":28.08,
+        "zip-share":28.13,
         "town":"Champlan (Grimisuat)",
         "bfs":6263,
         "municipality":"Grimisuat",
@@ -10009,7 +10018,7 @@
     },
     {
         "zip":1972,
-        "zip-share":99.3,
+        "zip-share":99.28,
         "town":"Anz\u00e8re",
         "bfs":6082,
         "municipality":"Ayent",
@@ -10135,7 +10144,7 @@
     },
     {
         "zip":1982,
-        "zip-share":64.04,
+        "zip-share":64.11,
         "town":"Euseigne",
         "bfs":6084,
         "municipality":"H\u00e9r\u00e9mence",
@@ -10144,7 +10153,7 @@
     },
     {
         "zip":1982,
-        "zip-share":35.96,
+        "zip-share":35.89,
         "town":"Euseigne",
         "bfs":6087,
         "municipality":"Saint-Martin (VS)",
@@ -10306,7 +10315,7 @@
     },
     {
         "zip":1992,
-        "zip-share":47.61,
+        "zip-share":47.55,
         "town":"Les Mayens-de-Sion",
         "bfs":6089,
         "municipality":"Vex",
@@ -10315,7 +10324,7 @@
     },
     {
         "zip":1992,
-        "zip-share":25.17,
+        "zip-share":25.26,
         "town":"Les Agettes",
         "bfs":6266,
         "municipality":"Sion",
@@ -10324,7 +10333,7 @@
     },
     {
         "zip":1992,
-        "zip-share":12.19,
+        "zip-share":12.17,
         "town":"Les Mayens-de-Sion",
         "bfs":6266,
         "municipality":"Sion",
@@ -10333,7 +10342,7 @@
     },
     {
         "zip":1992,
-        "zip-share":8.09,
+        "zip-share":8.08,
         "town":"La Vernaz (Les Agettes)",
         "bfs":6266,
         "municipality":"Sion",
@@ -10342,7 +10351,7 @@
     },
     {
         "zip":1992,
-        "zip-share":6.61,
+        "zip-share":6.6,
         "town":"Cr\u00eate-\u00e0-l'Oeil (Les Agettes)",
         "bfs":6266,
         "municipality":"Sion",
@@ -10630,7 +10639,7 @@
     },
     {
         "zip":2019,
-        "zip-share":58.28,
+        "zip-share":58.22,
         "town":"Rochefort",
         "bfs":6413,
         "municipality":"Rochefort",
@@ -10639,7 +10648,7 @@
     },
     {
         "zip":2019,
-        "zip-share":39.84,
+        "zip-share":39.89,
         "town":"Chambrelien",
         "bfs":6413,
         "municipality":"Rochefort",
@@ -10792,7 +10801,7 @@
     },
     {
         "zip":2036,
-        "zip-share":86.81,
+        "zip-share":86.92,
         "town":"Cormondr\u00e8che",
         "bfs":6458,
         "municipality":"Neuch\u00e2tel",
@@ -10801,7 +10810,7 @@
     },
     {
         "zip":2036,
-        "zip-share":13.19,
+        "zip-share":13.08,
         "town":"Cormondr\u00e8che",
         "bfs":6416,
         "municipality":"Milvignes",
@@ -10837,7 +10846,7 @@
     },
     {
         "zip":2042,
-        "zip-share":99.6,
+        "zip-share":99.59,
         "town":"Valangin",
         "bfs":6458,
         "municipality":"Neuch\u00e2tel",
@@ -10846,7 +10855,7 @@
     },
     {
         "zip":2042,
-        "zip-share":0.4,
+        "zip-share":0.41,
         "town":"Valangin",
         "bfs":6487,
         "municipality":"Val-de-Ruz",
@@ -10990,7 +10999,7 @@
     },
     {
         "zip":2067,
-        "zip-share":67.89,
+        "zip-share":67.83,
         "town":"Chaumont",
         "bfs":6458,
         "municipality":"Neuch\u00e2tel",
@@ -10999,7 +11008,7 @@
     },
     {
         "zip":2067,
-        "zip-share":31.01,
+        "zip-share":31.07,
         "town":"Chaumont",
         "bfs":6487,
         "municipality":"Val-de-Ruz",
@@ -11143,7 +11152,7 @@
     },
     {
         "zip":2103,
-        "zip-share":98.25,
+        "zip-share":98.66,
         "town":"Noiraigue",
         "bfs":6512,
         "municipality":"Val-de-Travers",
@@ -11152,7 +11161,7 @@
     },
     {
         "zip":2103,
-        "zip-share":1.4,
+        "zip-share":1.07,
         "town":"Noiraigue",
         "bfs":6413,
         "municipality":"Rochefort",
@@ -11161,7 +11170,7 @@
     },
     {
         "zip":2103,
-        "zip-share":0.35,
+        "zip-share":0.27,
         "town":"Noiraigue",
         "bfs":6417,
         "municipality":"La Grande B\u00e9roche",
@@ -11170,7 +11179,7 @@
     },
     {
         "zip":2105,
-        "zip-share":99.14,
+        "zip-share":99.31,
         "town":"Travers",
         "bfs":6512,
         "municipality":"Val-de-Travers",
@@ -11179,7 +11188,7 @@
     },
     {
         "zip":2105,
-        "zip-share":0.86,
+        "zip-share":0.69,
         "town":"Travers",
         "bfs":6437,
         "municipality":"Les Ponts-de-Martel",
@@ -11188,7 +11197,7 @@
     },
     {
         "zip":2108,
-        "zip-share":95.97,
+        "zip-share":96.05,
         "town":"Couvet",
         "bfs":6512,
         "municipality":"Val-de-Travers",
@@ -11197,7 +11206,7 @@
     },
     {
         "zip":2108,
-        "zip-share":4.03,
+        "zip-share":3.95,
         "town":"Couvet",
         "bfs":5566,
         "municipality":"Provence",
@@ -11323,7 +11332,7 @@
     },
     {
         "zip":2149,
-        "zip-share":42.53,
+        "zip-share":43.79,
         "town":"Champ-du-Moulin",
         "bfs":6413,
         "municipality":"Rochefort",
@@ -11332,7 +11341,7 @@
     },
     {
         "zip":2149,
-        "zip-share":24.14,
+        "zip-share":24.26,
         "town":"Brot-Dessous",
         "bfs":6413,
         "municipality":"Rochefort",
@@ -11341,7 +11350,7 @@
     },
     {
         "zip":2149,
-        "zip-share":21.26,
+        "zip-share":21.89,
         "town":"Fretereules",
         "bfs":6413,
         "municipality":"Rochefort",
@@ -11350,7 +11359,7 @@
     },
     {
         "zip":2149,
-        "zip-share":12.07,
+        "zip-share":10.06,
         "town":"Champ-du-Moulin",
         "bfs":6404,
         "municipality":"Boudry",
@@ -12196,7 +12205,7 @@
     },
     {
         "zip":2525,
-        "zip-share":98.06,
+        "zip-share":98.05,
         "town":"Le Landeron",
         "bfs":6455,
         "municipality":"Le Landeron",
@@ -12205,7 +12214,7 @@
     },
     {
         "zip":2525,
-        "zip-share":1.94,
+        "zip-share":1.95,
         "town":"Le Landeron",
         "bfs":494,
         "municipality":"Gals",
@@ -13753,7 +13762,7 @@
     },
     {
         "zip":2830,
-        "zip-share":1.25,
+        "zip-share":1.24,
         "town":"Courrendlin",
         "bfs":6709,
         "municipality":"Courroux",
@@ -14212,7 +14221,7 @@
     },
     {
         "zip":2933,
-        "zip-share":51.2,
+        "zip-share":51.21,
         "town":"Damphreux",
         "bfs":6811,
         "municipality":"Damphreux-Lugnez",
@@ -14221,7 +14230,7 @@
     },
     {
         "zip":2933,
-        "zip-share":48.8,
+        "zip-share":48.79,
         "town":"Lugnez",
         "bfs":6811,
         "municipality":"Damphreux-Lugnez",
@@ -15148,7 +15157,7 @@
     },
     {
         "zip":3086,
-        "zip-share":70.37,
+        "zip-share":70.34,
         "town":"Zimmerwald",
         "bfs":888,
         "municipality":"Wald (BE)",
@@ -15157,7 +15166,7 @@
     },
     {
         "zip":3086,
-        "zip-share":23.21,
+        "zip-share":23.23,
         "town":"Englisberg",
         "bfs":888,
         "municipality":"Wald (BE)",
@@ -15166,7 +15175,7 @@
     },
     {
         "zip":3086,
-        "zip-share":4.81,
+        "zip-share":4.82,
         "town":"Zimmerwald",
         "bfs":861,
         "municipality":"Belp",
@@ -15715,7 +15724,7 @@
     },
     {
         "zip":3154,
-        "zip-share":88.83,
+        "zip-share":88.84,
         "town":"R\u00fcschegg Heubach",
         "bfs":853,
         "municipality":"R\u00fcschegg",
@@ -15724,7 +15733,7 @@
     },
     {
         "zip":3154,
-        "zip-share":9.28,
+        "zip-share":9.27,
         "town":"R\u00fcschegg Heubach",
         "bfs":880,
         "municipality":"R\u00fceggisberg",
@@ -16813,7 +16822,7 @@
     },
     {
         "zip":3280,
-        "zip-share":81.97,
+        "zip-share":83.15,
         "town":"Murten",
         "bfs":2275,
         "municipality":"Murten",
@@ -16822,7 +16831,7 @@
     },
     {
         "zip":3280,
-        "zip-share":10.44,
+        "zip-share":8.88,
         "town":"Meyriez",
         "bfs":2271,
         "municipality":"Meyriez",
@@ -16831,7 +16840,7 @@
     },
     {
         "zip":3280,
-        "zip-share":4.4,
+        "zip-share":4.68,
         "town":"Greng",
         "bfs":2261,
         "municipality":"Greng",
@@ -16840,7 +16849,7 @@
     },
     {
         "zip":3280,
-        "zip-share":2.85,
+        "zip-share":3.03,
         "town":"Murten",
         "bfs":2250,
         "municipality":"Courgevaux",
@@ -16849,7 +16858,7 @@
     },
     {
         "zip":3280,
-        "zip-share":0.19,
+        "zip-share":0.2,
         "town":"Greng",
         "bfs":2275,
         "municipality":"Murten",
@@ -16858,7 +16867,7 @@
     },
     {
         "zip":3280,
-        "zip-share":0.16,
+        "zip-share":0.07,
         "town":"Murten",
         "bfs":2271,
         "municipality":"Meyriez",
@@ -17263,7 +17272,7 @@
     },
     {
         "zip":3325,
-        "zip-share":92.24,
+        "zip-share":92.27,
         "town":"Hettiswil b. Hindelbank",
         "bfs":414,
         "municipality":"Krauchthal",
@@ -17272,7 +17281,7 @@
     },
     {
         "zip":3325,
-        "zip-share":7.76,
+        "zip-share":7.73,
         "town":"Hettiswil b. Hindelbank",
         "bfs":409,
         "municipality":"Hindelbank",
@@ -17281,7 +17290,7 @@
     },
     {
         "zip":3326,
-        "zip-share":98.65,
+        "zip-share":98.64,
         "town":"Krauchthal",
         "bfs":414,
         "municipality":"Krauchthal",
@@ -17290,7 +17299,7 @@
     },
     {
         "zip":3326,
-        "zip-share":1.35,
+        "zip-share":1.36,
         "town":"Krauchthal",
         "bfs":352,
         "municipality":"Bolligen",
@@ -17569,7 +17578,7 @@
     },
     {
         "zip":3414,
-        "zip-share":80.95,
+        "zip-share":80.94,
         "town":"Oberburg",
         "bfs":418,
         "municipality":"Oberburg",
@@ -17578,7 +17587,7 @@
     },
     {
         "zip":3414,
-        "zip-share":15.86,
+        "zip-share":15.87,
         "town":"Oberburg",
         "bfs":404,
         "municipality":"Burgdorf",
@@ -17587,7 +17596,7 @@
     },
     {
         "zip":3414,
-        "zip-share":3.19,
+        "zip-share":3.2,
         "town":"Oberburg",
         "bfs":955,
         "municipality":"L\u00fctzelfl\u00fch",
@@ -18424,7 +18433,7 @@
     },
     {
         "zip":3504,
-        "zip-share":63.4,
+        "zip-share":63.29,
         "town":"Niederh\u00fcnigen",
         "bfs":617,
         "municipality":"Niederh\u00fcnigen",
@@ -18433,7 +18442,7 @@
     },
     {
         "zip":3504,
-        "zip-share":36.6,
+        "zip-share":36.71,
         "town":"Oberh\u00fcnigen",
         "bfs":629,
         "municipality":"Oberh\u00fcnigen",
@@ -18523,7 +18532,7 @@
     },
     {
         "zip":3510,
-        "zip-share":81.64,
+        "zip-share":81.66,
         "town":"Konolfingen",
         "bfs":612,
         "municipality":"Konolfingen",
@@ -18532,7 +18541,7 @@
     },
     {
         "zip":3510,
-        "zip-share":9.32,
+        "zip-share":9.31,
         "town":"Freimettigen",
         "bfs":607,
         "municipality":"Freimettigen",
@@ -18541,7 +18550,7 @@
     },
     {
         "zip":3510,
-        "zip-share":8.18,
+        "zip-share":8.17,
         "town":"H\u00e4utligen",
         "bfs":609,
         "municipality":"H\u00e4utligen",
@@ -18550,7 +18559,7 @@
     },
     {
         "zip":3510,
-        "zip-share":0.87,
+        "zip-share":0.86,
         "town":"H\u00e4utligen",
         "bfs":632,
         "municipality":"Wichtrach",
@@ -19198,7 +19207,7 @@
     },
     {
         "zip":3619,
-        "zip-share":78.81,
+        "zip-share":78.78,
         "town":"Eriz",
         "bfs":924,
         "municipality":"Eriz",
@@ -19207,7 +19216,7 @@
     },
     {
         "zip":3619,
-        "zip-share":19.67,
+        "zip-share":19.7,
         "town":"Eriz",
         "bfs":932,
         "municipality":"Horrenbach-Buchen",
@@ -19468,7 +19477,7 @@
     },
     {
         "zip":3636,
-        "zip-share":51.71,
+        "zip-share":51.81,
         "town":"L\u00e4ngenb\u00fchl",
         "bfs":948,
         "municipality":"Forst-L\u00e4ngenb\u00fchl",
@@ -19477,7 +19486,7 @@
     },
     {
         "zip":3636,
-        "zip-share":47.72,
+        "zip-share":47.62,
         "town":"Forst b. L\u00e4ngenb\u00fchl",
         "bfs":948,
         "municipality":"Forst-L\u00e4ngenb\u00fchl",
@@ -21016,7 +21025,7 @@
     },
     {
         "zip":3907,
-        "zip-share":49.7,
+        "zip-share":49.75,
         "town":"Simplon Dorf",
         "bfs":6009,
         "municipality":"Simplon",
@@ -21025,7 +21034,7 @@
     },
     {
         "zip":3907,
-        "zip-share":29.09,
+        "zip-share":29.02,
         "town":"Gondo",
         "bfs":6011,
         "municipality":"Zwischbergen",
@@ -21034,7 +21043,7 @@
     },
     {
         "zip":3907,
-        "zip-share":13.71,
+        "zip-share":13.72,
         "town":"Simplon Hospiz",
         "bfs":6009,
         "municipality":"Simplon",
@@ -21340,7 +21349,7 @@
     },
     {
         "zip":3930,
-        "zip-share":78.87,
+        "zip-share":77.94,
         "town":"Visp",
         "bfs":6297,
         "municipality":"Visp",
@@ -21349,7 +21358,7 @@
     },
     {
         "zip":3930,
-        "zip-share":11.02,
+        "zip-share":11.51,
         "town":"Eyholz",
         "bfs":6297,
         "municipality":"Visp",
@@ -21358,7 +21367,7 @@
     },
     {
         "zip":3930,
-        "zip-share":9.58,
+        "zip-share":10.01,
         "town":"Visp",
         "bfs":6298,
         "municipality":"Visperterminen",
@@ -21367,7 +21376,7 @@
     },
     {
         "zip":3930,
-        "zip-share":0.53,
+        "zip-share":0.55,
         "town":"Visp",
         "bfs":6281,
         "municipality":"Baltschieder",
@@ -21448,7 +21457,7 @@
     },
     {
         "zip":3940,
-        "zip-share":98.41,
+        "zip-share":98.42,
         "town":"Steg VS",
         "bfs":6204,
         "municipality":"Steg-Hohtenn",
@@ -21457,7 +21466,7 @@
     },
     {
         "zip":3940,
-        "zip-share":1.1,
+        "zip-share":1.09,
         "town":"Steg VS",
         "bfs":6198,
         "municipality":"Niedergesteln",
@@ -21772,7 +21781,7 @@
     },
     {
         "zip":3957,
-        "zip-share":97.16,
+        "zip-share":100.0,
         "town":"Erschmatt",
         "bfs":6110,
         "municipality":"Leuk",
@@ -21780,17 +21789,8 @@
         "locale":"de"
     },
     {
-        "zip":3957,
-        "zip-share":2.84,
-        "town":"Bratsch",
-        "bfs":6118,
-        "municipality":"Gampel-Bratsch",
-        "canton":"VS",
-        "locale":"de"
-    },
-    {
         "zip":3960,
-        "zip-share":73.42,
+        "zip-share":73.33,
         "town":"Sierre",
         "bfs":6248,
         "municipality":"Sierre",
@@ -21799,7 +21799,7 @@
     },
     {
         "zip":3960,
-        "zip-share":9.0,
+        "zip-share":9.03,
         "town":"Corin-de-la-Cr\u00eate",
         "bfs":6253,
         "municipality":"Crans-Montana",
@@ -21808,7 +21808,7 @@
     },
     {
         "zip":3960,
-        "zip-share":6.36,
+        "zip-share":6.38,
         "town":"Muraz (Sierre)",
         "bfs":6248,
         "municipality":"Sierre",
@@ -21817,7 +21817,7 @@
     },
     {
         "zip":3960,
-        "zip-share":5.8,
+        "zip-share":5.82,
         "town":"Loc",
         "bfs":6253,
         "municipality":"Crans-Montana",
@@ -21826,7 +21826,7 @@
     },
     {
         "zip":3960,
-        "zip-share":3.45,
+        "zip-share":3.46,
         "town":"Niouc",
         "bfs":6252,
         "municipality":"Anniviers",
@@ -21835,7 +21835,7 @@
     },
     {
         "zip":3960,
-        "zip-share":1.25,
+        "zip-share":1.26,
         "town":"Sierre",
         "bfs":6253,
         "municipality":"Crans-Montana",
@@ -22213,7 +22213,7 @@
     },
     {
         "zip":3976,
-        "zip-share":78.32,
+        "zip-share":78.17,
         "town":"No\u00ebs",
         "bfs":6248,
         "municipality":"Sierre",
@@ -22222,7 +22222,7 @@
     },
     {
         "zip":3976,
-        "zip-share":14.69,
+        "zip-share":14.79,
         "town":"Champzab\u00e9",
         "bfs":6253,
         "municipality":"Crans-Montana",
@@ -22231,7 +22231,7 @@
     },
     {
         "zip":3976,
-        "zip-share":4.55,
+        "zip-share":4.58,
         "town":"Champzab\u00e9",
         "bfs":6248,
         "municipality":"Sierre",
@@ -22240,7 +22240,7 @@
     },
     {
         "zip":3976,
-        "zip-share":2.45,
+        "zip-share":2.46,
         "town":"No\u00ebs",
         "bfs":6253,
         "municipality":"Crans-Montana",
@@ -22294,7 +22294,7 @@
     },
     {
         "zip":3982,
-        "zip-share":94.97,
+        "zip-share":94.95,
         "town":"Bitsch",
         "bfs":6173,
         "municipality":"Bitsch",
@@ -22303,7 +22303,7 @@
     },
     {
         "zip":3982,
-        "zip-share":4.63,
+        "zip-share":4.64,
         "town":"Bitsch",
         "bfs":6010,
         "municipality":"Termen",
@@ -22402,7 +22402,7 @@
     },
     {
         "zip":3985,
-        "zip-share":73.12,
+        "zip-share":73.8,
         "town":"M\u00fcnster VS",
         "bfs":6077,
         "municipality":"Goms",
@@ -22411,7 +22411,7 @@
     },
     {
         "zip":3985,
-        "zip-share":26.88,
+        "zip-share":26.2,
         "town":"Geschinen",
         "bfs":6077,
         "municipality":"Goms",
@@ -22456,7 +22456,7 @@
     },
     {
         "zip":3989,
-        "zip-share":35.7,
+        "zip-share":47.01,
         "town":"Blitzingen",
         "bfs":6077,
         "municipality":"Goms",
@@ -22465,7 +22465,7 @@
     },
     {
         "zip":3989,
-        "zip-share":21.33,
+        "zip-share":23.13,
         "town":"Biel VS",
         "bfs":6077,
         "municipality":"Goms",
@@ -22474,7 +22474,7 @@
     },
     {
         "zip":3989,
-        "zip-share":16.38,
+        "zip-share":14.93,
         "town":"Selkingen",
         "bfs":6077,
         "municipality":"Goms",
@@ -22483,8 +22483,8 @@
     },
     {
         "zip":3989,
-        "zip-share":13.91,
-        "town":"Ritzingen",
+        "zip-share":7.96,
+        "town":"Niederwald",
         "bfs":6077,
         "municipality":"Goms",
         "canton":"VS",
@@ -22492,8 +22492,8 @@
     },
     {
         "zip":3989,
-        "zip-share":12.67,
-        "town":"Niederwald",
+        "zip-share":6.97,
+        "town":"Ritzingen",
         "bfs":6077,
         "municipality":"Goms",
         "canton":"VS",
@@ -22555,7 +22555,7 @@
     },
     {
         "zip":3995,
-        "zip-share":58.06,
+        "zip-share":58.09,
         "town":"Ernen",
         "bfs":6056,
         "municipality":"Ernen",
@@ -22564,7 +22564,7 @@
     },
     {
         "zip":3995,
-        "zip-share":20.65,
+        "zip-share":20.63,
         "town":"M\u00fchlebach (Goms)",
         "bfs":6056,
         "municipality":"Ernen",
@@ -22573,7 +22573,7 @@
     },
     {
         "zip":3995,
-        "zip-share":10.69,
+        "zip-share":10.68,
         "town":"Ausserbinn",
         "bfs":6056,
         "municipality":"Ernen",
@@ -22582,7 +22582,7 @@
     },
     {
         "zip":3995,
-        "zip-share":10.61,
+        "zip-share":10.6,
         "town":"Steinhaus",
         "bfs":6056,
         "municipality":"Ernen",
@@ -22627,7 +22627,7 @@
     },
     {
         "zip":3998,
-        "zip-share":68.48,
+        "zip-share":79.29,
         "town":"Reckingen VS",
         "bfs":6077,
         "municipality":"Goms",
@@ -22636,7 +22636,7 @@
     },
     {
         "zip":3998,
-        "zip-share":31.52,
+        "zip-share":20.71,
         "town":"Gluringen",
         "bfs":6077,
         "municipality":"Goms",
@@ -25093,7 +25093,7 @@
     },
     {
         "zip":4543,
-        "zip-share":98.36,
+        "zip-share":98.35,
         "town":"Deitingen",
         "bfs":2516,
         "municipality":"Deitingen",
@@ -25102,7 +25102,7 @@
     },
     {
         "zip":4543,
-        "zip-share":1.64,
+        "zip-share":1.65,
         "town":"Deitingen",
         "bfs":2545,
         "municipality":"Flumenthal",
@@ -25588,7 +25588,7 @@
     },
     {
         "zip":4612,
-        "zip-share":99.85,
+        "zip-share":99.75,
         "town":"Wangen b. Olten",
         "bfs":2586,
         "municipality":"Wangen bei Olten",
@@ -25597,7 +25597,7 @@
     },
     {
         "zip":4612,
-        "zip-share":0.15,
+        "zip-share":0.25,
         "town":"Wangen b. Olten",
         "bfs":2581,
         "municipality":"Olten",
@@ -26272,7 +26272,7 @@
     },
     {
         "zip":4803,
-        "zip-share":97.96,
+        "zip-share":97.98,
         "town":"Vordemwald",
         "bfs":4287,
         "municipality":"Vordemwald",
@@ -26281,7 +26281,7 @@
     },
     {
         "zip":4803,
-        "zip-share":2.04,
+        "zip-share":2.02,
         "town":"Vordemwald",
         "bfs":4274,
         "municipality":"Brittnau",
@@ -26542,7 +26542,7 @@
     },
     {
         "zip":4922,
-        "zip-share":58.3,
+        "zip-share":58.32,
         "town":"B\u00fctzberg",
         "bfs":342,
         "municipality":"Thunstetten",
@@ -26551,7 +26551,7 @@
     },
     {
         "zip":4922,
-        "zip-share":39.6,
+        "zip-share":39.58,
         "town":"Thunstetten",
         "bfs":342,
         "municipality":"Thunstetten",
@@ -28342,7 +28342,7 @@
     },
     {
         "zip":5462,
-        "zip-share":96.74,
+        "zip-share":96.75,
         "town":"Siglistorf",
         "bfs":4319,
         "municipality":"Siglistorf",
@@ -28351,7 +28351,7 @@
     },
     {
         "zip":5462,
-        "zip-share":3.26,
+        "zip-share":3.25,
         "town":"Siglistorf",
         "bfs":93,
         "municipality":"Oberweningen",
@@ -28495,7 +28495,7 @@
     },
     {
         "zip":5524,
-        "zip-share":68.21,
+        "zip-share":68.24,
         "town":"Niederwil AG",
         "bfs":4072,
         "municipality":"Niederwil (AG)",
@@ -28504,7 +28504,7 @@
     },
     {
         "zip":5524,
-        "zip-share":31.79,
+        "zip-share":31.76,
         "town":"Nesselnbach",
         "bfs":4072,
         "municipality":"Niederwil (AG)",
@@ -28576,7 +28576,7 @@
     },
     {
         "zip":5605,
-        "zip-share":79.05,
+        "zip-share":80.99,
         "town":"Dottikon",
         "bfs":4065,
         "municipality":"Dottikon",
@@ -28585,7 +28585,7 @@
     },
     {
         "zip":5605,
-        "zip-share":20.95,
+        "zip-share":19.01,
         "town":"Dottikon",
         "bfs":4080,
         "municipality":"Villmergen",
@@ -28657,7 +28657,7 @@
     },
     {
         "zip":5612,
-        "zip-share":99.28,
+        "zip-share":99.27,
         "town":"Villmergen",
         "bfs":4080,
         "municipality":"Villmergen",
@@ -28666,7 +28666,7 @@
     },
     {
         "zip":5612,
-        "zip-share":0.72,
+        "zip-share":0.73,
         "town":"Villmergen",
         "bfs":4082,
         "municipality":"Wohlen (AG)",
@@ -29413,7 +29413,7 @@
     },
     {
         "zip":6005,
-        "zip-share":79.28,
+        "zip-share":79.27,
         "town":"Luzern",
         "bfs":1061,
         "municipality":"Luzern",
@@ -29422,7 +29422,7 @@
     },
     {
         "zip":6005,
-        "zip-share":11.4,
+        "zip-share":11.41,
         "town":"St. Niklausen LU",
         "bfs":1058,
         "municipality":"Horw",
@@ -30151,7 +30151,7 @@
     },
     {
         "zip":6060,
-        "zip-share":87.7,
+        "zip-share":87.44,
         "town":"Sarnen",
         "bfs":1407,
         "municipality":"Sarnen",
@@ -30160,7 +30160,7 @@
     },
     {
         "zip":6060,
-        "zip-share":12.3,
+        "zip-share":12.56,
         "town":"Ramersberg",
         "bfs":1407,
         "municipality":"Sarnen",
@@ -30394,7 +30394,7 @@
     },
     {
         "zip":6110,
-        "zip-share":73.06,
+        "zip-share":73.02,
         "town":"Wolhusen",
         "bfs":1107,
         "municipality":"Wolhusen",
@@ -30403,7 +30403,7 @@
     },
     {
         "zip":6110,
-        "zip-share":18.29,
+        "zip-share":18.34,
         "town":"Wolhusen",
         "bfs":1009,
         "municipality":"Werthenstein",
@@ -30421,7 +30421,7 @@
     },
     {
         "zip":6110,
-        "zip-share":3.18,
+        "zip-share":3.17,
         "town":"Fontannen b. Wolhusen",
         "bfs":1007,
         "municipality":"Romoos",
@@ -30430,7 +30430,7 @@
     },
     {
         "zip":6110,
-        "zip-share":1.1,
+        "zip-share":1.09,
         "town":"Wolhusen",
         "bfs":1136,
         "municipality":"Menznau",
@@ -31132,7 +31132,7 @@
     },
     {
         "zip":6204,
-        "zip-share":96.45,
+        "zip-share":96.47,
         "town":"Sempach",
         "bfs":1102,
         "municipality":"Sempach",
@@ -31141,7 +31141,7 @@
     },
     {
         "zip":6204,
-        "zip-share":3.55,
+        "zip-share":3.53,
         "town":"Sempach",
         "bfs":1093,
         "municipality":"Neuenkirch",
@@ -31456,7 +31456,7 @@
     },
     {
         "zip":6234,
-        "zip-share":88.31,
+        "zip-share":88.32,
         "town":"Triengen",
         "bfs":1104,
         "municipality":"Triengen",
@@ -31465,7 +31465,7 @@
     },
     {
         "zip":6234,
-        "zip-share":11.69,
+        "zip-share":11.68,
         "town":"Kulmerau",
         "bfs":1104,
         "municipality":"Triengen",
@@ -32635,7 +32635,7 @@
     },
     {
         "zip":6370,
-        "zip-share":74.01,
+        "zip-share":74.06,
         "town":"Stans",
         "bfs":1509,
         "municipality":"Stans",
@@ -32644,7 +32644,7 @@
     },
     {
         "zip":6370,
-        "zip-share":25.74,
+        "zip-share":25.69,
         "town":"Oberdorf NW",
         "bfs":1508,
         "municipality":"Oberdorf (NW)",
@@ -32887,7 +32887,7 @@
     },
     {
         "zip":6390,
-        "zip-share":4.37,
+        "zip-share":4.36,
         "town":"Engelberg",
         "bfs":1511,
         "municipality":"Wolfenschiessen",
@@ -33427,7 +33427,7 @@
     },
     {
         "zip":6469,
-        "zip-share":65.33,
+        "zip-share":64.62,
         "town":"Haldi b. Schattdorf",
         "bfs":1213,
         "municipality":"Schattdorf",
@@ -33436,7 +33436,7 @@
     },
     {
         "zip":6469,
-        "zip-share":34.67,
+        "zip-share":35.38,
         "town":"Haldi b. Schattdorf",
         "bfs":1205,
         "municipality":"B\u00fcrglen (UR)",
@@ -34192,7 +34192,7 @@
     },
     {
         "zip":6594,
-        "zip-share":95.4,
+        "zip-share":95.39,
         "town":"Contone",
         "bfs":5398,
         "municipality":"Gambarogno",
@@ -34201,7 +34201,7 @@
     },
     {
         "zip":6594,
-        "zip-share":4.02,
+        "zip-share":4.03,
         "town":"Contone",
         "bfs":5113,
         "municipality":"Locarno",
@@ -34210,7 +34210,7 @@
     },
     {
         "zip":6594,
-        "zip-share":0.57,
+        "zip-share":0.58,
         "town":"Contone",
         "bfs":5138,
         "municipality":"Cugnasco-Gerra",
@@ -34219,7 +34219,7 @@
     },
     {
         "zip":6595,
-        "zip-share":82.7,
+        "zip-share":82.72,
         "town":"Riazzino",
         "bfs":5112,
         "municipality":"Lavertezzo",
@@ -34228,7 +34228,7 @@
     },
     {
         "zip":6595,
-        "zip-share":17.06,
+        "zip-share":17.04,
         "town":"Riazzino",
         "bfs":5113,
         "municipality":"Locarno",
@@ -34498,7 +34498,7 @@
     },
     {
         "zip":6645,
-        "zip-share":62.51,
+        "zip-share":62.47,
         "town":"Brione sopra Minusio",
         "bfs":5096,
         "municipality":"Brione sopra Minusio",
@@ -34507,7 +34507,7 @@
     },
     {
         "zip":6645,
-        "zip-share":37.49,
+        "zip-share":37.53,
         "town":"Brione sopra Minusio",
         "bfs":5118,
         "municipality":"Minusio",
@@ -34768,7 +34768,7 @@
     },
     {
         "zip":6677,
-        "zip-share":58.71,
+        "zip-share":58.78,
         "town":"Aurigeno",
         "bfs":5317,
         "municipality":"Maggia",
@@ -34777,7 +34777,7 @@
     },
     {
         "zip":6677,
-        "zip-share":41.29,
+        "zip-share":41.22,
         "town":"Moghegno",
         "bfs":5317,
         "municipality":"Maggia",
@@ -35488,7 +35488,7 @@
     },
     {
         "zip":6814,
-        "zip-share":54.42,
+        "zip-share":54.5,
         "town":"Lamone",
         "bfs":5189,
         "municipality":"Lamone",
@@ -35497,7 +35497,7 @@
     },
     {
         "zip":6814,
-        "zip-share":44.95,
+        "zip-share":44.86,
         "town":"Cadempino",
         "bfs":5162,
         "municipality":"Cadempino",
@@ -35722,8 +35722,8 @@
     },
     {
         "zip":6838,
-        "zip-share":50.61,
-        "town":"Muggio",
+        "zip-share":50.75,
+        "town":"Cabbio",
         "bfs":5269,
         "municipality":"Breggia",
         "canton":"TI",
@@ -35731,8 +35731,8 @@
     },
     {
         "zip":6838,
-        "zip-share":49.39,
-        "town":"Cabbio",
+        "zip-share":49.25,
+        "town":"Muggio",
         "bfs":5269,
         "municipality":"Breggia",
         "canton":"TI",
@@ -35866,7 +35866,7 @@
     },
     {
         "zip":6872,
-        "zip-share":58.84,
+        "zip-share":58.93,
         "town":"Salorino",
         "bfs":5254,
         "municipality":"Mendrisio",
@@ -35875,7 +35875,7 @@
     },
     {
         "zip":6872,
-        "zip-share":33.11,
+        "zip-share":33.04,
         "town":"Somazzo",
         "bfs":5254,
         "municipality":"Mendrisio",
@@ -35884,7 +35884,7 @@
     },
     {
         "zip":6872,
-        "zip-share":8.05,
+        "zip-share":8.04,
         "town":"Somazzo",
         "bfs":5249,
         "municipality":"Castel San Pietro",
@@ -35974,7 +35974,7 @@
     },
     {
         "zip":6900,
-        "zip-share":70.8,
+        "zip-share":70.78,
         "town":"Lugano",
         "bfs":5192,
         "municipality":"Lugano",
@@ -35983,7 +35983,7 @@
     },
     {
         "zip":6900,
-        "zip-share":18.55,
+        "zip-share":18.57,
         "town":"Massagno",
         "bfs":5196,
         "municipality":"Massagno",
@@ -35992,7 +35992,7 @@
     },
     {
         "zip":6900,
-        "zip-share":10.47,
+        "zip-share":10.48,
         "town":"Paradiso",
         "bfs":5210,
         "municipality":"Paradiso",
@@ -37207,7 +37207,7 @@
     },
     {
         "zip":7032,
-        "zip-share":93.86,
+        "zip-share":93.85,
         "town":"Laax GR",
         "bfs":3575,
         "municipality":"Laax",
@@ -37216,7 +37216,7 @@
     },
     {
         "zip":7032,
-        "zip-share":6.14,
+        "zip-share":6.15,
         "town":"Laax GR",
         "bfs":3572,
         "municipality":"Falera",
@@ -37873,7 +37873,7 @@
     },
     {
         "zip":7180,
-        "zip-share":97.92,
+        "zip-share":97.91,
         "town":"Disentis\/Must\u00e9r",
         "bfs":3982,
         "municipality":"Disentis\/Must\u00e9r",
@@ -37882,7 +37882,7 @@
     },
     {
         "zip":7180,
-        "zip-share":2.08,
+        "zip-share":2.09,
         "town":"Disentis\/Must\u00e9r",
         "bfs":3985,
         "municipality":"Sumvitg",
@@ -38206,10 +38206,19 @@
     },
     {
         "zip":7232,
-        "zip-share":100.0,
+        "zip-share":97.89,
         "town":"Furna",
         "bfs":3862,
         "municipality":"Furna",
+        "canton":"GR",
+        "locale":"de"
+    },
+    {
+        "zip":7232,
+        "zip-share":2.11,
+        "town":"Furna",
+        "bfs":3863,
+        "municipality":"Jenaz",
         "canton":"GR",
         "locale":"de"
     },
@@ -39529,7 +39538,7 @@
     },
     {
         "zip":7526,
-        "zip-share":60.0,
+        "zip-share":60.25,
         "town":"Chapella",
         "bfs":3788,
         "municipality":"S-chanf",
@@ -39538,7 +39547,7 @@
     },
     {
         "zip":7526,
-        "zip-share":40.0,
+        "zip-share":39.75,
         "town":"Cinuos-chel",
         "bfs":3788,
         "municipality":"S-chanf",
@@ -40699,7 +40708,7 @@
     },
     {
         "zip":8155,
-        "zip-share":89.73,
+        "zip-share":89.69,
         "town":"Niederhasli",
         "bfs":90,
         "municipality":"Niederhasli",
@@ -40717,7 +40726,7 @@
     },
     {
         "zip":8155,
-        "zip-share":0.6,
+        "zip-share":0.64,
         "town":"Niederhasli",
         "bfs":89,
         "municipality":"Niederglatt",
@@ -41860,7 +41869,7 @@
     },
     {
         "zip":8308,
-        "zip-share":3.83,
+        "zip-share":3.84,
         "town":"Agasul",
         "bfs":296,
         "municipality":"Illnau-Effretikon",
@@ -43534,7 +43543,7 @@
     },
     {
         "zip":8532,
-        "zip-share":52.2,
+        "zip-share":52.25,
         "town":"Warth",
         "bfs":4621,
         "municipality":"Warth-Weiningen",
@@ -43543,7 +43552,7 @@
     },
     {
         "zip":8532,
-        "zip-share":47.22,
+        "zip-share":47.17,
         "town":"Weiningen TG",
         "bfs":4621,
         "municipality":"Warth-Weiningen",
@@ -43912,7 +43921,7 @@
     },
     {
         "zip":8564,
-        "zip-share":24.26,
+        "zip-share":24.24,
         "town":"W\u00e4ldi",
         "bfs":4701,
         "municipality":"W\u00e4ldi",
@@ -43921,7 +43930,7 @@
     },
     {
         "zip":8564,
-        "zip-share":20.51,
+        "zip-share":20.49,
         "town":"Engwilen",
         "bfs":4701,
         "municipality":"W\u00e4ldi",
@@ -43930,7 +43939,7 @@
     },
     {
         "zip":8564,
-        "zip-share":11.98,
+        "zip-share":11.97,
         "town":"Lipperswil",
         "bfs":4701,
         "municipality":"W\u00e4ldi",
@@ -43939,7 +43948,7 @@
     },
     {
         "zip":8564,
-        "zip-share":11.07,
+        "zip-share":11.16,
         "town":"Sonterswil",
         "bfs":4701,
         "municipality":"W\u00e4ldi",
@@ -43948,7 +43957,7 @@
     },
     {
         "zip":8564,
-        "zip-share":10.25,
+        "zip-share":10.24,
         "town":"Wagerswil",
         "bfs":4951,
         "municipality":"Wigoltingen",
@@ -43957,7 +43966,7 @@
     },
     {
         "zip":8564,
-        "zip-share":7.41,
+        "zip-share":7.4,
         "town":"Hefenhausen",
         "bfs":4701,
         "municipality":"W\u00e4ldi",
@@ -43975,7 +43984,7 @@
     },
     {
         "zip":8564,
-        "zip-share":5.69,
+        "zip-share":5.68,
         "town":"Gunterswilen",
         "bfs":4701,
         "municipality":"W\u00e4ldi",
@@ -44002,7 +44011,7 @@
     },
     {
         "zip":8566,
-        "zip-share":41.12,
+        "zip-share":41.07,
         "town":"Neuwilen",
         "bfs":4666,
         "municipality":"Kemmental",
@@ -44011,7 +44020,7 @@
     },
     {
         "zip":8566,
-        "zip-share":29.61,
+        "zip-share":29.57,
         "town":"Dotnacht",
         "bfs":4666,
         "municipality":"Kemmental",
@@ -44020,7 +44029,7 @@
     },
     {
         "zip":8566,
-        "zip-share":15.35,
+        "zip-share":15.44,
         "town":"Lippoldswilen",
         "bfs":4666,
         "municipality":"Kemmental",
@@ -44029,7 +44038,7 @@
     },
     {
         "zip":8566,
-        "zip-share":13.93,
+        "zip-share":13.91,
         "town":"Ellighausen",
         "bfs":4666,
         "municipality":"Kemmental",
@@ -44155,7 +44164,7 @@
     },
     {
         "zip":8575,
-        "zip-share":76.13,
+        "zip-share":76.01,
         "town":"B\u00fcrglen TG",
         "bfs":4911,
         "municipality":"B\u00fcrglen (TG)",
@@ -44164,7 +44173,7 @@
     },
     {
         "zip":8575,
-        "zip-share":20.98,
+        "zip-share":21.1,
         "town":"Istighofen",
         "bfs":4911,
         "municipality":"B\u00fcrglen (TG)",
@@ -44209,7 +44218,7 @@
     },
     {
         "zip":8580,
-        "zip-share":72.59,
+        "zip-share":72.58,
         "town":"Amriswil",
         "bfs":4461,
         "municipality":"Amriswil",
@@ -44218,7 +44227,7 @@
     },
     {
         "zip":8580,
-        "zip-share":15.77,
+        "zip-share":15.75,
         "town":"Hefenhofen",
         "bfs":4416,
         "municipality":"Hefenhofen",
@@ -44227,7 +44236,7 @@
     },
     {
         "zip":8580,
-        "zip-share":6.89,
+        "zip-share":6.93,
         "town":"Sommeri",
         "bfs":4446,
         "municipality":"Sommeri",
@@ -44344,7 +44353,7 @@
     },
     {
         "zip":8585,
-        "zip-share":29.85,
+        "zip-share":29.87,
         "town":"Langrickenbach",
         "bfs":4681,
         "municipality":"Langrickenbach",
@@ -44353,7 +44362,7 @@
     },
     {
         "zip":8585,
-        "zip-share":12.64,
+        "zip-share":12.65,
         "town":"Mattwil",
         "bfs":4901,
         "municipality":"Birwinken",
@@ -44380,7 +44389,7 @@
     },
     {
         "zip":8585,
-        "zip-share":10.45,
+        "zip-share":10.46,
         "town":"Herrenhof",
         "bfs":4681,
         "municipality":"Langrickenbach",
@@ -44389,7 +44398,7 @@
     },
     {
         "zip":8585,
-        "zip-share":9.9,
+        "zip-share":9.84,
         "town":"Happerswil",
         "bfs":4901,
         "municipality":"Birwinken",
@@ -44398,7 +44407,7 @@
     },
     {
         "zip":8585,
-        "zip-share":9.15,
+        "zip-share":9.16,
         "town":"Sch\u00f6nenbaumgarten",
         "bfs":4681,
         "municipality":"Langrickenbach",
@@ -44407,7 +44416,7 @@
     },
     {
         "zip":8585,
-        "zip-share":4.71,
+        "zip-share":4.72,
         "town":"Klarsreuti",
         "bfs":4901,
         "municipality":"Birwinken",
@@ -45352,7 +45361,7 @@
     },
     {
         "zip":8726,
-        "zip-share":60.91,
+        "zip-share":60.99,
         "town":"Ricken SG",
         "bfs":3341,
         "municipality":"Gommiswald",
@@ -45361,7 +45370,7 @@
     },
     {
         "zip":8726,
-        "zip-share":39.09,
+        "zip-share":39.01,
         "town":"Ricken SG",
         "bfs":3379,
         "municipality":"Wattwil",
@@ -47890,7 +47899,7 @@
     },
     {
         "zip":9107,
-        "zip-share":83.84,
+        "zip-share":83.81,
         "town":"Urn\u00e4sch",
         "bfs":3006,
         "municipality":"Urn\u00e4sch",
@@ -47899,7 +47908,7 @@
     },
     {
         "zip":9107,
-        "zip-share":13.85,
+        "zip-share":13.84,
         "town":"Urn\u00e4sch",
         "bfs":3002,
         "municipality":"Hundwil",
@@ -47908,7 +47917,7 @@
     },
     {
         "zip":9107,
-        "zip-share":0.95,
+        "zip-share":0.99,
         "town":"Urn\u00e4sch",
         "bfs":3360,
         "municipality":"Nesslau",
@@ -48070,7 +48079,7 @@
     },
     {
         "zip":9116,
-        "zip-share":92.82,
+        "zip-share":92.57,
         "town":"Wolfertswil",
         "bfs":3401,
         "municipality":"Degersheim",
@@ -48079,7 +48088,7 @@
     },
     {
         "zip":9116,
-        "zip-share":7.18,
+        "zip-share":7.43,
         "town":"Wolfertswil",
         "bfs":3396,
         "municipality":"Neckertal",
@@ -48088,7 +48097,7 @@
     },
     {
         "zip":9122,
-        "zip-share":76.84,
+        "zip-share":76.94,
         "town":"Mogelsberg",
         "bfs":3396,
         "municipality":"Neckertal",
@@ -48097,7 +48106,7 @@
     },
     {
         "zip":9122,
-        "zip-share":23.16,
+        "zip-share":23.06,
         "town":"Ebersol",
         "bfs":3396,
         "municipality":"Neckertal",
@@ -48529,7 +48538,7 @@
     },
     {
         "zip":9243,
-        "zip-share":99.22,
+        "zip-share":99.11,
         "town":"Jonschwil",
         "bfs":3405,
         "municipality":"Jonschwil",
@@ -48538,7 +48547,7 @@
     },
     {
         "zip":9243,
-        "zip-share":0.78,
+        "zip-share":0.89,
         "town":"Jonschwil",
         "bfs":3393,
         "municipality":"L\u00fctisburg",
@@ -49366,7 +49375,7 @@
     },
     {
         "zip":9436,
-        "zip-share":95.56,
+        "zip-share":95.61,
         "town":"Balgach",
         "bfs":3232,
         "municipality":"Balgach",
@@ -49375,7 +49384,7 @@
     },
     {
         "zip":9436,
-        "zip-share":2.33,
+        "zip-share":2.28,
         "town":"Balgach",
         "bfs":3254,
         "municipality":"Oberriet (SG)",
@@ -49501,7 +49510,7 @@
     },
     {
         "zip":9450,
-        "zip-share":81.22,
+        "zip-share":81.18,
         "town":"Altst\u00e4tten SG",
         "bfs":3251,
         "municipality":"Altst\u00e4tten",
@@ -49510,7 +49519,7 @@
     },
     {
         "zip":9450,
-        "zip-share":17.44,
+        "zip-share":17.47,
         "town":"L\u00fcchingen",
         "bfs":3251,
         "municipality":"Altst\u00e4tten",
@@ -49600,7 +49609,7 @@
     },
     {
         "zip":9463,
-        "zip-share":4.76,
+        "zip-share":4.75,
         "town":"Oberriet SG",
         "bfs":3251,
         "municipality":"Altst\u00e4tten",
@@ -50491,7 +50500,7 @@
     },
     {
         "zip":9604,
-        "zip-share":67.31,
+        "zip-share":67.25,
         "town":"L\u00fctisburg",
         "bfs":3393,
         "municipality":"L\u00fctisburg",
@@ -50500,7 +50509,7 @@
     },
     {
         "zip":9604,
-        "zip-share":14.31,
+        "zip-share":14.4,
         "town":"Unterrindal",
         "bfs":3393,
         "municipality":"L\u00fctisburg",
@@ -50509,7 +50518,7 @@
     },
     {
         "zip":9604,
-        "zip-share":6.77,
+        "zip-share":6.76,
         "town":"Oberrindal",
         "bfs":3407,
         "municipality":"Oberuzwil",
@@ -50743,7 +50752,7 @@
     },
     {
         "zip":9633,
-        "zip-share":52.04,
+        "zip-share":52.01,
         "town":"Hemberg",
         "bfs":3396,
         "municipality":"Neckertal",
@@ -50752,7 +50761,7 @@
     },
     {
         "zip":9633,
-        "zip-share":43.08,
+        "zip-share":43.12,
         "town":"B\u00e4chli (Hemberg)",
         "bfs":3396,
         "municipality":"Neckertal",
