@@ -21,7 +21,7 @@ def download(url, file_name):
 
 def getDataFromInternet():
     downloads = {
-        'amtliches-gebaeudeadressverzeichnis_2056.csv': 'https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis/',
+        'amtliches-gebaeudeadressverzeichnis_ch_2056.csv': 'https://data.geo.admin.ch/ch.swisstopo.amtliches-gebaeudeadressverzeichnis/amtliches-gebaeudeadressverzeichnis_ch/',
         'ortschaftenverzeichnis_plz_2056.csv': 'https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/ortschaftenverzeichnis_plz/'
     }
     for file, url_path in downloads.items():
@@ -57,7 +57,7 @@ def getOrtschaftenverzeichnis():
     return dfTown
 
 def getGebaeudeverzeichnis():
-    file_name = r'./amtliches-gebaeudeadressverzeichnis_2056.csv/pure_adr.csv'
+    file_name = r'./amtliches-gebaeudeadressverzeichnis_ch_2056.csv/amtliches-gebaeudeadressverzeichnis_ch_2056.csv'
     if os.path.exists(file_name):
         df = pd.read_csv(file_name, sep=';', engine='python', dtype='unicode')
     else:
