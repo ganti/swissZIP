@@ -166,7 +166,7 @@ def compileList(dfTown, dfHouse):
 
 def cleanup():
     files = [   r'./PLZO_CSV_LV95',
-                r'./ch.swisstopo.amtliches-gebaeudeadressverzeichnis',
+                r'./amtliches-gebaeudeadressverzeichnis_ch_2056.csv',
     ]
     for f in files:
         if os.path.exists(f):
