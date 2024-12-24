@@ -5354,7 +5354,7 @@
     {
         "bfs":2301,
         "zip":1718,
-        "zip-share":91.65,
+        "zip-share":91.79,
         "town":"Rechthalten",
         "canton":"FR",
         "locale":"de"
@@ -5362,7 +5362,7 @@
     {
         "bfs":2304,
         "zip":1718,
-        "zip-share":8.35,
+        "zip-share":8.21,
         "town":"St. Ursen",
         "canton":"FR",
         "locale":"de"
@@ -7722,7 +7722,7 @@
     {
         "bfs":6458,
         "zip":2036,
-        "zip-share":86.56,
+        "zip-share":86.57,
         "town":"Neuch\u00e2tel",
         "canton":"NE",
         "locale":"fr"
@@ -7730,7 +7730,7 @@
     {
         "bfs":6416,
         "zip":2036,
-        "zip-share":13.44,
+        "zip-share":13.43,
         "town":"Milvignes",
         "canton":"NE",
         "locale":"fr"
@@ -9138,7 +9138,7 @@
     {
         "bfs":751,
         "zip":2575,
-        "zip-share":84.54,
+        "zip-share":84.56,
         "town":"T\u00e4uffelen",
         "canton":"BE",
         "locale":"de"
@@ -9146,7 +9146,7 @@
     {
         "bfs":736,
         "zip":2575,
-        "zip-share":15.27,
+        "zip-share":15.25,
         "town":"Hagneck",
         "canton":"BE",
         "locale":"de"
@@ -16706,7 +16706,7 @@
     {
         "bfs":6253,
         "zip":3963,
-        "zip-share":71.94,
+        "zip-share":71.95,
         "town":"Crans-Montana",
         "canton":"VS",
         "locale":"fr"
@@ -16714,7 +16714,7 @@
     {
         "bfs":6240,
         "zip":3963,
-        "zip-share":23.66,
+        "zip-share":23.65,
         "town":"Lens",
         "canton":"VS",
         "locale":"fr"
@@ -17026,7 +17026,7 @@
     {
         "bfs":6057,
         "zip":3984,
-        "zip-share":69.42,
+        "zip-share":69.45,
         "town":"Fiesch",
         "canton":"VS",
         "locale":"de"
@@ -17034,7 +17034,7 @@
     {
         "bfs":6058,
         "zip":3984,
-        "zip-share":30.08,
+        "zip-share":30.06,
         "town":"Fieschertal",
         "canton":"VS",
         "locale":"de"
@@ -23658,7 +23658,7 @@
     {
         "bfs":1404,
         "zip":6067,
-        "zip-share":89.29,
+        "zip-share":89.09,
         "town":"Kerns",
         "canton":"OW",
         "locale":"de"
@@ -23666,7 +23666,7 @@
     {
         "bfs":1406,
         "zip":6067,
-        "zip-share":10.71,
+        "zip-share":10.91,
         "town":"Sachseln",
         "canton":"OW",
         "locale":"de"
@@ -23698,7 +23698,7 @@
     {
         "bfs":1403,
         "zip":6074,
-        "zip-share":95.61,
+        "zip-share":95.58,
         "town":"Giswil",
         "canton":"OW",
         "locale":"de"
@@ -23706,7 +23706,7 @@
     {
         "bfs":1406,
         "zip":6074,
-        "zip-share":4.39,
+        "zip-share":4.42,
         "town":"Sachseln",
         "canton":"OW",
         "locale":"de"
@@ -32010,7 +32010,7 @@
     {
         "bfs":66,
         "zip":8152,
-        "zip-share":97.66,
+        "zip-share":97.65,
         "town":"Opfikon",
         "canton":"ZH",
         "locale":"de"
@@ -36010,7 +36010,7 @@
     {
         "bfs":1368,
         "zip":8843,
-        "zip-share":93.79,
+        "zip-share":93.86,
         "town":"Oberiberg",
         "canton":"SZ",
         "locale":"de"
@@ -36018,7 +36018,7 @@
     {
         "bfs":1372,
         "zip":8843,
-        "zip-share":6.21,
+        "zip-share":6.14,
         "town":"Schwyz",
         "canton":"SZ",
         "locale":"de"
