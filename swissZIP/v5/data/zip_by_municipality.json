@@ -10706,7 +10706,7 @@
     {
         "bfs":360,
         "zip":3032,
-        "zip-share":88.22,
+        "zip-share":88.25,
         "town":"Wohlen bei Bern",
         "canton":"BE",
         "locale":"de"
@@ -10714,7 +10714,7 @@
     {
         "bfs":351,
         "zip":3032,
-        "zip-share":11.78,
+        "zip-share":11.75,
         "town":"Bern",
         "canton":"BE",
         "locale":"de"
@@ -16698,7 +16698,7 @@
     {
         "bfs":6252,
         "zip":3961,
-        "zip-share":100.0,
+        "zip-share":100.01,
         "town":"Anniviers",
         "canton":"VS",
         "locale":"fr"
@@ -17538,7 +17538,7 @@
     {
         "bfs":2831,
         "zip":4133,
-        "zip-share":94.62,
+        "zip-share":94.58,
         "town":"Pratteln",
         "canton":"BL",
         "locale":"de"
@@ -17546,7 +17546,7 @@
     {
         "bfs":2770,
         "zip":4133,
-        "zip-share":4.99,
+        "zip-share":5.03,
         "town":"Muttenz",
         "canton":"BL",
         "locale":"de"
