@@ -5826,7 +5826,7 @@
     {
         "bfs":2200,
         "zip":1772,
-        "zip-share":68.58,
+        "zip-share":68.64,
         "town":"Grolley",
         "canton":"FR",
         "locale":"fr"
@@ -5834,7 +5834,7 @@
     {
         "bfs":2217,
         "zip":1772,
-        "zip-share":30.96,
+        "zip-share":30.89,
         "town":"Ponthaux",
         "canton":"FR",
         "locale":"fr"
@@ -25226,7 +25226,7 @@
     {
         "bfs":1709,
         "zip":6314,
-        "zip-share":97.77,
+        "zip-share":97.76,
         "town":"Unter\u00e4geri",
         "canton":"ZG",
         "locale":"de"
@@ -25922,7 +25922,7 @@
     {
         "bfs":1372,
         "zip":6423,
-        "zip-share":98.32,
+        "zip-share":98.31,
         "town":"Schwyz",
         "canton":"SZ",
         "locale":"de"
@@ -25930,7 +25930,7 @@
     {
         "bfs":1364,
         "zip":6423,
-        "zip-share":1.68,
+        "zip-share":1.69,
         "town":"Ingenbohl",
         "canton":"SZ",
         "locale":"de"
@@ -31386,7 +31386,7 @@
     {
         "bfs":3561,
         "zip":7742,
-        "zip-share":99.99,
+        "zip-share":100.0,
         "town":"Poschiavo",
         "canton":"GR",
         "locale":"it"
@@ -36010,7 +36010,7 @@
     {
         "bfs":1368,
         "zip":8843,
-        "zip-share":93.86,
+        "zip-share":93.98,
         "town":"Oberiberg",
         "canton":"SZ",
         "locale":"de"
@@ -36018,7 +36018,7 @@
     {
         "bfs":1372,
         "zip":8843,
-        "zip-share":6.14,
+        "zip-share":6.02,
         "town":"Schwyz",
         "canton":"SZ",
         "locale":"de"
@@ -36570,7 +36570,7 @@
     {
         "bfs":4061,
         "zip":8905,
-        "zip-share":74.15,
+        "zip-share":74.08,
         "town":"Arni (AG)",
         "canton":"AG",
         "locale":"de"
@@ -36578,7 +36578,7 @@
     {
         "bfs":4084,
         "zip":8905,
-        "zip-share":25.85,
+        "zip-share":25.92,
         "town":"Islisberg",
         "canton":"AG",
         "locale":"de"
