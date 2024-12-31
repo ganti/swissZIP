@@ -901,20 +901,11 @@
     },
     {
         "zip":1085,
-        "zip-share":99.7,
+        "zip-share":100.0,
         "town":"Vulliens",
         "bfs":5803,
         "municipality":"Vulliens",
         "canton":"VD",
-        "locale":"fr"
-    },
-    {
-        "zip":1085,
-        "zip-share":0.3,
-        "town":"Vulliens",
-        "bfs":2072,
-        "municipality":"Ecublens (FR)",
-        "canton":"FR",
         "locale":"fr"
     },
     {
@@ -5383,7 +5374,7 @@
     },
     {
         "zip":1608,
-        "zip-share":34.62,
+        "zip-share":52.24,
         "town":"Oron-le-Ch\u00e2tel",
         "bfs":5805,
         "municipality":"Oron",
@@ -5392,16 +5383,7 @@
     },
     {
         "zip":1608,
-        "zip-share":33.74,
-        "town":"Chapelle (Gl\u00e2ne)",
-        "bfs":2066,
-        "municipality":"Chapelle (Gl\u00e2ne)",
-        "canton":"FR",
-        "locale":"fr"
-    },
-    {
-        "zip":1608,
-        "zip-share":22.2,
+        "zip-share":33.51,
         "town":"Chesalles-sur-Oron",
         "bfs":5805,
         "municipality":"Oron",
@@ -5410,7 +5392,7 @@
     },
     {
         "zip":1608,
-        "zip-share":9.27,
+        "zip-share":13.98,
         "town":"Bussigny-sur-Oron",
         "bfs":5805,
         "municipality":"Oron",
@@ -5419,7 +5401,7 @@
     },
     {
         "zip":1608,
-        "zip-share":0.17,
+        "zip-share":0.26,
         "town":"Chapelle (Gl\u00e2ne)",
         "bfs":2097,
         "municipality":"Rue",
@@ -6355,7 +6337,7 @@
     },
     {
         "zip":1673,
-        "zip-share":29.08,
+        "zip-share":43.8,
         "town":"Rue",
         "bfs":2097,
         "municipality":"Rue",
@@ -6364,7 +6346,7 @@
     },
     {
         "zip":1673,
-        "zip-share":24.07,
+        "zip-share":36.25,
         "town":"Promasens",
         "bfs":2097,
         "municipality":"Rue",
@@ -6373,25 +6355,7 @@
     },
     {
         "zip":1673,
-        "zip-share":19.2,
-        "town":"Ecublens FR",
-        "bfs":2072,
-        "municipality":"Ecublens (FR)",
-        "canton":"FR",
-        "locale":"fr"
-    },
-    {
-        "zip":1673,
-        "zip-share":14.4,
-        "town":"Auboranges",
-        "bfs":2061,
-        "municipality":"Auboranges",
-        "canton":"FR",
-        "locale":"fr"
-    },
-    {
-        "zip":1673,
-        "zip-share":13.25,
+        "zip-share":19.96,
         "town":"Gillarens",
         "bfs":2097,
         "municipality":"Rue",
@@ -6400,16 +6364,7 @@
     },
     {
         "zip":1674,
-        "zip-share":53.52,
-        "town":"Montet (Gl\u00e2ne)",
-        "bfs":2089,
-        "municipality":"Montet (Gl\u00e2ne)",
-        "canton":"FR",
-        "locale":"fr"
-    },
-    {
-        "zip":1674,
-        "zip-share":39.66,
+        "zip-share":85.32,
         "town":"Vuarmarens",
         "bfs":2102,
         "municipality":"Ursy",
@@ -6418,7 +6373,7 @@
     },
     {
         "zip":1674,
-        "zip-share":6.82,
+        "zip-share":14.68,
         "town":"Morlens",
         "bfs":2102,
         "municipality":"Ursy",
@@ -7750,34 +7705,7 @@
     },
     {
         "zip":1772,
-        "zip-share":68.64,
-        "town":"Grolley",
-        "bfs":2200,
-        "municipality":"Grolley",
-        "canton":"FR",
-        "locale":"fr"
-    },
-    {
-        "zip":1772,
-        "zip-share":18.51,
-        "town":"Ponthaux",
-        "bfs":2217,
-        "municipality":"Ponthaux",
-        "canton":"FR",
-        "locale":"fr"
-    },
-    {
-        "zip":1772,
-        "zip-share":12.38,
-        "town":"Nierlet-les-Bois",
-        "bfs":2217,
-        "municipality":"Ponthaux",
-        "canton":"FR",
-        "locale":"fr"
-    },
-    {
-        "zip":1772,
-        "zip-share":0.47,
+        "zip-share":100.0,
         "town":"Grolley",
         "bfs":2053,
         "municipality":"Belmont-Broye",
@@ -10207,7 +10135,7 @@
     },
     {
         "zip":1984,
-        "zip-share":87.61,
+        "zip-share":87.62,
         "town":"Les Haud\u00e8res",
         "bfs":6083,
         "municipality":"Evol\u00e8ne",
@@ -10216,7 +10144,7 @@
     },
     {
         "zip":1984,
-        "zip-share":12.39,
+        "zip-share":12.38,
         "town":"La Tour VS",
         "bfs":6083,
         "municipality":"Evol\u00e8ne",
@@ -11026,7 +10954,7 @@
     },
     {
         "zip":2067,
-        "zip-share":68.25,
+        "zip-share":68.98,
         "town":"Chaumont",
         "bfs":6458,
         "municipality":"Neuch\u00e2tel",
@@ -11035,7 +10963,7 @@
     },
     {
         "zip":2067,
-        "zip-share":30.69,
+        "zip-share":31.02,
         "town":"Chaumont",
         "bfs":6487,
         "municipality":"Val-de-Ruz",
@@ -11043,26 +10971,8 @@
         "locale":"fr"
     },
     {
-        "zip":2067,
-        "zip-share":1.06,
-        "town":"Chaumont",
-        "bfs":6453,
-        "municipality":"Enges",
-        "canton":"NE",
-        "locale":"fr"
-    },
-    {
         "zip":2068,
-        "zip-share":99.57,
-        "town":"Hauterive NE",
-        "bfs":6454,
-        "municipality":"Hauterive (NE)",
-        "canton":"NE",
-        "locale":"fr"
-    },
-    {
-        "zip":2068,
-        "zip-share":0.43,
+        "zip-share":100.0,
         "town":"Hauterive NE",
         "bfs":6458,
         "municipality":"Neuch\u00e2tel",
@@ -11071,16 +10981,7 @@
     },
     {
         "zip":2072,
-        "zip-share":94.6,
-        "town":"St-Blaise",
-        "bfs":6459,
-        "municipality":"Saint-Blaise",
-        "canton":"NE",
-        "locale":"fr"
-    },
-    {
-        "zip":2072,
-        "zip-share":3.1,
+        "zip-share":57.47,
         "town":"St-Blaise",
         "bfs":6451,
         "municipality":"Cornaux",
@@ -11089,7 +10990,7 @@
     },
     {
         "zip":2072,
-        "zip-share":2.3,
+        "zip-share":42.53,
         "town":"St-Blaise",
         "bfs":6452,
         "municipality":"Cressier (NE)",
@@ -11098,16 +10999,7 @@
     },
     {
         "zip":2073,
-        "zip-share":98.43,
-        "town":"Enges",
-        "bfs":6453,
-        "municipality":"Enges",
-        "canton":"NE",
-        "locale":"fr"
-    },
-    {
-        "zip":2073,
-        "zip-share":1.57,
+        "zip-share":100.0,
         "town":"Enges",
         "bfs":6455,
         "municipality":"Le Landeron",
@@ -11115,35 +11007,8 @@
         "locale":"fr"
     },
     {
-        "zip":2074,
+        "zip":2075,
         "zip-share":100.0,
-        "town":"Marin-Epagnier",
-        "bfs":6461,
-        "municipality":"La T\u00e8ne",
-        "canton":"NE",
-        "locale":"fr"
-    },
-    {
-        "zip":2075,
-        "zip-share":56.71,
-        "town":"Wavre",
-        "bfs":6461,
-        "municipality":"La T\u00e8ne",
-        "canton":"NE",
-        "locale":"fr"
-    },
-    {
-        "zip":2075,
-        "zip-share":42.21,
-        "town":"Thielle",
-        "bfs":6461,
-        "municipality":"La T\u00e8ne",
-        "canton":"NE",
-        "locale":"fr"
-    },
-    {
-        "zip":2075,
-        "zip-share":1.08,
         "town":"Thielle",
         "bfs":6451,
         "municipality":"Cornaux",
@@ -16462,7 +16327,7 @@
     },
     {
         "zip":3236,
-        "zip-share":90.54,
+        "zip-share":90.66,
         "town":"Gampelen",
         "bfs":495,
         "municipality":"Gampelen",
@@ -16471,7 +16336,7 @@
     },
     {
         "zip":3236,
-        "zip-share":8.38,
+        "zip-share":8.39,
         "town":"Gampelen",
         "bfs":496,
         "municipality":"Ins",
@@ -16485,15 +16350,6 @@
         "bfs":2284,
         "municipality":"Mont-Vully",
         "canton":"FR",
-        "locale":"de"
-    },
-    {
-        "zip":3236,
-        "zip-share":0.14,
-        "town":"Gampelen",
-        "bfs":6461,
-        "municipality":"La T\u00e8ne",
-        "canton":"NE",
         "locale":"de"
     },
     {
@@ -20458,7 +20314,7 @@
     },
     {
         "zip":3800,
-        "zip-share":37.66,
+        "zip-share":37.69,
         "town":"Unterseen",
         "bfs":593,
         "municipality":"Unterseen",
@@ -20467,7 +20323,7 @@
     },
     {
         "zip":3800,
-        "zip-share":32.65,
+        "zip-share":32.64,
         "town":"Interlaken",
         "bfs":581,
         "municipality":"Interlaken",
@@ -20476,7 +20332,7 @@
     },
     {
         "zip":3800,
-        "zip-share":26.45,
+        "zip-share":26.43,
         "town":"Matten b. Interlaken",
         "bfs":587,
         "municipality":"Matten bei Interlaken",
@@ -30133,7 +29989,7 @@
     },
     {
         "zip":6038,
-        "zip-share":63.4,
+        "zip-share":88.1,
         "town":"Gisikon",
         "bfs":1055,
         "municipality":"Gisikon",
@@ -30142,16 +29998,7 @@
     },
     {
         "zip":6038,
-        "zip-share":27.62,
-        "town":"Honau",
-        "bfs":1057,
-        "municipality":"Honau",
-        "canton":"LU",
-        "locale":"de"
-    },
-    {
-        "zip":6038,
-        "zip-share":7.87,
+        "zip-share":10.94,
         "town":"Gisikon",
         "bfs":1033,
         "municipality":"Inwil",
@@ -30160,19 +30007,10 @@
     },
     {
         "zip":6038,
-        "zip-share":0.69,
+        "zip-share":0.96,
         "town":"Gisikon",
         "bfs":1065,
         "municipality":"Root",
-        "canton":"LU",
-        "locale":"de"
-    },
-    {
-        "zip":6038,
-        "zip-share":0.41,
-        "town":"Gisikon",
-        "bfs":1057,
-        "municipality":"Honau",
         "canton":"LU",
         "locale":"de"
     },
@@ -33247,7 +33085,7 @@
     },
     {
         "zip":6423,
-        "zip-share":98.31,
+        "zip-share":98.3,
         "town":"Seewen SZ",
         "bfs":1372,
         "municipality":"Schwyz",
@@ -33256,7 +33094,7 @@
     },
     {
         "zip":6423,
-        "zip-share":1.69,
+        "zip-share":1.7,
         "town":"Seewen SZ",
         "bfs":1364,
         "municipality":"Ingenbohl",
@@ -37688,24 +37526,6 @@
         "town":"Passugg",
         "bfs":3911,
         "municipality":"Churwalden",
-        "canton":"GR",
-        "locale":"de"
-    },
-    {
-        "zip":7063,
-        "zip-share":100.0,
-        "town":"Praden",
-        "bfs":3932,
-        "municipality":"Tschiertschen-Praden",
-        "canton":"GR",
-        "locale":"de"
-    },
-    {
-        "zip":7064,
-        "zip-share":100.0,
-        "town":"Tschiertschen",
-        "bfs":3932,
-        "municipality":"Tschiertschen-Praden",
         "canton":"GR",
         "locale":"de"
     },
@@ -46540,7 +46360,7 @@
     },
     {
         "zip":8843,
-        "zip-share":93.98,
+        "zip-share":94.1,
         "town":"Oberiberg",
         "bfs":1368,
         "municipality":"Oberiberg",
@@ -46549,7 +46369,7 @@
     },
     {
         "zip":8843,
-        "zip-share":6.02,
+        "zip-share":5.9,
         "town":"Oberiberg",
         "bfs":1372,
         "municipality":"Schwyz",
@@ -50068,7 +49888,7 @@
     },
     {
         "zip":9463,
-        "zip-share":94.92,
+        "zip-share":94.91,
         "town":"Oberriet SG",
         "bfs":3254,
         "municipality":"Oberriet (SG)",
