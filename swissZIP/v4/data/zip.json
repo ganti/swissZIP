@@ -14248,6 +14248,14 @@
         "locale":"de"
     },
     {
+        "bfs":944,
+        "zip":3603,
+        "zip-share":0.12,
+        "town":"Uetendorf",
+        "canton":"BE",
+        "locale":"de"
+    },
+    {
         "bfs":942,
         "zip":3604,
         "zip-share":100.0,
@@ -16890,7 +16898,7 @@
     {
         "bfs":6181,
         "zip":3983,
-        "zip-share":17.76,
+        "zip-share":18.32,
         "town":"Riederalp",
         "canton":"VS",
         "locale":"de"
@@ -16980,6 +16988,14 @@
         "zip":3991,
         "zip-share":99.14,
         "town":"Bettmeralp",
+        "canton":"VS",
+        "locale":"de"
+    },
+    {
+        "bfs":6181,
+        "zip":3991,
+        "zip-share":0.86,
+        "town":"Riederalp",
         "canton":"VS",
         "locale":"de"
     },
@@ -19720,6 +19736,14 @@
         "locale":"de"
     },
     {
+        "bfs":2406,
+        "zip":4623,
+        "zip-share":0.11,
+        "town":"Oberbuchsiten",
+        "canton":"SO",
+        "locale":"de"
+    },
+    {
         "bfs":2402,
         "zip":4624,
         "zip-share":100.0,
@@ -21532,14 +21556,6 @@
         "zip":5300,
         "zip-share":75.89,
         "town":"Baden",
-        "canton":"AG",
-        "locale":"de"
-    },
-    {
-        "bfs":4044,
-        "zip":5300,
-        "zip-share":24.11,
-        "town":"Untersiggenthal",
         "canton":"AG",
         "locale":"de"
     },
@@ -28444,6 +28460,14 @@
         "zip":6946,
         "zip-share":99.87,
         "town":"Ponte Capriasca",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
+        "bfs":5226,
+        "zip":6946,
+        "zip-share":0.13,
+        "town":"Capriasca",
         "canton":"TI",
         "locale":"it"
     },

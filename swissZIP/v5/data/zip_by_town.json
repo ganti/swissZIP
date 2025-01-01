@@ -18873,6 +18873,15 @@
         "locale":"de"
     },
     {
+        "zip":3603,
+        "zip-share":0.12,
+        "town":"Thun",
+        "bfs":944,
+        "municipality":"Uetendorf",
+        "canton":"BE",
+        "locale":"de"
+    },
+    {
         "zip":3604,
         "zip-share":100.0,
         "town":"Thun",
@@ -22358,9 +22367,27 @@
     {
         "zip":3983,
         "zip-share":0.28,
+        "town":"Filet",
+        "bfs":6181,
+        "municipality":"Riederalp",
+        "canton":"VS",
+        "locale":"de"
+    },
+    {
+        "zip":3983,
+        "zip-share":0.28,
         "town":"Goppisberg",
         "bfs":6205,
         "municipality":"Bettmeralp",
+        "canton":"VS",
+        "locale":"de"
+    },
+    {
+        "zip":3983,
+        "zip-share":0.28,
+        "town":"M\u00f6rel",
+        "bfs":6181,
+        "municipality":"Riederalp",
         "canton":"VS",
         "locale":"de"
     },
@@ -22505,6 +22532,15 @@
         "town":"Betten",
         "bfs":6205,
         "municipality":"Bettmeralp",
+        "canton":"VS",
+        "locale":"de"
+    },
+    {
+        "zip":3991,
+        "zip-share":0.86,
+        "town":"Betten",
+        "bfs":6181,
+        "municipality":"Riederalp",
         "canton":"VS",
         "locale":"de"
     },
@@ -25731,6 +25767,15 @@
         "locale":"de"
     },
     {
+        "zip":4623,
+        "zip-share":0.11,
+        "town":"Neuendorf",
+        "bfs":2406,
+        "municipality":"Oberbuchsiten",
+        "canton":"SO",
+        "locale":"de"
+    },
+    {
         "zip":4624,
         "zip-share":100.0,
         "town":"H\u00e4rkingen",
@@ -27860,15 +27905,6 @@
         "town":"Turgi",
         "bfs":4021,
         "municipality":"Baden",
-        "canton":"AG",
-        "locale":"de"
-    },
-    {
-        "zip":5300,
-        "zip-share":24.11,
-        "town":"Turgi",
-        "bfs":4044,
-        "municipality":"Untersiggenthal",
         "canton":"AG",
         "locale":"de"
     },
@@ -36635,6 +36671,15 @@
         "town":"Ponte Capriasca",
         "bfs":5212,
         "municipality":"Ponte Capriasca",
+        "canton":"TI",
+        "locale":"it"
+    },
+    {
+        "zip":6946,
+        "zip-share":0.13,
+        "town":"Ponte Capriasca",
+        "bfs":5226,
+        "municipality":"Capriasca",
         "canton":"TI",
         "locale":"it"
     },
