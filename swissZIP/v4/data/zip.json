@@ -746,9 +746,17 @@
     {
         "bfs":5803,
         "zip":1085,
-        "zip-share":100.0,
+        "zip-share":99.7,
         "town":"Vulliens",
         "canton":"VD",
+        "locale":"fr"
+    },
+    {
+        "bfs":2097,
+        "zip":1085,
+        "zip-share":0.3,
+        "town":"Rue",
+        "canton":"FR",
         "locale":"fr"
     },
     {
@@ -4282,7 +4290,7 @@
     {
         "bfs":5805,
         "zip":1608,
-        "zip-share":99.73,
+        "zip-share":66.09,
         "town":"Oron",
         "canton":"VD",
         "locale":"fr"
@@ -4290,7 +4298,7 @@
     {
         "bfs":2097,
         "zip":1608,
-        "zip-share":0.26,
+        "zip-share":33.92,
         "town":"Rue",
         "canton":"FR",
         "locale":"fr"
@@ -4906,7 +4914,7 @@
     {
         "bfs":2097,
         "zip":1673,
-        "zip-share":100.01,
+        "zip-share":100.0,
         "town":"Rue",
         "canton":"FR",
         "locale":"fr"
@@ -5784,9 +5792,17 @@
         "locale":"fr"
     },
     {
+        "bfs":2239,
+        "zip":1772,
+        "zip-share":99.53,
+        "town":"Grolley-Ponthaux",
+        "canton":"FR",
+        "locale":"fr"
+    },
+    {
         "bfs":2053,
         "zip":1772,
-        "zip-share":100.0,
+        "zip-share":0.47,
         "town":"Belmont-Broye",
         "canton":"FR",
         "locale":"fr"
@@ -7802,7 +7818,7 @@
     {
         "bfs":6458,
         "zip":2067,
-        "zip-share":68.98,
+        "zip-share":68.25,
         "town":"Neuch\u00e2tel",
         "canton":"NE",
         "locale":"fr"
@@ -7810,23 +7826,47 @@
     {
         "bfs":6487,
         "zip":2067,
-        "zip-share":31.02,
+        "zip-share":30.69,
         "town":"Val-de-Ruz",
+        "canton":"NE",
+        "locale":"fr"
+    },
+    {
+        "bfs":6513,
+        "zip":2067,
+        "zip-share":1.06,
+        "town":"Lat\u00e9na",
+        "canton":"NE",
+        "locale":"fr"
+    },
+    {
+        "bfs":6513,
+        "zip":2068,
+        "zip-share":99.57,
+        "town":"Lat\u00e9na",
         "canton":"NE",
         "locale":"fr"
     },
     {
         "bfs":6458,
         "zip":2068,
-        "zip-share":100.0,
+        "zip-share":0.43,
         "town":"Neuch\u00e2tel",
+        "canton":"NE",
+        "locale":"fr"
+    },
+    {
+        "bfs":6513,
+        "zip":2072,
+        "zip-share":94.59,
+        "town":"Lat\u00e9na",
         "canton":"NE",
         "locale":"fr"
     },
     {
         "bfs":6451,
         "zip":2072,
-        "zip-share":57.47,
+        "zip-share":3.11,
         "town":"Cornaux",
         "canton":"NE",
         "locale":"fr"
@@ -7834,23 +7874,47 @@
     {
         "bfs":6452,
         "zip":2072,
-        "zip-share":42.53,
+        "zip-share":2.3,
         "town":"Cressier (NE)",
+        "canton":"NE",
+        "locale":"fr"
+    },
+    {
+        "bfs":6513,
+        "zip":2073,
+        "zip-share":98.43,
+        "town":"Lat\u00e9na",
         "canton":"NE",
         "locale":"fr"
     },
     {
         "bfs":6455,
         "zip":2073,
-        "zip-share":100.0,
+        "zip-share":1.57,
         "town":"Le Landeron",
+        "canton":"NE",
+        "locale":"fr"
+    },
+    {
+        "bfs":6513,
+        "zip":2074,
+        "zip-share":100.0,
+        "town":"Lat\u00e9na",
+        "canton":"NE",
+        "locale":"fr"
+    },
+    {
+        "bfs":6513,
+        "zip":2075,
+        "zip-share":98.91,
+        "town":"Lat\u00e9na",
         "canton":"NE",
         "locale":"fr"
     },
     {
         "bfs":6451,
         "zip":2075,
-        "zip-share":100.0,
+        "zip-share":1.08,
         "town":"Cornaux",
         "canton":"NE",
         "locale":"fr"
@@ -12170,7 +12234,7 @@
     {
         "bfs":495,
         "zip":3236,
-        "zip-share":90.66,
+        "zip-share":90.54,
         "town":"Gampelen",
         "canton":"BE",
         "locale":"de"
@@ -12178,7 +12242,7 @@
     {
         "bfs":496,
         "zip":3236,
-        "zip-share":8.39,
+        "zip-share":8.38,
         "town":"Ins",
         "canton":"BE",
         "locale":"de"
@@ -12189,6 +12253,14 @@
         "zip-share":0.95,
         "town":"Mont-Vully",
         "canton":"FR",
+        "locale":"de"
+    },
+    {
+        "bfs":6513,
+        "zip":3236,
+        "zip-share":0.14,
+        "town":"Lat\u00e9na",
+        "canton":"NE",
         "locale":"de"
     },
     {
@@ -23370,24 +23442,24 @@
     {
         "bfs":1055,
         "zip":6038,
-        "zip-share":88.1,
+        "zip-share":63.4,
         "town":"Gisikon",
-        "canton":"LU",
-        "locale":"de"
-    },
-    {
-        "bfs":1033,
-        "zip":6038,
-        "zip-share":10.94,
-        "town":"Inwil",
         "canton":"LU",
         "locale":"de"
     },
     {
         "bfs":1065,
         "zip":6038,
-        "zip-share":0.96,
+        "zip-share":28.72,
         "town":"Root",
+        "canton":"LU",
+        "locale":"de"
+    },
+    {
+        "bfs":1033,
+        "zip":6038,
+        "zip-share":7.87,
+        "town":"Inwil",
         "canton":"LU",
         "locale":"de"
     },
@@ -25898,7 +25970,7 @@
     {
         "bfs":1219,
         "zip":6436,
-        "zip-share":0.77,
+        "zip-share":0.76,
         "town":"Untersch\u00e4chen",
         "canton":"UR",
         "locale":"de"
@@ -28754,7 +28826,7 @@
     {
         "bfs":5193,
         "zip":6983,
-        "zip-share":96.44,
+        "zip-share":96.43,
         "town":"Magliaso",
         "canton":"TI",
         "locale":"it"
@@ -28762,7 +28834,7 @@
     {
         "bfs":5206,
         "zip":6983,
-        "zip-share":3.56,
+        "zip-share":3.57,
         "town":"Neggio",
         "canton":"TI",
         "locale":"it"
@@ -29116,6 +29188,22 @@
         "zip":7062,
         "zip-share":100.0,
         "town":"Churwalden",
+        "canton":"GR",
+        "locale":"de"
+    },
+    {
+        "bfs":3901,
+        "zip":7063,
+        "zip-share":100.0,
+        "town":"Chur",
+        "canton":"GR",
+        "locale":"de"
+    },
+    {
+        "bfs":3901,
+        "zip":7064,
+        "zip-share":100.0,
+        "town":"Chur",
         "canton":"GR",
         "locale":"de"
     },
