@@ -4930,7 +4930,7 @@
     {
         "bfs":2102,
         "zip":1675,
-        "zip-share":82.21,
+        "zip-share":82.24,
         "town":"Ursy",
         "canton":"FR",
         "locale":"fr"
@@ -4938,7 +4938,7 @@
     {
         "bfs":2097,
         "zip":1675,
-        "zip-share":17.79,
+        "zip-share":17.76,
         "town":"Rue",
         "canton":"FR",
         "locale":"fr"
@@ -5562,7 +5562,7 @@
     {
         "bfs":2303,
         "zip":1734,
-        "zip-share":0.77,
+        "zip-share":0.76,
         "town":"St. Silvester",
         "canton":"FR",
         "locale":"de"
@@ -5906,7 +5906,7 @@
     {
         "bfs":2284,
         "zip":1787,
-        "zip-share":73.33,
+        "zip-share":73.41,
         "town":"Mont-Vully",
         "canton":"FR",
         "locale":"fr"
@@ -5914,7 +5914,7 @@
     {
         "bfs":5464,
         "zip":1787,
-        "zip-share":26.67,
+        "zip-share":26.59,
         "town":"Vully-les-Lacs",
         "canton":"VD",
         "locale":"fr"
@@ -7178,7 +7178,7 @@
     {
         "bfs":6263,
         "zip":1971,
-        "zip-share":99.73,
+        "zip-share":99.74,
         "town":"Grimisuat",
         "canton":"VS",
         "locale":"fr"
@@ -10058,7 +10058,7 @@
     {
         "bfs":6710,
         "zip":2852,
-        "zip-share":99.78,
+        "zip-share":99.79,
         "town":"Court\u00e9telle",
         "canton":"JU",
         "locale":"fr"
@@ -10066,7 +10066,7 @@
     {
         "bfs":6711,
         "zip":2852,
-        "zip-share":0.22,
+        "zip-share":0.21,
         "town":"Del\u00e9mont",
         "canton":"JU",
         "locale":"fr"
@@ -14426,7 +14426,7 @@
     {
         "bfs":614,
         "zip":3615,
-        "zip-share":0.69,
+        "zip-share":0.68,
         "town":"Linden",
         "canton":"BE",
         "locale":"de"
@@ -15554,7 +15554,7 @@
     {
         "bfs":593,
         "zip":3800,
-        "zip-share":37.69,
+        "zip-share":37.68,
         "town":"Unterseen",
         "canton":"BE",
         "locale":"de"
@@ -15570,7 +15570,7 @@
     {
         "bfs":587,
         "zip":3800,
-        "zip-share":26.43,
+        "zip-share":26.44,
         "town":"Matten bei Interlaken",
         "canton":"BE",
         "locale":"de"
@@ -16442,7 +16442,7 @@
     {
         "bfs":6118,
         "zip":3945,
-        "zip-share":95.47,
+        "zip-share":95.46,
         "town":"Gampel-Bratsch",
         "canton":"VS",
         "locale":"de"
@@ -16674,7 +16674,7 @@
     {
         "bfs":6252,
         "zip":3961,
-        "zip-share":100.01,
+        "zip-share":100.0,
         "town":"Anniviers",
         "canton":"VS",
         "locale":"fr"
@@ -20146,7 +20146,7 @@
     {
         "bfs":2430,
         "zip":4716,
-        "zip-share":98.64,
+        "zip-share":98.63,
         "town":"Welschenrohr-G\u00e4nsbrunnen",
         "canton":"SO",
         "locale":"de"
@@ -22194,7 +22194,7 @@
     {
         "bfs":4201,
         "zip":5600,
-        "zip-share":89.55,
+        "zip-share":89.54,
         "town":"Lenzburg",
         "canton":"AG",
         "locale":"de"
@@ -22202,7 +22202,7 @@
     {
         "bfs":4191,
         "zip":5600,
-        "zip-share":10.45,
+        "zip-share":10.46,
         "town":"Ammerswil",
         "canton":"AG",
         "locale":"de"
@@ -23370,7 +23370,7 @@
     {
         "bfs":1033,
         "zip":6034,
-        "zip-share":85.29,
+        "zip-share":85.35,
         "town":"Inwil",
         "canton":"LU",
         "locale":"de"
@@ -23378,7 +23378,7 @@
     {
         "bfs":1026,
         "zip":6034,
-        "zip-share":6.73,
+        "zip-share":6.71,
         "town":"Eschenbach (LU)",
         "canton":"LU",
         "locale":"de"
@@ -23386,7 +23386,7 @@
     {
         "bfs":1023,
         "zip":6034,
-        "zip-share":6.48,
+        "zip-share":6.46,
         "town":"Ballwil",
         "canton":"LU",
         "locale":"de"
@@ -23402,7 +23402,7 @@
     {
         "bfs":4239,
         "zip":6034,
-        "zip-share":0.42,
+        "zip-share":0.41,
         "town":"Sins",
         "canton":"AG",
         "locale":"de"
@@ -24330,7 +24330,7 @@
     {
         "bfs":1010,
         "zip":6192,
-        "zip-share":92.45,
+        "zip-share":92.43,
         "town":"Escholzmatt-Marbach",
         "canton":"LU",
         "locale":"de"
@@ -24338,7 +24338,7 @@
     {
         "bfs":1004,
         "zip":6192,
-        "zip-share":7.55,
+        "zip-share":7.57,
         "town":"Fl\u00fchli",
         "canton":"LU",
         "locale":"de"
@@ -24970,7 +24970,7 @@
     {
         "bfs":1023,
         "zip":6275,
-        "zip-share":79.65,
+        "zip-share":79.63,
         "town":"Ballwil",
         "canton":"LU",
         "locale":"de"
@@ -24978,7 +24978,7 @@
     {
         "bfs":1032,
         "zip":6275,
-        "zip-share":18.75,
+        "zip-share":18.77,
         "town":"Hohenrain",
         "canton":"LU",
         "locale":"de"
@@ -25202,7 +25202,7 @@
     {
         "bfs":1709,
         "zip":6314,
-        "zip-share":97.76,
+        "zip-share":97.77,
         "town":"Unter\u00e4geri",
         "canton":"ZG",
         "locale":"de"
@@ -26618,7 +26618,7 @@
     {
         "bfs":3831,
         "zip":6557,
-        "zip-share":93.81,
+        "zip-share":93.8,
         "town":"Cama",
         "canton":"GR",
         "locale":"it"
@@ -26626,7 +26626,7 @@
     {
         "bfs":3832,
         "zip":6557,
-        "zip-share":6.19,
+        "zip-share":6.2,
         "town":"Grono",
         "canton":"GR",
         "locale":"it"
@@ -26930,7 +26930,7 @@
     {
         "bfs":5113,
         "zip":6605,
-        "zip-share":93.56,
+        "zip-share":93.32,
         "town":"Locarno",
         "canton":"TI",
         "locale":"it"
@@ -26938,7 +26938,7 @@
     {
         "bfs":5121,
         "zip":6605,
-        "zip-share":6.44,
+        "zip-share":6.68,
         "town":"Orselina",
         "canton":"TI",
         "locale":"it"
@@ -27082,7 +27082,7 @@
     {
         "bfs":5113,
         "zip":6644,
-        "zip-share":0.77,
+        "zip-share":0.73,
         "town":"Locarno",
         "canton":"TI",
         "locale":"it"
@@ -33290,7 +33290,7 @@
     {
         "bfs":4721,
         "zip":8363,
-        "zip-share":95.65,
+        "zip-share":95.66,
         "town":"Bichelsee-Balterswil",
         "canton":"TG",
         "locale":"de"
@@ -33298,7 +33298,7 @@
     {
         "bfs":228,
         "zip":8363,
-        "zip-share":4.35,
+        "zip-share":4.34,
         "town":"Turbenthal",
         "canton":"ZH",
         "locale":"de"
@@ -35786,7 +35786,7 @@
     {
         "bfs":1322,
         "zip":8806,
-        "zip-share":69.55,
+        "zip-share":69.51,
         "town":"Freienbach",
         "canton":"SZ",
         "locale":"de"
@@ -35794,7 +35794,7 @@
     {
         "bfs":1323,
         "zip":8806,
-        "zip-share":30.45,
+        "zip-share":30.49,
         "town":"Wollerau",
         "canton":"SZ",
         "locale":"de"
@@ -35866,7 +35866,7 @@
     {
         "bfs":1323,
         "zip":8832,
-        "zip-share":68.25,
+        "zip-share":68.27,
         "town":"Wollerau",
         "canton":"SZ",
         "locale":"de"
@@ -35874,7 +35874,7 @@
     {
         "bfs":1322,
         "zip":8832,
-        "zip-share":31.56,
+        "zip-share":31.54,
         "town":"Freienbach",
         "canton":"SZ",
         "locale":"de"
