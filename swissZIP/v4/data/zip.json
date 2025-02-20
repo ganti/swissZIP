@@ -2498,7 +2498,7 @@
     {
         "bfs":6639,
         "zip":1286,
-        "zip-share":98.92,
+        "zip-share":98.93,
         "town":"Soral",
         "canton":"GE",
         "locale":"fr"
@@ -2506,7 +2506,7 @@
     {
         "bfs":6607,
         "zip":1286,
-        "zip-share":1.08,
+        "zip-share":1.07,
         "town":"Bernex",
         "canton":"GE",
         "locale":"fr"
@@ -2530,7 +2530,7 @@
     {
         "bfs":6644,
         "zip":1290,
-        "zip-share":83.61,
+        "zip-share":83.6,
         "town":"Versoix",
         "canton":"GE",
         "locale":"fr"
@@ -2538,7 +2538,7 @@
     {
         "bfs":5708,
         "zip":1290,
-        "zip-share":13.81,
+        "zip-share":13.82,
         "town":"Chavannes-des-Bois",
         "canton":"VD",
         "locale":"fr"
@@ -11410,7 +11410,7 @@
     {
         "bfs":866,
         "zip":3115,
-        "zip-share":95.29,
+        "zip-share":95.28,
         "town":"Gerzensee",
         "canton":"BE",
         "locale":"de"
@@ -13786,7 +13786,7 @@
     {
         "bfs":985,
         "zip":3476,
-        "zip-share":69.89,
+        "zip-share":69.82,
         "town":"Ochlenberg",
         "canton":"BE",
         "locale":"de"
@@ -13794,7 +13794,7 @@
     {
         "bfs":988,
         "zip":3476,
-        "zip-share":28.09,
+        "zip-share":28.15,
         "town":"Seeberg",
         "canton":"BE",
         "locale":"de"
@@ -13802,7 +13802,7 @@
     {
         "bfs":989,
         "zip":3476,
-        "zip-share":2.02,
+        "zip-share":2.03,
         "town":"Th\u00f6rigen",
         "canton":"BE",
         "locale":"de"
@@ -14634,7 +14634,7 @@
     {
         "bfs":611,
         "zip":3629,
-        "zip-share":43.56,
+        "zip-share":43.5,
         "town":"Kiesen",
         "canton":"BE",
         "locale":"de"
@@ -14642,7 +14642,7 @@
     {
         "bfs":622,
         "zip":3629,
-        "zip-share":35.99,
+        "zip-share":36.02,
         "town":"Oppligen",
         "canton":"BE",
         "locale":"de"
@@ -14650,7 +14650,7 @@
     {
         "bfs":868,
         "zip":3629,
-        "zip-share":19.86,
+        "zip-share":19.88,
         "town":"Jaberg",
         "canton":"BE",
         "locale":"de"
@@ -26466,7 +26466,7 @@
     {
         "bfs":5001,
         "zip":6532,
-        "zip-share":93.91,
+        "zip-share":93.89,
         "town":"Arbedo-Castione",
         "canton":"TI",
         "locale":"it"
@@ -26474,7 +26474,7 @@
     {
         "bfs":5010,
         "zip":6532,
-        "zip-share":5.92,
+        "zip-share":5.94,
         "town":"Lumino",
         "canton":"TI",
         "locale":"it"
@@ -26786,7 +26786,7 @@
     {
         "bfs":5017,
         "zip":6592,
-        "zip-share":92.58,
+        "zip-share":92.55,
         "town":"Sant'Antonino",
         "canton":"TI",
         "locale":"it"
@@ -26794,7 +26794,7 @@
     {
         "bfs":5002,
         "zip":6592,
-        "zip-share":7.0,
+        "zip-share":7.03,
         "town":"Bellinzona",
         "canton":"TI",
         "locale":"it"
@@ -26922,7 +26922,7 @@
     {
         "bfs":5113,
         "zip":6600,
-        "zip-share":77.18,
+        "zip-share":77.17,
         "town":"Locarno",
         "canton":"TI",
         "locale":"it"
@@ -26930,7 +26930,7 @@
     {
         "bfs":5120,
         "zip":6600,
-        "zip-share":22.27,
+        "zip-share":22.28,
         "town":"Muralto",
         "canton":"TI",
         "locale":"it"
@@ -26946,7 +26946,7 @@
     {
         "bfs":5113,
         "zip":6605,
-        "zip-share":93.32,
+        "zip-share":93.67,
         "town":"Locarno",
         "canton":"TI",
         "locale":"it"
@@ -26954,7 +26954,7 @@
     {
         "bfs":5121,
         "zip":6605,
-        "zip-share":6.68,
+        "zip-share":6.33,
         "town":"Orselina",
         "canton":"TI",
         "locale":"it"
@@ -27010,7 +27010,7 @@
     {
         "bfs":5115,
         "zip":6618,
-        "zip-share":98.55,
+        "zip-share":98.54,
         "town":"Losone",
         "canton":"TI",
         "locale":"it"
@@ -27018,7 +27018,7 @@
     {
         "bfs":5091,
         "zip":6618,
-        "zip-share":1.45,
+        "zip-share":1.46,
         "town":"Ascona",
         "canton":"TI",
         "locale":"it"
@@ -27098,7 +27098,7 @@
     {
         "bfs":5113,
         "zip":6644,
-        "zip-share":0.73,
+        "zip-share":0.74,
         "town":"Locarno",
         "canton":"TI",
         "locale":"it"
@@ -27338,7 +27338,7 @@
     {
         "bfs":5315,
         "zip":6682,
-        "zip-share":99.12,
+        "zip-share":99.11,
         "town":"Linescio",
         "canton":"TI",
         "locale":"it"
@@ -27346,7 +27346,7 @@
     {
         "bfs":5309,
         "zip":6682,
-        "zip-share":0.88,
+        "zip-share":0.89,
         "town":"Cerentino",
         "canton":"TI",
         "locale":"it"
@@ -27538,7 +27538,7 @@
     {
         "bfs":5050,
         "zip":6721,
-        "zip-share":63.52,
+        "zip-share":63.59,
         "town":"Serravalle",
         "canton":"TI",
         "locale":"it"
@@ -27546,7 +27546,7 @@
     {
         "bfs":5048,
         "zip":6721,
-        "zip-share":36.48,
+        "zip-share":36.41,
         "town":"Acquarossa",
         "canton":"TI",
         "locale":"it"
@@ -28674,7 +28674,7 @@
     {
         "bfs":5192,
         "zip":6959,
-        "zip-share":99.78,
+        "zip-share":99.77,
         "town":"Lugano",
         "canton":"TI",
         "locale":"it"
@@ -36122,7 +36122,7 @@
     {
         "bfs":1342,
         "zip":8854,
-        "zip-share":52.09,
+        "zip-share":52.11,
         "town":"Galgenen",
         "canton":"SZ",
         "locale":"de"
@@ -36130,7 +36130,7 @@
     {
         "bfs":1346,
         "zip":8854,
-        "zip-share":32.83,
+        "zip-share":32.8,
         "town":"Sch\u00fcbelbach",
         "canton":"SZ",
         "locale":"de"
@@ -36138,7 +36138,7 @@
     {
         "bfs":1349,
         "zip":8854,
-        "zip-share":15.08,
+        "zip-share":15.09,
         "town":"Wangen (SZ)",
         "canton":"SZ",
         "locale":"de"
@@ -38418,7 +38418,7 @@
     {
         "bfs":3033,
         "zip":9405,
-        "zip-share":95.79,
+        "zip-share":96.47,
         "town":"Lutzenberg",
         "canton":"AR",
         "locale":"de"
@@ -38426,7 +38426,7 @@
     {
         "bfs":3216,
         "zip":9405,
-        "zip-share":3.51,
+        "zip-share":2.83,
         "town":"Rorschacherberg",
         "canton":"SG",
         "locale":"de"
@@ -38434,7 +38434,7 @@
     {
         "bfs":3212,
         "zip":9405,
-        "zip-share":0.7,
+        "zip-share":0.71,
         "town":"Eggersriet",
         "canton":"SG",
         "locale":"de"
