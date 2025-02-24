@@ -5610,7 +5610,7 @@
     {
         "bfs":852,
         "zip":1738,
-        "zip-share":64.25,
+        "zip-share":64.35,
         "town":"Guggisberg",
         "canton":"BE",
         "locale":"de"
@@ -5618,7 +5618,7 @@
     {
         "bfs":853,
         "zip":1738,
-        "zip-share":19.69,
+        "zip-share":19.56,
         "town":"R\u00fcschegg",
         "canton":"BE",
         "locale":"de"
@@ -5626,7 +5626,7 @@
     {
         "bfs":2299,
         "zip":1738,
-        "zip-share":16.06,
+        "zip-share":16.09,
         "town":"Plaffeien",
         "canton":"FR",
         "locale":"de"
@@ -9450,7 +9450,7 @@
     {
         "bfs":446,
         "zip":2720,
-        "zip-share":89.62,
+        "zip-share":89.61,
         "town":"Tramelan",
         "canton":"BE",
         "locale":"fr"
@@ -12474,7 +12474,7 @@
     {
         "bfs":754,
         "zip":3272,
-        "zip-share":72.54,
+        "zip-share":72.57,
         "town":"Walperswil",
         "canton":"BE",
         "locale":"de"
@@ -12482,7 +12482,7 @@
     {
         "bfs":735,
         "zip":3272,
-        "zip-share":27.46,
+        "zip-share":27.43,
         "town":"Epsach",
         "canton":"BE",
         "locale":"de"
@@ -13330,7 +13330,7 @@
     {
         "bfs":413,
         "zip":3425,
-        "zip-share":87.42,
+        "zip-share":87.41,
         "town":"Koppigen",
         "canton":"BE",
         "locale":"de"
@@ -13338,7 +13338,7 @@
     {
         "bfs":423,
         "zip":3425,
-        "zip-share":12.51,
+        "zip-share":12.52,
         "town":"Willadingen",
         "canton":"BE",
         "locale":"de"
@@ -14594,7 +14594,7 @@
     {
         "bfs":929,
         "zip":3626,
-        "zip-share":73.39,
+        "zip-share":73.37,
         "town":"Hilterfingen",
         "canton":"BE",
         "locale":"de"
@@ -14602,7 +14602,7 @@
     {
         "bfs":942,
         "zip":3626,
-        "zip-share":26.61,
+        "zip-share":26.63,
         "town":"Thun",
         "canton":"BE",
         "locale":"de"
@@ -15546,7 +15546,7 @@
     {
         "bfs":593,
         "zip":3800,
-        "zip-share":37.66,
+        "zip-share":37.67,
         "town":"Unterseen",
         "canton":"BE",
         "locale":"de"
@@ -15554,7 +15554,7 @@
     {
         "bfs":581,
         "zip":3800,
-        "zip-share":32.68,
+        "zip-share":32.65,
         "town":"Interlaken",
         "canton":"BE",
         "locale":"de"
@@ -15562,7 +15562,7 @@
     {
         "bfs":587,
         "zip":3800,
-        "zip-share":26.42,
+        "zip-share":26.43,
         "town":"Matten bei Interlaken",
         "canton":"BE",
         "locale":"de"
@@ -23802,7 +23802,7 @@
     {
         "bfs":1107,
         "zip":6110,
-        "zip-share":73.11,
+        "zip-share":73.09,
         "town":"Wolhusen",
         "canton":"LU",
         "locale":"de"
@@ -23810,7 +23810,7 @@
     {
         "bfs":1009,
         "zip":6110,
-        "zip-share":18.29,
+        "zip-share":18.3,
         "town":"Werthenstein",
         "canton":"LU",
         "locale":"de"
@@ -24202,7 +24202,7 @@
     {
         "bfs":1002,
         "zip":6162,
-        "zip-share":96.52,
+        "zip-share":96.5,
         "town":"Entlebuch",
         "canton":"LU",
         "locale":"de"
@@ -24210,7 +24210,7 @@
     {
         "bfs":1005,
         "zip":6162,
-        "zip-share":3.48,
+        "zip-share":3.49,
         "town":"Hasle (LU)",
         "canton":"LU",
         "locale":"de"
@@ -37226,7 +37226,7 @@
     {
         "bfs":3112,
         "zip":9050,
-        "zip-share":43.19,
+        "zip-share":43.2,
         "town":"Schwende-R\u00fcte",
         "canton":"AI",
         "locale":"de"
@@ -39442,7 +39442,7 @@
     {
         "bfs":4776,
         "zip":9555,
-        "zip-share":93.95,
+        "zip-share":93.94,
         "town":"Tobel-T\u00e4gerschen",
         "canton":"TG",
         "locale":"de"
@@ -39450,7 +39450,7 @@
     {
         "bfs":4711,
         "zip":9555,
-        "zip-share":6.05,
+        "zip-share":6.06,
         "town":"Affeltrangen",
         "canton":"TG",
         "locale":"de"
