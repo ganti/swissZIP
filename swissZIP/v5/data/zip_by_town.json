@@ -5131,7 +5131,7 @@
     },
     {
         "zip":1565,
-        "zip-share":53.55,
+        "zip-share":53.46,
         "town":"Vallon",
         "bfs":2045,
         "municipality":"Vallon",
@@ -5140,7 +5140,7 @@
     },
     {
         "zip":1565,
-        "zip-share":46.45,
+        "zip-share":46.54,
         "town":"Missy",
         "bfs":5821,
         "municipality":"Missy",
@@ -6985,7 +6985,7 @@
     },
     {
         "zip":1716,
-        "zip-share":37.75,
+        "zip-share":37.73,
         "town":"Schwarzsee",
         "bfs":2299,
         "municipality":"Plaffeien",
@@ -6994,7 +6994,7 @@
     },
     {
         "zip":1716,
-        "zip-share":33.29,
+        "zip-share":33.3,
         "town":"Plaffeien",
         "bfs":2299,
         "municipality":"Plaffeien",
@@ -7003,7 +7003,7 @@
     },
     {
         "zip":1716,
-        "zip-share":25.9,
+        "zip-share":25.91,
         "town":"Oberschrot",
         "bfs":2299,
         "municipality":"Plaffeien",
@@ -7642,7 +7642,7 @@
     },
     {
         "zip":1753,
-        "zip-share":95.51,
+        "zip-share":95.5,
         "town":"Matran",
         "bfs":2208,
         "municipality":"Matran",
@@ -7651,7 +7651,7 @@
     },
     {
         "zip":1753,
-        "zip-share":4.49,
+        "zip-share":4.5,
         "town":"Matran",
         "bfs":2183,
         "municipality":"Corminboeuf",
@@ -9109,7 +9109,7 @@
     },
     {
         "zip":1914,
-        "zip-share":76.79,
+        "zip-share":77.01,
         "town":"Is\u00e9rables",
         "bfs":6134,
         "municipality":"Is\u00e9rables",
@@ -9118,7 +9118,7 @@
     },
     {
         "zip":1914,
-        "zip-share":23.21,
+        "zip-share":22.99,
         "town":"Auddes-sur-Riddes",
         "bfs":6139,
         "municipality":"Riddes",
@@ -9847,7 +9847,7 @@
     },
     {
         "zip":1966,
-        "zip-share":11.8,
+        "zip-share":11.81,
         "town":"Sign\u00e8se (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9856,7 +9856,7 @@
     },
     {
         "zip":1966,
-        "zip-share":11.05,
+        "zip-share":11.06,
         "town":"Luc (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9865,7 +9865,7 @@
     },
     {
         "zip":1966,
-        "zip-share":8.58,
+        "zip-share":8.54,
         "town":"Saxonne (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -12601,7 +12601,7 @@
     },
     {
         "zip":2575,
-        "zip-share":50.59,
+        "zip-share":50.62,
         "town":"T\u00e4uffelen",
         "bfs":751,
         "municipality":"T\u00e4uffelen",
@@ -12610,7 +12610,7 @@
     },
     {
         "zip":2575,
-        "zip-share":33.66,
+        "zip-share":33.62,
         "town":"Gerolfingen",
         "bfs":751,
         "municipality":"T\u00e4uffelen",
@@ -12619,7 +12619,7 @@
     },
     {
         "zip":2575,
-        "zip-share":15.19,
+        "zip-share":15.2,
         "town":"Hagneck",
         "bfs":736,
         "municipality":"Hagneck",
@@ -14914,7 +14914,7 @@
     },
     {
         "zip":3066,
-        "zip-share":84.93,
+        "zip-share":85.0,
         "town":"Stettlen",
         "bfs":358,
         "municipality":"Stettlen",
@@ -14923,7 +14923,7 @@
     },
     {
         "zip":3066,
-        "zip-share":12.18,
+        "zip-share":12.11,
         "town":"Stettlen",
         "bfs":352,
         "municipality":"Bolligen",
@@ -21943,7 +21943,7 @@
     },
     {
         "zip":3960,
-        "zip-share":71.7,
+        "zip-share":71.71,
         "town":"Sierre",
         "bfs":6248,
         "municipality":"Sierre",
@@ -21979,7 +21979,7 @@
     },
     {
         "zip":3960,
-        "zip-share":5.36,
+        "zip-share":5.35,
         "town":"Niouc",
         "bfs":6252,
         "municipality":"Anniviers",
@@ -31870,7 +31870,7 @@
     },
     {
         "zip":6260,
-        "zip-share":74.31,
+        "zip-share":74.3,
         "town":"Reiden",
         "bfs":1140,
         "municipality":"Reiden",
@@ -31879,7 +31879,7 @@
     },
     {
         "zip":6260,
-        "zip-share":14.64,
+        "zip-share":14.65,
         "town":"Reidermoos",
         "bfs":1140,
         "municipality":"Reiden",
@@ -34813,7 +34813,7 @@
     },
     {
         "zip":6652,
-        "zip-share":90.95,
+        "zip-share":90.96,
         "town":"Tegna",
         "bfs":5396,
         "municipality":"Terre di Pedemonte",
@@ -34822,7 +34822,7 @@
     },
     {
         "zip":6652,
-        "zip-share":9.05,
+        "zip-share":9.04,
         "town":"Tegna",
         "bfs":5113,
         "municipality":"Locarno",
@@ -36730,7 +36730,7 @@
     },
     {
         "zip":6939,
-        "zip-share":67.73,
+        "zip-share":67.87,
         "town":"Arosio",
         "bfs":5237,
         "municipality":"Alto Malcantone",
@@ -36739,7 +36739,7 @@
     },
     {
         "zip":6939,
-        "zip-share":32.27,
+        "zip-share":32.13,
         "town":"Mugena",
         "bfs":5237,
         "municipality":"Alto Malcantone",
@@ -42094,7 +42094,7 @@
     },
     {
         "zip":8259,
-        "zip-share":38.36,
+        "zip-share":38.33,
         "town":"Kaltenbach",
         "bfs":4871,
         "municipality":"Wagenhausen",
@@ -42103,7 +42103,7 @@
     },
     {
         "zip":8259,
-        "zip-share":32.11,
+        "zip-share":32.08,
         "town":"Wagenhausen",
         "bfs":4871,
         "municipality":"Wagenhausen",
@@ -42112,7 +42112,7 @@
     },
     {
         "zip":8259,
-        "zip-share":15.64,
+        "zip-share":15.62,
         "town":"Etzwilen",
         "bfs":4871,
         "municipality":"Wagenhausen",
@@ -42121,7 +42121,7 @@
     },
     {
         "zip":8259,
-        "zip-share":13.89,
+        "zip-share":13.97,
         "town":"Rheinklingen",
         "bfs":4871,
         "municipality":"Wagenhausen",
@@ -46234,7 +46234,7 @@
     },
     {
         "zip":8775,
-        "zip-share":59.63,
+        "zip-share":59.58,
         "town":"Luchsingen",
         "bfs":1631,
         "municipality":"Glarus S\u00fcd",
@@ -46243,7 +46243,7 @@
     },
     {
         "zip":8775,
-        "zip-share":40.37,
+        "zip-share":40.42,
         "town":"H\u00e4tzingen",
         "bfs":1631,
         "municipality":"Glarus S\u00fcd",

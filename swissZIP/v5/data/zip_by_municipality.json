@@ -4146,7 +4146,7 @@
     {
         "bfs":2045,
         "zip":1565,
-        "zip-share":53.55,
+        "zip-share":53.46,
         "town":"Vallon",
         "canton":"FR",
         "locale":"fr"
@@ -4154,7 +4154,7 @@
     {
         "bfs":5821,
         "zip":1565,
-        "zip-share":46.45,
+        "zip-share":46.54,
         "town":"Missy",
         "canton":"VD",
         "locale":"fr"
@@ -5722,7 +5722,7 @@
     {
         "bfs":2208,
         "zip":1753,
-        "zip-share":95.51,
+        "zip-share":95.5,
         "town":"Matran",
         "canton":"FR",
         "locale":"fr"
@@ -5730,7 +5730,7 @@
     {
         "bfs":2183,
         "zip":1753,
-        "zip-share":4.49,
+        "zip-share":4.5,
         "town":"Corminboeuf",
         "canton":"FR",
         "locale":"fr"
@@ -6714,7 +6714,7 @@
     {
         "bfs":6134,
         "zip":1914,
-        "zip-share":76.79,
+        "zip-share":77.01,
         "town":"Is\u00e9rables",
         "canton":"VS",
         "locale":"fr"
@@ -6722,7 +6722,7 @@
     {
         "bfs":6139,
         "zip":1914,
-        "zip-share":23.21,
+        "zip-share":22.99,
         "town":"Riddes",
         "canton":"VS",
         "locale":"fr"
@@ -7122,7 +7122,7 @@
     {
         "bfs":6082,
         "zip":1966,
-        "zip-share":99.44,
+        "zip-share":99.42,
         "town":"Ayent",
         "canton":"VS",
         "locale":"fr"
@@ -9098,7 +9098,7 @@
     {
         "bfs":751,
         "zip":2575,
-        "zip-share":84.56,
+        "zip-share":84.55,
         "town":"T\u00e4uffelen",
         "canton":"BE",
         "locale":"de"
@@ -9106,7 +9106,7 @@
     {
         "bfs":736,
         "zip":2575,
-        "zip-share":15.25,
+        "zip-share":15.26,
         "town":"Hagneck",
         "canton":"BE",
         "locale":"de"
@@ -10978,7 +10978,7 @@
     {
         "bfs":358,
         "zip":3066,
-        "zip-share":84.93,
+        "zip-share":85.0,
         "town":"Stettlen",
         "canton":"BE",
         "locale":"de"
@@ -10986,7 +10986,7 @@
     {
         "bfs":352,
         "zip":3066,
-        "zip-share":12.18,
+        "zip-share":12.11,
         "town":"Bolligen",
         "canton":"BE",
         "locale":"de"
@@ -16658,7 +16658,7 @@
     {
         "bfs":6248,
         "zip":3960,
-        "zip-share":77.91,
+        "zip-share":77.92,
         "town":"Sierre",
         "canton":"VS",
         "locale":"fr"
@@ -16674,7 +16674,7 @@
     {
         "bfs":6252,
         "zip":3960,
-        "zip-share":5.36,
+        "zip-share":5.35,
         "town":"Anniviers",
         "canton":"VS",
         "locale":"fr"
@@ -27154,7 +27154,7 @@
     {
         "bfs":5396,
         "zip":6652,
-        "zip-share":90.95,
+        "zip-share":90.96,
         "town":"Terre di Pedemonte",
         "canton":"TI",
         "locale":"it"
@@ -27162,7 +27162,7 @@
     {
         "bfs":5113,
         "zip":6652,
-        "zip-share":9.05,
+        "zip-share":9.04,
         "town":"Locarno",
         "canton":"TI",
         "locale":"it"
