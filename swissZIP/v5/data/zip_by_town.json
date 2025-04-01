@@ -5149,7 +5149,7 @@
     },
     {
         "zip":1566,
-        "zip-share":93.59,
+        "zip-share":93.6,
         "town":"St-Aubin FR",
         "bfs":2041,
         "municipality":"Saint-Aubin (FR)",
@@ -5158,7 +5158,7 @@
     },
     {
         "zip":1566,
-        "zip-share":6.41,
+        "zip-share":6.4,
         "town":"Les Friques",
         "bfs":2041,
         "municipality":"Saint-Aubin (FR)",
@@ -6886,7 +6886,7 @@
     },
     {
         "zip":1700,
-        "zip-share":96.07,
+        "zip-share":96.05,
         "town":"Fribourg",
         "bfs":2196,
         "municipality":"Fribourg",
@@ -6895,7 +6895,7 @@
     },
     {
         "zip":1700,
-        "zip-share":2.78,
+        "zip-share":2.8,
         "town":"Fribourg",
         "bfs":2306,
         "municipality":"Tafers",
@@ -9829,7 +9829,7 @@
     },
     {
         "zip":1966,
-        "zip-share":20.6,
+        "zip-share":20.58,
         "town":"Fortunau (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9838,7 +9838,7 @@
     },
     {
         "zip":1966,
-        "zip-share":15.21,
+        "zip-share":15.2,
         "town":"Blignou (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9847,7 +9847,7 @@
     },
     {
         "zip":1966,
-        "zip-share":12.02,
+        "zip-share":12.05,
         "town":"Botyre (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9865,7 +9865,7 @@
     },
     {
         "zip":1966,
-        "zip-share":11.05,
+        "zip-share":11.04,
         "town":"Luc (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9874,7 +9874,7 @@
     },
     {
         "zip":1966,
-        "zip-share":8.54,
+        "zip-share":8.53,
         "town":"Saxonne (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -9883,7 +9883,7 @@
     },
     {
         "zip":1966,
-        "zip-share":6.32,
+        "zip-share":6.35,
         "town":"La Place (Ayent)",
         "bfs":6082,
         "municipality":"Ayent",
@@ -10513,7 +10513,7 @@
     },
     {
         "zip":1997,
-        "zip-share":81.49,
+        "zip-share":81.47,
         "town":"Haute-Nendaz",
         "bfs":6024,
         "municipality":"Nendaz",
@@ -10531,7 +10531,7 @@
     },
     {
         "zip":1997,
-        "zip-share":5.45,
+        "zip-share":5.47,
         "town":"Siviez (Nendaz)",
         "bfs":6024,
         "municipality":"Nendaz",
@@ -15903,6 +15903,15 @@
         "locale":"de"
     },
     {
+        "zip":3175,
+        "zip-share":0.13,
+        "town":"Flamatt",
+        "bfs":2308,
+        "municipality":"Ueberstorf",
+        "canton":"FR",
+        "locale":"de"
+    },
+    {
         "zip":3176,
         "zip-share":97.05,
         "town":"Neuenegg",
@@ -16030,7 +16039,7 @@
     },
     {
         "zip":3185,
-        "zip-share":95.95,
+        "zip-share":95.96,
         "town":"Schmitten FR",
         "bfs":2305,
         "municipality":"Schmitten (FR)",
@@ -16048,7 +16057,7 @@
     },
     {
         "zip":3185,
-        "zip-share":1.65,
+        "zip-share":1.64,
         "town":"Schmitten FR",
         "bfs":2295,
         "municipality":"B\u00f6singen",
@@ -16354,7 +16363,7 @@
     },
     {
         "zip":3216,
-        "zip-share":83.53,
+        "zip-share":83.41,
         "town":"Ried b. Kerzers",
         "bfs":2276,
         "municipality":"Ried bei Kerzers",
@@ -16363,7 +16372,7 @@
     },
     {
         "zip":3216,
-        "zip-share":16.47,
+        "zip-share":16.59,
         "town":"Agriswil",
         "bfs":2276,
         "municipality":"Ried bei Kerzers",
@@ -16417,7 +16426,7 @@
     },
     {
         "zip":3233,
-        "zip-share":97.09,
+        "zip-share":97.14,
         "town":"Tschugg",
         "bfs":501,
         "municipality":"Tschugg",
@@ -16426,7 +16435,7 @@
     },
     {
         "zip":3233,
-        "zip-share":2.91,
+        "zip-share":2.86,
         "town":"Tschugg",
         "bfs":492,
         "municipality":"Erlach",
@@ -18415,7 +18424,7 @@
     },
     {
         "zip":3476,
-        "zip-share":69.82,
+        "zip-share":69.66,
         "town":"Oschwand",
         "bfs":985,
         "municipality":"Ochlenberg",
@@ -18424,7 +18433,7 @@
     },
     {
         "zip":3476,
-        "zip-share":28.15,
+        "zip-share":28.31,
         "town":"Oschwand",
         "bfs":988,
         "municipality":"Seeberg",
@@ -18433,7 +18442,7 @@
     },
     {
         "zip":3476,
-        "zip-share":2.03,
+        "zip-share":2.02,
         "town":"Oschwand",
         "bfs":989,
         "municipality":"Th\u00f6rigen",
@@ -21519,6 +21528,15 @@
         "locale":"de"
     },
     {
+        "zip":3937,
+        "zip-share":0.18,
+        "town":"Baltschieder",
+        "bfs":6004,
+        "municipality":"Eggerberg",
+        "canton":"VS",
+        "locale":"de"
+    },
+    {
         "zip":3938,
         "zip-share":100.0,
         "town":"Ausserberg",
@@ -21945,6 +21963,15 @@
         "zip":3957,
         "zip-share":35.08,
         "town":"Bratsch",
+        "bfs":6118,
+        "municipality":"Gampel-Bratsch",
+        "canton":"VS",
+        "locale":"de"
+    },
+    {
+        "zip":3957,
+        "zip-share":0.15,
+        "town":"Erschmatt",
         "bfs":6118,
         "municipality":"Gampel-Bratsch",
         "canton":"VS",
@@ -24251,15 +24278,6 @@
         "town":"Arboldswil",
         "bfs":2881,
         "municipality":"Arboldswil",
-        "canton":"BL",
-        "locale":"de"
-    },
-    {
-        "zip":4424,
-        "zip-share":2.55,
-        "town":"Arboldswil",
-        "bfs":2891,
-        "municipality":"Niederdorf",
         "canton":"BL",
         "locale":"de"
     },
@@ -33661,7 +33679,7 @@
     },
     {
         "zip":6472,
-        "zip-share":98.21,
+        "zip-share":98.22,
         "town":"Erstfeld",
         "bfs":1206,
         "municipality":"Erstfeld",
@@ -33670,7 +33688,7 @@
     },
     {
         "zip":6472,
-        "zip-share":1.79,
+        "zip-share":1.78,
         "town":"Erstfeld",
         "bfs":1216,
         "municipality":"Silenen",
@@ -39952,7 +39970,7 @@
     },
     {
         "zip":7513,
-        "zip-share":51.95,
+        "zip-share":52.04,
         "town":"Silvaplana",
         "bfs":3790,
         "municipality":"Silvaplana",
@@ -39961,7 +39979,7 @@
     },
     {
         "zip":7513,
-        "zip-share":47.86,
+        "zip-share":47.77,
         "town":"Silvaplana-Surlej",
         "bfs":3790,
         "municipality":"Silvaplana",
@@ -41005,7 +41023,7 @@
     },
     {
         "zip":8132,
-        "zip-share":73.29,
+        "zip-share":73.27,
         "town":"Egg b. Z\u00fcrich",
         "bfs":192,
         "municipality":"Egg",
@@ -41014,7 +41032,7 @@
     },
     {
         "zip":8132,
-        "zip-share":25.79,
+        "zip-share":25.8,
         "town":"Hinteregg",
         "bfs":192,
         "municipality":"Egg",
@@ -41302,7 +41320,7 @@
     },
     {
         "zip":8162,
-        "zip-share":84.87,
+        "zip-share":84.89,
         "town":"Steinmaur",
         "bfs":101,
         "municipality":"Steinmaur",
@@ -41311,7 +41329,7 @@
     },
     {
         "zip":8162,
-        "zip-share":14.48,
+        "zip-share":14.46,
         "town":"S\u00fcnikon",
         "bfs":101,
         "municipality":"Steinmaur",
@@ -45244,7 +45262,7 @@
     },
     {
         "zip":8606,
-        "zip-share":53.52,
+        "zip-share":53.49,
         "town":"Greifensee",
         "bfs":194,
         "municipality":"Greifensee",
@@ -45253,7 +45271,7 @@
     },
     {
         "zip":8606,
-        "zip-share":46.48,
+        "zip-share":46.51,
         "town":"N\u00e4nikon",
         "bfs":198,
         "municipality":"Uster",
@@ -45307,7 +45325,7 @@
     },
     {
         "zip":8614,
-        "zip-share":73.15,
+        "zip-share":73.12,
         "town":"Bertschikon (Gossau ZH)",
         "bfs":115,
         "municipality":"Gossau (ZH)",
@@ -45316,7 +45334,7 @@
     },
     {
         "zip":8614,
-        "zip-share":26.85,
+        "zip-share":26.88,
         "town":"Sulzbach",
         "bfs":198,
         "municipality":"Uster",
@@ -47359,7 +47377,7 @@
     },
     {
         "zip":8914,
-        "zip-share":70.96,
+        "zip-share":71.08,
         "town":"Aeugst am Albis",
         "bfs":1,
         "municipality":"Aeugst am Albis",
@@ -47368,7 +47386,7 @@
     },
     {
         "zip":8914,
-        "zip-share":29.04,
+        "zip-share":28.92,
         "town":"Aeugstertal",
         "bfs":1,
         "municipality":"Aeugst am Albis",
@@ -48025,7 +48043,7 @@
     },
     {
         "zip":9050,
-        "zip-share":39.33,
+        "zip-share":39.35,
         "town":"Appenzell",
         "bfs":3101,
         "municipality":"Appenzell",
@@ -48034,7 +48052,7 @@
     },
     {
         "zip":9050,
-        "zip-share":25.95,
+        "zip-share":25.96,
         "town":"Appenzell",
         "bfs":3112,
         "municipality":"Schwende-R\u00fcte",
@@ -48043,7 +48061,7 @@
     },
     {
         "zip":9050,
-        "zip-share":10.35,
+        "zip-share":10.3,
         "town":"Appenzell Steinegg",
         "bfs":3112,
         "municipality":"Schwende-R\u00fcte",
@@ -48052,7 +48070,7 @@
     },
     {
         "zip":9050,
-        "zip-share":9.4,
+        "zip-share":9.41,
         "town":"Appenzell Meistersr\u00fcte",
         "bfs":3101,
         "municipality":"Appenzell",
@@ -48088,7 +48106,7 @@
     },
     {
         "zip":9050,
-        "zip-share":1.72,
+        "zip-share":1.73,
         "town":"Appenzell",
         "bfs":3102,
         "municipality":"Gonten",

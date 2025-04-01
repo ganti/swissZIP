@@ -5186,7 +5186,7 @@
     {
         "bfs":2196,
         "zip":1700,
-        "zip-share":96.07,
+        "zip-share":96.05,
         "town":"Fribourg",
         "canton":"FR",
         "locale":"fr"
@@ -5194,7 +5194,7 @@
     {
         "bfs":2306,
         "zip":1700,
-        "zip-share":2.78,
+        "zip-share":2.8,
         "town":"Tafers",
         "canton":"FR",
         "locale":"fr"
@@ -7130,7 +7130,7 @@
     {
         "bfs":6082,
         "zip":1966,
-        "zip-share":99.42,
+        "zip-share":99.43,
         "town":"Ayent",
         "canton":"VS",
         "locale":"fr"
@@ -11800,6 +11800,14 @@
         "locale":"de"
     },
     {
+        "bfs":2308,
+        "zip":3175,
+        "zip-share":0.13,
+        "town":"Ueberstorf",
+        "canton":"FR",
+        "locale":"de"
+    },
+    {
         "bfs":670,
         "zip":3176,
         "zip-share":97.05,
@@ -11914,7 +11922,7 @@
     {
         "bfs":2305,
         "zip":3185,
-        "zip-share":95.95,
+        "zip-share":95.96,
         "town":"Schmitten (FR)",
         "canton":"FR",
         "locale":"de"
@@ -11930,7 +11938,7 @@
     {
         "bfs":2295,
         "zip":3185,
-        "zip-share":1.65,
+        "zip-share":1.64,
         "town":"B\u00f6singen",
         "canton":"FR",
         "locale":"de"
@@ -12194,7 +12202,7 @@
     {
         "bfs":501,
         "zip":3233,
-        "zip-share":97.09,
+        "zip-share":97.14,
         "town":"Tschugg",
         "canton":"BE",
         "locale":"de"
@@ -12202,7 +12210,7 @@
     {
         "bfs":492,
         "zip":3233,
-        "zip-share":2.91,
+        "zip-share":2.86,
         "town":"Erlach",
         "canton":"BE",
         "locale":"de"
@@ -13794,7 +13802,7 @@
     {
         "bfs":985,
         "zip":3476,
-        "zip-share":69.82,
+        "zip-share":69.66,
         "town":"Ochlenberg",
         "canton":"BE",
         "locale":"de"
@@ -13802,7 +13810,7 @@
     {
         "bfs":988,
         "zip":3476,
-        "zip-share":28.15,
+        "zip-share":28.31,
         "town":"Seeberg",
         "canton":"BE",
         "locale":"de"
@@ -13810,7 +13818,7 @@
     {
         "bfs":989,
         "zip":3476,
-        "zip-share":2.03,
+        "zip-share":2.02,
         "town":"Th\u00f6rigen",
         "canton":"BE",
         "locale":"de"
@@ -16344,6 +16352,14 @@
         "locale":"de"
     },
     {
+        "bfs":6004,
+        "zip":3937,
+        "zip-share":0.18,
+        "town":"Eggerberg",
+        "canton":"VS",
+        "locale":"de"
+    },
+    {
         "bfs":6191,
         "zip":3938,
         "zip-share":100.0,
@@ -16658,7 +16674,7 @@
     {
         "bfs":6118,
         "zip":3957,
-        "zip-share":35.08,
+        "zip-share":35.23,
         "town":"Gampel-Bratsch",
         "canton":"VS",
         "locale":"de"
@@ -18428,14 +18444,6 @@
         "zip":4424,
         "zip-share":97.45,
         "town":"Arboldswil",
-        "canton":"BL",
-        "locale":"de"
-    },
-    {
-        "bfs":2891,
-        "zip":4424,
-        "zip-share":2.55,
-        "town":"Niederdorf",
         "canton":"BL",
         "locale":"de"
     },
@@ -26202,7 +26210,7 @@
     {
         "bfs":1206,
         "zip":6472,
-        "zip-share":98.21,
+        "zip-share":98.22,
         "town":"Erstfeld",
         "canton":"UR",
         "locale":"de"
@@ -26210,7 +26218,7 @@
     {
         "bfs":1216,
         "zip":6472,
-        "zip-share":1.79,
+        "zip-share":1.78,
         "town":"Silenen",
         "canton":"UR",
         "locale":"de"
@@ -31898,7 +31906,7 @@
     {
         "bfs":192,
         "zip":8132,
-        "zip-share":99.08,
+        "zip-share":99.07,
         "town":"Egg",
         "canton":"ZH",
         "locale":"de"
@@ -34898,7 +34906,7 @@
     {
         "bfs":194,
         "zip":8606,
-        "zip-share":53.52,
+        "zip-share":53.49,
         "town":"Greifensee",
         "canton":"ZH",
         "locale":"de"
@@ -34906,7 +34914,7 @@
     {
         "bfs":198,
         "zip":8606,
-        "zip-share":46.48,
+        "zip-share":46.51,
         "town":"Uster",
         "canton":"ZH",
         "locale":"de"
@@ -34954,7 +34962,7 @@
     {
         "bfs":115,
         "zip":8614,
-        "zip-share":73.15,
+        "zip-share":73.12,
         "town":"Gossau (ZH)",
         "canton":"ZH",
         "locale":"de"
@@ -34962,7 +34970,7 @@
     {
         "bfs":198,
         "zip":8614,
-        "zip-share":26.85,
+        "zip-share":26.88,
         "town":"Uster",
         "canton":"ZH",
         "locale":"de"
@@ -37226,7 +37234,7 @@
     {
         "bfs":3101,
         "zip":9050,
-        "zip-share":48.77,
+        "zip-share":48.8,
         "town":"Appenzell",
         "canton":"AI",
         "locale":"de"
@@ -37234,7 +37242,7 @@
     {
         "bfs":3112,
         "zip":9050,
-        "zip-share":43.22,
+        "zip-share":43.18,
         "town":"Schwende-R\u00fcte",
         "canton":"AI",
         "locale":"de"
@@ -37250,7 +37258,7 @@
     {
         "bfs":3102,
         "zip":9050,
-        "zip-share":1.72,
+        "zip-share":1.73,
         "town":"Gonten",
         "canton":"AI",
         "locale":"de"
