@@ -5418,7 +5418,7 @@
     {
         "bfs":2220,
         "zip":1724,
-        "zip-share":86.72,
+        "zip-share":86.76,
         "town":"Le Mouret",
         "canton":"FR",
         "locale":"fr"
@@ -5426,7 +5426,7 @@
     {
         "bfs":2194,
         "zip":1724,
-        "zip-share":7.32,
+        "zip-share":7.31,
         "town":"Ferpicloz",
         "canton":"FR",
         "locale":"fr"
@@ -6986,7 +6986,7 @@
     {
         "bfs":6037,
         "zip":1948,
-        "zip-share":100.01,
+        "zip-share":100.0,
         "town":"Val de Bagnes",
         "canton":"VS",
         "locale":"fr"
@@ -7298,7 +7298,7 @@
     {
         "bfs":6084,
         "zip":1982,
-        "zip-share":62.79,
+        "zip-share":62.83,
         "town":"H\u00e9r\u00e9mence",
         "canton":"VS",
         "locale":"fr"
@@ -7306,7 +7306,7 @@
     {
         "bfs":6087,
         "zip":1982,
-        "zip-share":37.21,
+        "zip-share":37.17,
         "town":"Saint-Martin (VS)",
         "canton":"VS",
         "locale":"fr"
@@ -8842,7 +8842,7 @@
     {
         "bfs":449,
         "zip":2535,
-        "zip-share":91.38,
+        "zip-share":91.45,
         "town":"Sauge",
         "canton":"BE",
         "locale":"fr"
@@ -8850,7 +8850,7 @@
     {
         "bfs":450,
         "zip":2535,
-        "zip-share":6.03,
+        "zip-share":5.98,
         "town":"P\u00e9ry-La Heutte",
         "canton":"BE",
         "locale":"fr"
@@ -8858,7 +8858,7 @@
     {
         "bfs":438,
         "zip":2535,
-        "zip-share":2.59,
+        "zip-share":2.56,
         "town":"Orvin",
         "canton":"BE",
         "locale":"fr"
@@ -12298,7 +12298,7 @@
     {
         "bfs":306,
         "zip":3250,
-        "zip-share":99.01,
+        "zip-share":99.0,
         "town":"Lyss",
         "canton":"BE",
         "locale":"de"
@@ -12306,7 +12306,7 @@
     {
         "bfs":305,
         "zip":3250,
-        "zip-share":0.93,
+        "zip-share":0.94,
         "town":"Kappelen",
         "canton":"BE",
         "locale":"de"
@@ -13146,7 +13146,7 @@
     {
         "bfs":406,
         "zip":3415,
-        "zip-share":52.75,
+        "zip-share":52.77,
         "town":"Hasle bei Burgdorf",
         "canton":"BE",
         "locale":"de"
@@ -13154,7 +13154,7 @@
     {
         "bfs":956,
         "zip":3415,
-        "zip-share":41.16,
+        "zip-share":41.14,
         "town":"R\u00fcegsau",
         "canton":"BE",
         "locale":"de"
@@ -21098,7 +21098,7 @@
     {
         "bfs":4135,
         "zip":5046,
-        "zip-share":4.57,
+        "zip-share":4.56,
         "town":"Gontenschwil",
         "canton":"AG",
         "locale":"de"
@@ -22626,7 +22626,7 @@
     {
         "bfs":4239,
         "zip":5643,
-        "zip-share":99.72,
+        "zip-share":99.73,
         "town":"Sins",
         "canton":"AG",
         "locale":"de"
@@ -23402,7 +23402,7 @@
     {
         "bfs":1033,
         "zip":6034,
-        "zip-share":85.51,
+        "zip-share":85.53,
         "town":"Inwil",
         "canton":"LU",
         "locale":"de"
@@ -23410,7 +23410,7 @@
     {
         "bfs":1026,
         "zip":6034,
-        "zip-share":6.67,
+        "zip-share":6.66,
         "town":"Eschenbach (LU)",
         "canton":"LU",
         "locale":"de"
@@ -23426,7 +23426,7 @@
     {
         "bfs":4231,
         "zip":6034,
-        "zip-share":0.91,
+        "zip-share":0.9,
         "town":"Dietwil",
         "canton":"AG",
         "locale":"de"
@@ -25578,7 +25578,7 @@
     {
         "bfs":1509,
         "zip":6370,
-        "zip-share":74.09,
+        "zip-share":74.19,
         "town":"Stans",
         "canton":"NW",
         "locale":"de"
@@ -25586,7 +25586,7 @@
     {
         "bfs":1508,
         "zip":6370,
-        "zip-share":25.81,
+        "zip-share":25.71,
         "town":"Oberdorf (NW)",
         "canton":"NW",
         "locale":"de"
@@ -25706,7 +25706,7 @@
     {
         "bfs":1503,
         "zip":6383,
-        "zip-share":88.46,
+        "zip-share":88.61,
         "town":"Dallenwil",
         "canton":"NW",
         "locale":"de"
@@ -25714,7 +25714,7 @@
     {
         "bfs":1508,
         "zip":6383,
-        "zip-share":8.31,
+        "zip-share":8.15,
         "town":"Oberdorf (NW)",
         "canton":"NW",
         "locale":"de"
@@ -25722,7 +25722,7 @@
     {
         "bfs":1511,
         "zip":6383,
-        "zip-share":3.23,
+        "zip-share":3.24,
         "town":"Wolfenschiessen",
         "canton":"NW",
         "locale":"de"
@@ -32898,7 +32898,7 @@
     {
         "bfs":296,
         "zip":8307,
-        "zip-share":99.93,
+        "zip-share":99.92,
         "town":"Illnau-Effretikon",
         "canton":"ZH",
         "locale":"de"
@@ -33130,7 +33130,7 @@
     {
         "bfs":219,
         "zip":8352,
-        "zip-share":95.14,
+        "zip-share":95.15,
         "town":"Elsau",
         "canton":"ZH",
         "locale":"de"
@@ -33138,7 +33138,7 @@
     {
         "bfs":230,
         "zip":8352,
-        "zip-share":4.86,
+        "zip-share":4.85,
         "town":"Winterthur",
         "canton":"ZH",
         "locale":"de"
@@ -38538,7 +38538,7 @@
     {
         "bfs":3111,
         "zip":9428,
-        "zip-share":0.5,
+        "zip-share":0.49,
         "town":"Oberegg",
         "canton":"AI",
         "locale":"de"
@@ -38618,8 +38618,16 @@
     {
         "bfs":3232,
         "zip":9436,
-        "zip-share":95.55,
+        "zip-share":95.5,
         "town":"Balgach",
+        "canton":"SG",
+        "locale":"de"
+    },
+    {
+        "bfs":3234,
+        "zip":9436,
+        "zip-share":2.25,
+        "town":"Diepoldsau",
         "canton":"SG",
         "locale":"de"
     },
@@ -38628,14 +38636,6 @@
         "zip":9436,
         "zip-share":2.25,
         "town":"Oberriet (SG)",
-        "canton":"SG",
-        "locale":"de"
-    },
-    {
-        "bfs":3234,
-        "zip":9436,
-        "zip-share":2.2,
-        "town":"Diepoldsau",
         "canton":"SG",
         "locale":"de"
     },
