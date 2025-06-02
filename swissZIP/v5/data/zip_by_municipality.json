@@ -5114,7 +5114,7 @@
     {
         "bfs":2117,
         "zip":1690,
-        "zip-share":97.18,
+        "zip-share":97.17,
         "town":"Villaz",
         "canton":"FR",
         "locale":"fr"
@@ -5122,7 +5122,7 @@
     {
         "bfs":2114,
         "zip":1690,
-        "zip-share":2.82,
+        "zip-share":2.83,
         "town":"Villorsonnens",
         "canton":"FR",
         "locale":"fr"
@@ -9130,7 +9130,7 @@
     {
         "bfs":497,
         "zip":2576,
-        "zip-share":85.38,
+        "zip-share":85.4,
         "town":"L\u00fcscherz",
         "canton":"BE",
         "locale":"de"
@@ -9138,7 +9138,7 @@
     {
         "bfs":502,
         "zip":2576,
-        "zip-share":14.62,
+        "zip-share":14.6,
         "town":"Vinelz",
         "canton":"BE",
         "locale":"de"
@@ -23706,7 +23706,7 @@
     {
         "bfs":1403,
         "zip":6074,
-        "zip-share":95.58,
+        "zip-share":95.59,
         "town":"Giswil",
         "canton":"OW",
         "locale":"de"
@@ -23714,7 +23714,7 @@
     {
         "bfs":1406,
         "zip":6074,
-        "zip-share":4.42,
+        "zip-share":4.41,
         "town":"Sachseln",
         "canton":"OW",
         "locale":"de"
@@ -24322,7 +24322,7 @@
     {
         "bfs":1004,
         "zip":6173,
-        "zip-share":98.77,
+        "zip-share":98.78,
         "town":"Fl\u00fchli",
         "canton":"LU",
         "locale":"de"
@@ -24330,7 +24330,7 @@
     {
         "bfs":1010,
         "zip":6173,
-        "zip-share":1.23,
+        "zip-share":1.22,
         "town":"Escholzmatt-Marbach",
         "canton":"LU",
         "locale":"de"
@@ -25930,7 +25930,7 @@
     {
         "bfs":1372,
         "zip":6423,
-        "zip-share":98.3,
+        "zip-share":98.31,
         "town":"Schwyz",
         "canton":"SZ",
         "locale":"de"
@@ -25938,7 +25938,7 @@
     {
         "bfs":1364,
         "zip":6423,
-        "zip-share":1.7,
+        "zip-share":1.69,
         "town":"Ingenbohl",
         "canton":"SZ",
         "locale":"de"
@@ -37474,7 +37474,7 @@
     {
         "bfs":3396,
         "zip":9105,
-        "zip-share":52.22,
+        "zip-share":52.09,
         "town":"Neckertal",
         "canton":"SG",
         "locale":"de"
@@ -37482,7 +37482,7 @@
     {
         "bfs":3003,
         "zip":9105,
-        "zip-share":43.11,
+        "zip-share":43.25,
         "town":"Sch\u00f6nengrund",
         "canton":"AR",
         "locale":"de"
@@ -37490,7 +37490,7 @@
     {
         "bfs":3004,
         "zip":9105,
-        "zip-share":4.67,
+        "zip-share":4.66,
         "town":"Schwellbrunn",
         "canton":"AR",
         "locale":"de"
@@ -38962,7 +38962,7 @@
     {
         "bfs":3271,
         "zip":9470,
-        "zip-share":82.51,
+        "zip-share":82.53,
         "town":"Buchs (SG)",
         "canton":"SG",
         "locale":"de"
@@ -38970,7 +38970,7 @@
     {
         "bfs":3273,
         "zip":9470,
-        "zip-share":13.23,
+        "zip-share":13.21,
         "town":"Grabs",
         "canton":"SG",
         "locale":"de"
