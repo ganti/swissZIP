@@ -242,7 +242,7 @@
     {
         "bfs":5489,
         "zip":1031,
-        "zip-share":98.78,
+        "zip-share":98.48,
         "town":"Mex (VD)",
         "canton":"VD",
         "locale":"fr"
@@ -250,7 +250,7 @@
     {
         "bfs":5503,
         "zip":1031,
-        "zip-share":1.22,
+        "zip-share":1.52,
         "town":"Vufflens-la-Ville",
         "canton":"VD",
         "locale":"fr"
@@ -9250,7 +9250,7 @@
     {
         "bfs":443,
         "zip":2610,
-        "zip-share":88.23,
+        "zip-share":88.24,
         "town":"Saint-Imier",
         "canton":"BE",
         "locale":"fr"
@@ -14762,7 +14762,7 @@
     {
         "bfs":922,
         "zip":3638,
-        "zip-share":79.05,
+        "zip-share":79.07,
         "town":"Blumenstein",
         "canton":"BE",
         "locale":"de"
@@ -14770,7 +14770,7 @@
     {
         "bfs":936,
         "zip":3638,
-        "zip-share":20.95,
+        "zip-share":20.93,
         "town":"Pohlern",
         "canton":"BE",
         "locale":"de"
@@ -15858,7 +15858,7 @@
     {
         "bfs":785,
         "zip":3860,
-        "zip-share":75.99,
+        "zip-share":75.97,
         "town":"Meiringen",
         "canton":"BE",
         "locale":"de"
@@ -15866,7 +15866,7 @@
     {
         "bfs":786,
         "zip":3860,
-        "zip-share":22.87,
+        "zip-share":22.88,
         "town":"Schattenhalb",
         "canton":"BE",
         "locale":"de"
@@ -18138,7 +18138,7 @@
     {
         "bfs":4254,
         "zip":4313,
-        "zip-share":96.36,
+        "zip-share":96.37,
         "town":"M\u00f6hlin",
         "canton":"AG",
         "locale":"de"
@@ -18146,7 +18146,7 @@
     {
         "bfs":4258,
         "zip":4313,
-        "zip-share":3.64,
+        "zip-share":3.63,
         "town":"Rheinfelden",
         "canton":"AG",
         "locale":"de"
@@ -20850,7 +20850,7 @@
     {
         "bfs":4001,
         "zip":5000,
-        "zip-share":99.73,
+        "zip-share":99.71,
         "town":"Aarau",
         "canton":"AG",
         "locale":"de"
@@ -20858,7 +20858,7 @@
     {
         "bfs":4012,
         "zip":5000,
-        "zip-share":0.27,
+        "zip-share":0.29,
         "town":"Suhr",
         "canton":"AG",
         "locale":"de"
@@ -22770,7 +22770,7 @@
     {
         "bfs":4145,
         "zip":5723,
-        "zip-share":96.89,
+        "zip-share":96.9,
         "town":"Teufenthal (AG)",
         "canton":"AG",
         "locale":"de"
@@ -25986,7 +25986,7 @@
     {
         "bfs":1367,
         "zip":6436,
-        "zip-share":94.61,
+        "zip-share":94.6,
         "town":"Muotathal",
         "canton":"SZ",
         "locale":"de"
@@ -29714,7 +29714,7 @@
     {
         "bfs":3982,
         "zip":7180,
-        "zip-share":98.55,
+        "zip-share":98.54,
         "town":"Disentis\/Must\u00e9r",
         "canton":"GR",
         "locale":"multiple"
@@ -29722,7 +29722,7 @@
     {
         "bfs":3985,
         "zip":7180,
-        "zip-share":1.45,
+        "zip-share":1.46,
         "town":"Sumvitg",
         "canton":"GR",
         "locale":"multiple"
@@ -31522,7 +31522,7 @@
     {
         "bfs":261,
         "zip":8044,
-        "zip-share":72.09,
+        "zip-share":72.1,
         "town":"Z\u00fcrich",
         "canton":"ZH",
         "locale":"de"
@@ -31530,7 +31530,7 @@
     {
         "bfs":191,
         "zip":8044,
-        "zip-share":27.91,
+        "zip-share":27.9,
         "town":"D\u00fcbendorf",
         "canton":"ZH",
         "locale":"de"
@@ -37130,7 +37130,7 @@
     {
         "bfs":3023,
         "zip":9042,
-        "zip-share":97.13,
+        "zip-share":97.12,
         "town":"Speicher",
         "canton":"AR",
         "locale":"de"
@@ -37138,7 +37138,7 @@
     {
         "bfs":3203,
         "zip":9042,
-        "zip-share":2.73,
+        "zip-share":2.75,
         "town":"St. Gallen",
         "canton":"SG",
         "locale":"de"
@@ -37194,7 +37194,7 @@
     {
         "bfs":3101,
         "zip":9050,
-        "zip-share":48.9,
+        "zip-share":48.93,
         "town":"Appenzell",
         "canton":"AI",
         "locale":"de"
@@ -37202,7 +37202,7 @@
     {
         "bfs":3112,
         "zip":9050,
-        "zip-share":43.09,
+        "zip-share":43.05,
         "town":"Schwende-R\u00fcte",
         "canton":"AI",
         "locale":"de"
@@ -37210,7 +37210,7 @@
     {
         "bfs":3104,
         "zip":9050,
-        "zip-share":6.3,
+        "zip-share":6.32,
         "town":"Schlatt-Haslen",
         "canton":"AI",
         "locale":"de"
@@ -37546,7 +37546,7 @@
     {
         "bfs":3102,
         "zip":9108,
-        "zip-share":98.23,
+        "zip-share":98.24,
         "town":"Gonten",
         "canton":"AI",
         "locale":"de"
