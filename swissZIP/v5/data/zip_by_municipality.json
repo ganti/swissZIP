@@ -114,7 +114,7 @@
     {
         "bfs":5635,
         "zip":1015,
-        "zip-share":85.11,
+        "zip-share":85.21,
         "town":"Ecublens (VD)",
         "canton":"VD",
         "locale":"fr"
@@ -122,7 +122,7 @@
     {
         "bfs":5648,
         "zip":1015,
-        "zip-share":7.8,
+        "zip-share":7.75,
         "town":"Saint-Sulpice (VD)",
         "canton":"VD",
         "locale":"fr"
@@ -130,7 +130,7 @@
     {
         "bfs":5627,
         "zip":1015,
-        "zip-share":7.09,
+        "zip-share":7.04,
         "town":"Chavannes-pr\u00e8s-Renens",
         "canton":"VD",
         "locale":"fr"
@@ -1666,7 +1666,7 @@
     {
         "bfs":6631,
         "zip":1213,
-        "zip-share":55.99,
+        "zip-share":55.97,
         "town":"Onex",
         "canton":"GE",
         "locale":"fr"
@@ -1674,7 +1674,7 @@
     {
         "bfs":6628,
         "zip":1213,
-        "zip-share":43.26,
+        "zip-share":43.28,
         "town":"Lancy",
         "canton":"GE",
         "locale":"fr"
@@ -2186,7 +2186,7 @@
     {
         "bfs":5731,
         "zip":1261,
-        "zip-share":55.43,
+        "zip-share":55.39,
         "town":"Le Vaud",
         "canton":"VD",
         "locale":"fr"
@@ -2194,7 +2194,7 @@
     {
         "bfs":5429,
         "zip":1261,
-        "zip-share":26.16,
+        "zip-share":26.21,
         "town":"Longirod",
         "canton":"VD",
         "locale":"fr"
@@ -2202,7 +2202,7 @@
     {
         "bfs":5430,
         "zip":1261,
-        "zip-share":18.41,
+        "zip-share":18.4,
         "town":"Marchissy",
         "canton":"VD",
         "locale":"fr"
@@ -2434,7 +2434,7 @@
     {
         "bfs":5707,
         "zip":1279,
-        "zip-share":55.37,
+        "zip-share":55.57,
         "town":"Chavannes-de-Bogis",
         "canton":"VD",
         "locale":"fr"
@@ -2442,7 +2442,7 @@
     {
         "bfs":5705,
         "zip":1279,
-        "zip-share":44.63,
+        "zip-share":44.43,
         "town":"Bogis-Bossey",
         "canton":"VD",
         "locale":"fr"
@@ -2530,7 +2530,7 @@
     {
         "bfs":6644,
         "zip":1290,
-        "zip-share":84.56,
+        "zip-share":84.57,
         "town":"Versoix",
         "canton":"GE",
         "locale":"fr"
@@ -2538,7 +2538,7 @@
     {
         "bfs":5708,
         "zip":1290,
-        "zip-share":12.36,
+        "zip-share":12.35,
         "town":"Chavannes-des-Bois",
         "canton":"VD",
         "locale":"fr"
@@ -2546,7 +2546,7 @@
     {
         "bfs":6615,
         "zip":1290,
-        "zip-share":2.88,
+        "zip-share":2.87,
         "town":"Collex-Bossy",
         "canton":"GE",
         "locale":"fr"
@@ -4978,7 +4978,7 @@
     {
         "bfs":2096,
         "zip":1680,
-        "zip-share":88.53,
+        "zip-share":88.52,
         "town":"Romont (FR)",
         "canton":"FR",
         "locale":"fr"
@@ -4986,7 +4986,7 @@
     {
         "bfs":2087,
         "zip":1680,
-        "zip-share":9.66,
+        "zip-share":9.67,
         "town":"M\u00e9zi\u00e8res (FR)",
         "canton":"FR",
         "locale":"fr"
@@ -5554,7 +5554,7 @@
     {
         "bfs":2307,
         "zip":1734,
-        "zip-share":99.12,
+        "zip-share":99.13,
         "town":"Tentlingen",
         "canton":"FR",
         "locale":"de"
@@ -5570,7 +5570,7 @@
     {
         "bfs":2220,
         "zip":1734,
-        "zip-share":0.13,
+        "zip-share":0.12,
         "town":"Le Mouret",
         "canton":"FR",
         "locale":"de"
@@ -8258,7 +8258,7 @@
     {
         "bfs":435,
         "zip":2333,
-        "zip-share":83.46,
+        "zip-share":83.43,
         "town":"La Ferri\u00e8re",
         "canton":"BE",
         "locale":"fr"
@@ -8266,7 +8266,7 @@
     {
         "bfs":445,
         "zip":2333,
-        "zip-share":16.35,
+        "zip-share":16.38,
         "town":"Sonvilier",
         "canton":"BE",
         "locale":"fr"
@@ -9250,7 +9250,7 @@
     {
         "bfs":443,
         "zip":2610,
-        "zip-share":88.26,
+        "zip-share":88.25,
         "town":"Saint-Imier",
         "canton":"BE",
         "locale":"fr"
@@ -9274,7 +9274,7 @@
     {
         "bfs":448,
         "zip":2610,
-        "zip-share":1.94,
+        "zip-share":1.95,
         "town":"Villeret",
         "canton":"BE",
         "locale":"fr"
@@ -9282,7 +9282,7 @@
     {
         "bfs":432,
         "zip":2610,
-        "zip-share":1.78,
+        "zip-share":1.79,
         "town":"Cormoret",
         "canton":"BE",
         "locale":"fr"
@@ -14610,7 +14610,7 @@
     {
         "bfs":929,
         "zip":3626,
-        "zip-share":73.19,
+        "zip-share":73.21,
         "town":"Hilterfingen",
         "canton":"BE",
         "locale":"de"
@@ -14618,7 +14618,7 @@
     {
         "bfs":942,
         "zip":3626,
-        "zip-share":26.81,
+        "zip-share":26.79,
         "town":"Thun",
         "canton":"BE",
         "locale":"de"
@@ -22978,7 +22978,7 @@
     {
         "bfs":1061,
         "zip":6005,
-        "zip-share":78.95,
+        "zip-share":78.96,
         "town":"Luzern",
         "canton":"LU",
         "locale":"de"
@@ -22986,7 +22986,7 @@
     {
         "bfs":1058,
         "zip":6005,
-        "zip-share":14.6,
+        "zip-share":14.58,
         "town":"Horw",
         "canton":"LU",
         "locale":"de"
@@ -22994,7 +22994,7 @@
     {
         "bfs":1059,
         "zip":6005,
-        "zip-share":6.46,
+        "zip-share":6.45,
         "town":"Kriens",
         "canton":"LU",
         "locale":"de"
@@ -24090,7 +24090,7 @@
     {
         "bfs":1122,
         "zip":6147,
-        "zip-share":83.33,
+        "zip-share":83.22,
         "town":"Altb\u00fcron",
         "canton":"LU",
         "locale":"de"
@@ -24098,7 +24098,7 @@
     {
         "bfs":1131,
         "zip":6147,
-        "zip-share":14.85,
+        "zip-share":14.97,
         "town":"Grossdietwil",
         "canton":"LU",
         "locale":"de"
@@ -25266,7 +25266,7 @@
     {
         "bfs":1706,
         "zip":6315,
-        "zip-share":98.4,
+        "zip-share":98.41,
         "town":"Ober\u00e4geri",
         "canton":"ZG",
         "locale":"de"
@@ -25274,7 +25274,7 @@
     {
         "bfs":1704,
         "zip":6315,
-        "zip-share":0.78,
+        "zip-share":0.77,
         "town":"Menzingen",
         "canton":"ZG",
         "locale":"de"
@@ -28210,7 +28210,7 @@
     {
         "bfs":5192,
         "zip":6900,
-        "zip-share":71.8,
+        "zip-share":71.79,
         "town":"Lugano",
         "canton":"TI",
         "locale":"it"
@@ -28322,7 +28322,7 @@
     {
         "bfs":5225,
         "zip":6924,
-        "zip-share":97.32,
+        "zip-share":97.13,
         "town":"Sorengo",
         "canton":"TI",
         "locale":"it"
@@ -28330,7 +28330,7 @@
     {
         "bfs":5192,
         "zip":6924,
-        "zip-share":2.68,
+        "zip-share":2.87,
         "town":"Lugano",
         "canton":"TI",
         "locale":"it"
@@ -33274,7 +33274,7 @@
     {
         "bfs":4721,
         "zip":8363,
-        "zip-share":95.68,
+        "zip-share":95.67,
         "town":"Bichelsee-Balterswil",
         "canton":"TG",
         "locale":"de"
@@ -33282,7 +33282,7 @@
     {
         "bfs":228,
         "zip":8363,
-        "zip-share":4.32,
+        "zip-share":4.33,
         "town":"Turbenthal",
         "canton":"ZH",
         "locale":"de"
@@ -33842,7 +33842,7 @@
     {
         "bfs":180,
         "zip":8484,
-        "zip-share":100.0,
+        "zip-share":99.99,
         "town":"Weisslingen",
         "canton":"ZH",
         "locale":"de"
@@ -33898,7 +33898,7 @@
     {
         "bfs":181,
         "zip":8492,
-        "zip-share":88.42,
+        "zip-share":88.43,
         "town":"Wila",
         "canton":"ZH",
         "locale":"de"
@@ -33906,7 +33906,7 @@
     {
         "bfs":228,
         "zip":8492,
-        "zip-share":11.58,
+        "zip-share":11.57,
         "town":"Turbenthal",
         "canton":"ZH",
         "locale":"de"
@@ -34610,7 +34610,7 @@
     {
         "bfs":4506,
         "zip":8583,
-        "zip-share":100.0,
+        "zip-share":100.01,
         "town":"Sulgen",
         "canton":"TG",
         "locale":"de"
@@ -38642,7 +38642,7 @@
     {
         "bfs":3231,
         "zip":9435,
-        "zip-share":64.31,
+        "zip-share":64.29,
         "town":"Au (SG)",
         "canton":"SG",
         "locale":"de"
@@ -38650,7 +38650,7 @@
     {
         "bfs":3232,
         "zip":9435,
-        "zip-share":19.23,
+        "zip-share":19.24,
         "town":"Balgach",
         "canton":"SG",
         "locale":"de"
@@ -38658,7 +38658,7 @@
     {
         "bfs":3238,
         "zip":9435,
-        "zip-share":8.96,
+        "zip-share":8.97,
         "town":"Widnau",
         "canton":"SG",
         "locale":"de"
@@ -38666,7 +38666,7 @@
     {
         "bfs":3233,
         "zip":9435,
-        "zip-share":7.5,
+        "zip-share":7.51,
         "town":"Berneck",
         "canton":"SG",
         "locale":"de"
@@ -38674,7 +38674,7 @@
     {
         "bfs":3232,
         "zip":9436,
-        "zip-share":95.6,
+        "zip-share":95.65,
         "town":"Balgach",
         "canton":"SG",
         "locale":"de"
@@ -38682,7 +38682,7 @@
     {
         "bfs":3254,
         "zip":9436,
-        "zip-share":2.25,
+        "zip-share":2.2,
         "town":"Oberriet (SG)",
         "canton":"SG",
         "locale":"de"
@@ -38850,7 +38850,7 @@
     {
         "bfs":3254,
         "zip":9463,
-        "zip-share":94.94,
+        "zip-share":94.93,
         "town":"Oberriet (SG)",
         "canton":"SG",
         "locale":"de"
@@ -38858,7 +38858,7 @@
     {
         "bfs":3251,
         "zip":9463,
-        "zip-share":4.72,
+        "zip-share":4.73,
         "town":"Altst\u00e4tten",
         "canton":"SG",
         "locale":"de"
@@ -38954,7 +38954,7 @@
     {
         "bfs":3271,
         "zip":9470,
-        "zip-share":82.51,
+        "zip-share":82.52,
         "town":"Buchs (SG)",
         "canton":"SG",
         "locale":"de"
@@ -38962,7 +38962,7 @@
     {
         "bfs":3273,
         "zip":9470,
-        "zip-share":13.21,
+        "zip-share":13.2,
         "town":"Grabs",
         "canton":"SG",
         "locale":"de"
