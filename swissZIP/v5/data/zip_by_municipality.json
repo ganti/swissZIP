@@ -5394,7 +5394,7 @@
     {
         "bfs":2206,
         "zip":1723,
-        "zip-share":92.64,
+        "zip-share":92.61,
         "town":"Marly",
         "canton":"FR",
         "locale":"fr"
@@ -5410,7 +5410,7 @@
     {
         "bfs":2230,
         "zip":1723,
-        "zip-share":1.96,
+        "zip-share":1.99,
         "town":"Villarsel-sur-Marly",
         "canton":"FR",
         "locale":"fr"
@@ -6442,7 +6442,7 @@
     {
         "bfs":5402,
         "zip":1880,
-        "zip-share":99.43,
+        "zip-share":99.42,
         "town":"Bex",
         "canton":"VD",
         "locale":"fr"
@@ -6874,7 +6874,7 @@
     {
         "bfs":6035,
         "zip":1933,
-        "zip-share":86.81,
+        "zip-share":86.83,
         "town":"Sembrancher",
         "canton":"VS",
         "locale":"fr"
@@ -6882,7 +6882,7 @@
     {
         "bfs":6037,
         "zip":1933,
-        "zip-share":13.18,
+        "zip-share":13.17,
         "town":"Val de Bagnes",
         "canton":"VS",
         "locale":"fr"
@@ -16530,7 +16530,7 @@
     {
         "bfs":6112,
         "zip":3948,
-        "zip-share":144.52,
+        "zip-share":144.04,
         "town":"Oberems VS",
         "canton":"VS",
         "locale":"de"
@@ -16538,7 +16538,7 @@
     {
         "bfs":6119,
         "zip":3948,
-        "zip-share":55.14,
+        "zip-share":55.61,
         "town":"Turtmann-Unterems",
         "canton":"VS",
         "locale":"de"
@@ -16546,7 +16546,7 @@
     {
         "bfs":6101,
         "zip":3948,
-        "zip-share":0.34,
+        "zip-share":0.35,
         "town":"Agarn",
         "canton":"VS",
         "locale":"de"
@@ -19282,7 +19282,7 @@
     {
         "bfs":971,
         "zip":4536,
-        "zip-share":97.74,
+        "zip-share":97.75,
         "town":"Attiswil",
         "canton":"BE",
         "locale":"de"
@@ -19290,7 +19290,7 @@
     {
         "bfs":992,
         "zip":4536,
-        "zip-share":2.26,
+        "zip-share":2.25,
         "town":"Wangen an der Aare",
         "canton":"BE",
         "locale":"de"
@@ -25266,7 +25266,7 @@
     {
         "bfs":1706,
         "zip":6315,
-        "zip-share":98.41,
+        "zip-share":98.43,
         "town":"Ober\u00e4geri",
         "canton":"ZG",
         "locale":"de"
@@ -27546,7 +27546,7 @@
     {
         "bfs":5050,
         "zip":6721,
-        "zip-share":63.43,
+        "zip-share":63.56,
         "town":"Serravalle",
         "canton":"TI",
         "locale":"it"
@@ -27554,7 +27554,7 @@
     {
         "bfs":5048,
         "zip":6721,
-        "zip-share":36.57,
+        "zip-share":36.44,
         "town":"Acquarossa",
         "canton":"TI",
         "locale":"it"
@@ -27658,7 +27658,7 @@
     {
         "bfs":5072,
         "zip":6760,
-        "zip-share":99.99,
+        "zip-share":100.0,
         "town":"Faido",
         "canton":"TI",
         "locale":"it"
@@ -35498,7 +35498,7 @@
     {
         "bfs":1632,
         "zip":8750,
-        "zip-share":99.72,
+        "zip-share":99.71,
         "town":"Glarus",
         "canton":"GL",
         "locale":"de"
@@ -38754,7 +38754,7 @@
     {
         "bfs":3251,
         "zip":9450,
-        "zip-share":98.52,
+        "zip-share":98.53,
         "town":"Altst\u00e4tten",
         "canton":"SG",
         "locale":"de"
@@ -38786,7 +38786,7 @@
     {
         "bfs":3251,
         "zip":9452,
-        "zip-share":58.36,
+        "zip-share":58.43,
         "town":"Altst\u00e4tten",
         "canton":"SG",
         "locale":"de"
@@ -38794,7 +38794,7 @@
     {
         "bfs":3252,
         "zip":9452,
-        "zip-share":41.64,
+        "zip-share":41.57,
         "town":"Eichberg",
         "canton":"SG",
         "locale":"de"
@@ -38850,7 +38850,7 @@
     {
         "bfs":3256,
         "zip":9464,
-        "zip-share":77.26,
+        "zip-share":77.34,
         "town":"R\u00fcthi (SG)",
         "canton":"SG",
         "locale":"de"
@@ -38858,7 +38858,7 @@
     {
         "bfs":3251,
         "zip":9464,
-        "zip-share":22.75,
+        "zip-share":22.66,
         "town":"Altst\u00e4tten",
         "canton":"SG",
         "locale":"de"
