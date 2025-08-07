@@ -2274,7 +2274,7 @@
     {
         "bfs":5704,
         "zip":1268,
-        "zip-share":67.81,
+        "zip-share":67.96,
         "town":"Begnins",
         "canton":"VD",
         "locale":"fr"
@@ -2282,7 +2282,7 @@
     {
         "bfs":5854,
         "zip":1268,
-        "zip-share":29.83,
+        "zip-share":29.68,
         "town":"Burtigny",
         "canton":"VD",
         "locale":"fr"
@@ -2706,7 +2706,7 @@
     {
         "bfs":5480,
         "zip":1306,
-        "zip-share":98.27,
+        "zip-share":98.31,
         "town":"Daillens",
         "canton":"VD",
         "locale":"fr"
@@ -2714,7 +2714,7 @@
     {
         "bfs":5471,
         "zip":1306,
-        "zip-share":1.73,
+        "zip-share":1.69,
         "town":"Bettens",
         "canton":"VD",
         "locale":"fr"
@@ -5490,7 +5490,7 @@
     {
         "bfs":2236,
         "zip":1726,
-        "zip-share":99.99,
+        "zip-share":100.0,
         "town":"Gibloux",
         "canton":"FR",
         "locale":"fr"
@@ -6354,7 +6354,7 @@
     {
         "bfs":5409,
         "zip":1867,
-        "zip-share":99.99,
+        "zip-share":100.01,
         "town":"Ollon",
         "canton":"VD",
         "locale":"fr"
@@ -7842,7 +7842,7 @@
     {
         "bfs":6513,
         "zip":2068,
-        "zip-share":99.57,
+        "zip-share":99.58,
         "town":"Lat\u00e9na",
         "canton":"NE",
         "locale":"fr"
@@ -7850,7 +7850,7 @@
     {
         "bfs":6458,
         "zip":2068,
-        "zip-share":0.43,
+        "zip-share":0.42,
         "town":"Neuch\u00e2tel",
         "canton":"NE",
         "locale":"fr"
@@ -7906,7 +7906,7 @@
     {
         "bfs":6513,
         "zip":2075,
-        "zip-share":98.91,
+        "zip-share":98.92,
         "town":"Lat\u00e9na",
         "canton":"NE",
         "locale":"fr"
@@ -24202,7 +24202,7 @@
     {
         "bfs":1002,
         "zip":6162,
-        "zip-share":96.49,
+        "zip-share":96.5,
         "town":"Entlebuch",
         "canton":"LU",
         "locale":"de"
@@ -24650,7 +24650,7 @@
     {
         "bfs":1097,
         "zip":6221,
-        "zip-share":88.94,
+        "zip-share":88.87,
         "town":"Rickenbach (LU)",
         "canton":"LU",
         "locale":"de"
@@ -24658,7 +24658,7 @@
     {
         "bfs":1081,
         "zip":6221,
-        "zip-share":11.06,
+        "zip-share":11.13,
         "town":"Berom\u00fcnster",
         "canton":"LU",
         "locale":"de"
@@ -25746,7 +25746,7 @@
     {
         "bfs":1402,
         "zip":6390,
-        "zip-share":92.86,
+        "zip-share":92.87,
         "town":"Engelberg",
         "canton":"OW",
         "locale":"de"
@@ -29978,7 +29978,7 @@
     {
         "bfs":3882,
         "zip":7240,
-        "zip-share":90.19,
+        "zip-share":90.08,
         "town":"K\u00fcblis",
         "canton":"GR",
         "locale":"de"
@@ -29986,7 +29986,7 @@
     {
         "bfs":3891,
         "zip":7240,
-        "zip-share":9.81,
+        "zip-share":9.92,
         "town":"Luzein",
         "canton":"GR",
         "locale":"de"
@@ -30250,7 +30250,7 @@
     {
         "bfs":3294,
         "zip":7315,
-        "zip-share":79.87,
+        "zip-share":79.89,
         "town":"Pf\u00e4fers",
         "canton":"SG",
         "locale":"de"
@@ -30258,7 +30258,7 @@
     {
         "bfs":3733,
         "zip":7315,
-        "zip-share":20.13,
+        "zip-share":20.11,
         "town":"Tamins",
         "canton":"GR",
         "locale":"de"
@@ -33346,7 +33346,7 @@
     {
         "bfs":230,
         "zip":8405,
-        "zip-share":99.66,
+        "zip-share":99.67,
         "town":"Winterthur",
         "canton":"ZH",
         "locale":"de"
@@ -33354,7 +33354,7 @@
     {
         "bfs":226,
         "zip":8405,
-        "zip-share":0.34,
+        "zip-share":0.33,
         "town":"Schlatt (ZH)",
         "canton":"ZH",
         "locale":"de"
@@ -33794,7 +33794,7 @@
     {
         "bfs":231,
         "zip":8483,
-        "zip-share":90.28,
+        "zip-share":90.26,
         "town":"Zell (ZH)",
         "canton":"ZH",
         "locale":"de"
@@ -33802,7 +33802,7 @@
     {
         "bfs":296,
         "zip":8483,
-        "zip-share":9.72,
+        "zip-share":9.74,
         "town":"Illnau-Effretikon",
         "canton":"ZH",
         "locale":"de"
@@ -33866,7 +33866,7 @@
     {
         "bfs":181,
         "zip":8492,
-        "zip-share":88.43,
+        "zip-share":88.44,
         "town":"Wila",
         "canton":"ZH",
         "locale":"de"
@@ -33874,7 +33874,7 @@
     {
         "bfs":228,
         "zip":8492,
-        "zip-share":11.57,
+        "zip-share":11.56,
         "town":"Turbenthal",
         "canton":"ZH",
         "locale":"de"
@@ -35594,7 +35594,7 @@
     {
         "bfs":1631,
         "zip":8762,
-        "zip-share":100.0,
+        "zip-share":100.01,
         "town":"Glarus S\u00fcd",
         "canton":"GL",
         "locale":"de"
@@ -35818,7 +35818,7 @@
     {
         "bfs":1323,
         "zip":8832,
-        "zip-share":68.15,
+        "zip-share":68.17,
         "town":"Wollerau",
         "canton":"SZ",
         "locale":"de"
@@ -35826,7 +35826,7 @@
     {
         "bfs":1322,
         "zip":8832,
-        "zip-share":31.66,
+        "zip-share":31.67,
         "town":"Freienbach",
         "canton":"SZ",
         "locale":"de"
@@ -35834,7 +35834,7 @@
     {
         "bfs":1321,
         "zip":8832,
-        "zip-share":0.19,
+        "zip-share":0.16,
         "town":"Feusisberg",
         "canton":"SZ",
         "locale":"de"
@@ -35858,7 +35858,7 @@
     {
         "bfs":1321,
         "zip":8834,
-        "zip-share":96.28,
+        "zip-share":96.24,
         "town":"Feusisberg",
         "canton":"SZ",
         "locale":"de"
@@ -35866,7 +35866,7 @@
     {
         "bfs":1323,
         "zip":8834,
-        "zip-share":3.72,
+        "zip-share":3.76,
         "town":"Wollerau",
         "canton":"SZ",
         "locale":"de"
@@ -37826,7 +37826,7 @@
     {
         "bfs":4471,
         "zip":9220,
-        "zip-share":87.05,
+        "zip-share":87.06,
         "town":"Bischofszell",
         "canton":"TG",
         "locale":"de"
@@ -37922,7 +37922,7 @@
     {
         "bfs":3408,
         "zip":9240,
-        "zip-share":83.99,
+        "zip-share":84.0,
         "town":"Uzwil",
         "canton":"SG",
         "locale":"de"
@@ -37930,7 +37930,7 @@
     {
         "bfs":3407,
         "zip":9240,
-        "zip-share":15.62,
+        "zip-share":15.61,
         "town":"Oberuzwil",
         "canton":"SG",
         "locale":"de"
