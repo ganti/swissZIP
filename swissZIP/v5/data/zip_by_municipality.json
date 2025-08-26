@@ -1258,7 +1258,7 @@
     {
         "bfs":5860,
         "zip":1166,
-        "zip-share":98.81,
+        "zip-share":98.82,
         "town":"Perroy",
         "canton":"VD",
         "locale":"fr"
@@ -1266,7 +1266,7 @@
     {
         "bfs":5427,
         "zip":1166,
-        "zip-share":1.19,
+        "zip-share":1.18,
         "town":"F\u00e9chy",
         "canton":"VD",
         "locale":"fr"
@@ -2562,7 +2562,7 @@
     {
         "bfs":5723,
         "zip":1295,
-        "zip-share":54.59,
+        "zip-share":54.62,
         "town":"Mies",
         "canton":"VD",
         "locale":"fr"
@@ -2570,7 +2570,7 @@
     {
         "bfs":5729,
         "zip":1295,
-        "zip-share":45.41,
+        "zip-share":45.38,
         "town":"Tannay",
         "canton":"VD",
         "locale":"fr"
@@ -5770,7 +5770,7 @@
     {
         "bfs":2053,
         "zip":1773,
-        "zip-share":100.0,
+        "zip-share":100.01,
         "town":"Belmont-Broye",
         "canton":"FR",
         "locale":"fr"
@@ -6346,7 +6346,7 @@
     {
         "bfs":6153,
         "zip":1871,
-        "zip-share":98.45,
+        "zip-share":98.46,
         "town":"Monthey",
         "canton":"VS",
         "locale":"fr"
@@ -6354,7 +6354,7 @@
     {
         "bfs":6215,
         "zip":1871,
-        "zip-share":1.55,
+        "zip-share":1.54,
         "town":"Massongex",
         "canton":"VS",
         "locale":"fr"
@@ -6994,7 +6994,7 @@
     {
         "bfs":6246,
         "zip":1958,
-        "zip-share":72.23,
+        "zip-share":72.19,
         "town":"Saint-L\u00e9onard",
         "canton":"VS",
         "locale":"fr"
@@ -7002,7 +7002,7 @@
     {
         "bfs":6266,
         "zip":1958,
-        "zip-share":27.31,
+        "zip-share":27.35,
         "town":"Sion",
         "canton":"VS",
         "locale":"fr"
@@ -7322,7 +7322,7 @@
     {
         "bfs":6266,
         "zip":1991,
-        "zip-share":98.07,
+        "zip-share":98.08,
         "town":"Sion",
         "canton":"VS",
         "locale":"fr"
@@ -18402,7 +18402,7 @@
     {
         "bfs":2894,
         "zip":4425,
-        "zip-share":99.74,
+        "zip-share":99.73,
         "town":"Titterten",
         "canton":"BL",
         "locale":"de"
@@ -18410,7 +18410,7 @@
     {
         "bfs":2881,
         "zip":4425,
-        "zip-share":0.26,
+        "zip-share":0.27,
         "town":"Arboldswil",
         "canton":"BL",
         "locale":"de"
@@ -18690,7 +18690,7 @@
     {
         "bfs":2852,
         "zip":4448,
-        "zip-share":93.3,
+        "zip-share":93.29,
         "town":"L\u00e4ufelfingen",
         "canton":"BL",
         "locale":"de"
@@ -18698,7 +18698,7 @@
     {
         "bfs":2884,
         "zip":4448,
-        "zip-share":4.23,
+        "zip-share":4.24,
         "town":"Diegten",
         "canton":"BL",
         "locale":"de"
@@ -18706,7 +18706,7 @@
     {
         "bfs":2847,
         "zip":4448,
-        "zip-share":2.47,
+        "zip-share":2.48,
         "town":"H\u00e4felfingen",
         "canton":"BL",
         "locale":"de"
@@ -25354,7 +25354,7 @@
     {
         "bfs":1701,
         "zip":6340,
-        "zip-share":98.84,
+        "zip-share":98.85,
         "town":"Baar",
         "canton":"ZG",
         "locale":"de"
@@ -26426,7 +26426,7 @@
     {
         "bfs":5001,
         "zip":6532,
-        "zip-share":93.9,
+        "zip-share":93.89,
         "town":"Arbedo-Castione",
         "canton":"TI",
         "locale":"it"
@@ -26434,7 +26434,7 @@
     {
         "bfs":5010,
         "zip":6532,
-        "zip-share":5.93,
+        "zip-share":5.94,
         "town":"Lumino",
         "canton":"TI",
         "locale":"it"
@@ -28162,7 +28162,7 @@
     {
         "bfs":5192,
         "zip":6900,
-        "zip-share":71.75,
+        "zip-share":71.73,
         "town":"Lugano",
         "canton":"TI",
         "locale":"it"
@@ -28170,7 +28170,7 @@
     {
         "bfs":5196,
         "zip":6900,
-        "zip-share":17.96,
+        "zip-share":17.98,
         "town":"Massagno",
         "canton":"TI",
         "locale":"it"
@@ -28178,7 +28178,7 @@
     {
         "bfs":5210,
         "zip":6900,
-        "zip-share":10.29,
+        "zip-share":10.28,
         "town":"Paradiso",
         "canton":"TI",
         "locale":"it"
@@ -35842,7 +35842,7 @@
     {
         "bfs":1301,
         "zip":8836,
-        "zip-share":90.92,
+        "zip-share":90.94,
         "town":"Einsiedeln",
         "canton":"SZ",
         "locale":"de"
