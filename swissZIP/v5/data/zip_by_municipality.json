@@ -482,7 +482,7 @@
     {
         "bfs":5516,
         "zip":1053,
-        "zip-share":72.52,
+        "zip-share":72.54,
         "town":"Cugy (VD)",
         "canton":"VD",
         "locale":"fr"
@@ -490,7 +490,7 @@
     {
         "bfs":5515,
         "zip":1053,
-        "zip-share":18.94,
+        "zip-share":18.93,
         "town":"Bretigny-sur-Morrens",
         "canton":"VD",
         "locale":"fr"
@@ -498,7 +498,7 @@
     {
         "bfs":5586,
         "zip":1053,
-        "zip-share":8.54,
+        "zip-share":8.53,
         "town":"Lausanne",
         "canton":"VD",
         "locale":"fr"
@@ -1218,7 +1218,7 @@
     {
         "bfs":5646,
         "zip":1162,
-        "zip-share":98.54,
+        "zip-share":98.55,
         "town":"Saint-Prex",
         "canton":"VD",
         "locale":"fr"
@@ -1226,7 +1226,7 @@
     {
         "bfs":5639,
         "zip":1162,
-        "zip-share":1.46,
+        "zip-share":1.45,
         "town":"Lully (VD)",
         "canton":"VD",
         "locale":"fr"
@@ -1362,7 +1362,7 @@
     {
         "bfs":5861,
         "zip":1180,
-        "zip-share":83.17,
+        "zip-share":83.2,
         "town":"Rolle",
         "canton":"VD",
         "locale":"fr"
@@ -1370,7 +1370,7 @@
     {
         "bfs":5856,
         "zip":1180,
-        "zip-share":7.06,
+        "zip-share":7.05,
         "town":"Essertines-sur-Rolle",
         "canton":"VD",
         "locale":"fr"
@@ -1378,7 +1378,7 @@
     {
         "bfs":5862,
         "zip":1180,
-        "zip-share":6.76,
+        "zip-share":6.74,
         "town":"Tartegnin",
         "canton":"VD",
         "locale":"fr"
@@ -1386,7 +1386,7 @@
     {
         "bfs":5857,
         "zip":1180,
-        "zip-share":3.01,
+        "zip-share":3.0,
         "town":"Gilly",
         "canton":"VD",
         "locale":"fr"
@@ -4890,7 +4890,7 @@
     {
         "bfs":2102,
         "zip":1675,
-        "zip-share":82.24,
+        "zip-share":82.31,
         "town":"Ursy",
         "canton":"FR",
         "locale":"fr"
@@ -4898,7 +4898,7 @@
     {
         "bfs":2097,
         "zip":1675,
-        "zip-share":17.76,
+        "zip-share":17.7,
         "town":"Rue",
         "canton":"FR",
         "locale":"fr"
@@ -13890,7 +13890,7 @@
     {
         "bfs":607,
         "zip":3510,
-        "zip-share":9.38,
+        "zip-share":9.37,
         "town":"Freimettigen",
         "canton":"BE",
         "locale":"de"
@@ -25226,7 +25226,7 @@
     {
         "bfs":1704,
         "zip":6315,
-        "zip-share":0.77,
+        "zip-share":0.76,
         "town":"Menzingen",
         "canton":"ZG",
         "locale":"de"
@@ -30050,7 +30050,7 @@
     {
         "bfs":3851,
         "zip":7265,
-        "zip-share":97.72,
+        "zip-share":97.73,
         "town":"Davos",
         "canton":"GR",
         "locale":"de"
@@ -30058,7 +30058,7 @@
     {
         "bfs":3871,
         "zip":7265,
-        "zip-share":2.28,
+        "zip-share":2.27,
         "town":"Klosters",
         "canton":"GR",
         "locale":"de"
@@ -30874,7 +30874,7 @@
     {
         "bfs":3784,
         "zip":7504,
-        "zip-share":96.34,
+        "zip-share":96.33,
         "town":"Pontresina",
         "canton":"GR",
         "locale":"rm"
@@ -30882,7 +30882,7 @@
     {
         "bfs":3786,
         "zip":7504,
-        "zip-share":2.37,
+        "zip-share":2.38,
         "town":"Samedan",
         "canton":"GR",
         "locale":"rm"
@@ -35402,7 +35402,7 @@
     {
         "bfs":3342,
         "zip":8734,
-        "zip-share":92.32,
+        "zip-share":92.14,
         "town":"Eschenbach (SG)",
         "canton":"SG",
         "locale":"de"
@@ -35410,7 +35410,7 @@
     {
         "bfs":3340,
         "zip":8734,
-        "zip-share":7.68,
+        "zip-share":7.86,
         "town":"Rapperswil-Jona",
         "canton":"SG",
         "locale":"de"
@@ -35818,7 +35818,7 @@
     {
         "bfs":1321,
         "zip":8834,
-        "zip-share":96.3,
+        "zip-share":96.46,
         "town":"Feusisberg",
         "canton":"SZ",
         "locale":"de"
@@ -35826,7 +35826,7 @@
     {
         "bfs":1323,
         "zip":8834,
-        "zip-share":3.7,
+        "zip-share":3.54,
         "town":"Wollerau",
         "canton":"SZ",
         "locale":"de"

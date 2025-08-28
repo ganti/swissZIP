@@ -568,7 +568,7 @@
     },
     {
         "zip":1053,
-        "zip-share":72.52,
+        "zip-share":72.54,
         "town":"Cugy VD",
         "bfs":5516,
         "municipality":"Cugy (VD)",
@@ -577,7 +577,7 @@
     },
     {
         "zip":1053,
-        "zip-share":18.94,
+        "zip-share":18.93,
         "town":"Bretigny-sur-Morrens",
         "bfs":5515,
         "municipality":"Bretigny-sur-Morrens",
@@ -586,7 +586,7 @@
     },
     {
         "zip":1053,
-        "zip-share":8.54,
+        "zip-share":8.53,
         "town":"Cugy VD",
         "bfs":5586,
         "municipality":"Lausanne",
@@ -1477,7 +1477,7 @@
     },
     {
         "zip":1162,
-        "zip-share":98.54,
+        "zip-share":98.55,
         "town":"St-Prex",
         "bfs":5646,
         "municipality":"Saint-Prex",
@@ -1486,7 +1486,7 @@
     },
     {
         "zip":1162,
-        "zip-share":1.46,
+        "zip-share":1.45,
         "town":"St-Prex",
         "bfs":5639,
         "municipality":"Lully (VD)",
@@ -1648,7 +1648,7 @@
     },
     {
         "zip":1180,
-        "zip-share":83.17,
+        "zip-share":83.2,
         "town":"Rolle",
         "bfs":5861,
         "municipality":"Rolle",
@@ -1657,7 +1657,7 @@
     },
     {
         "zip":1180,
-        "zip-share":6.76,
+        "zip-share":6.74,
         "town":"Tartegnin",
         "bfs":5862,
         "municipality":"Tartegnin",
@@ -1666,7 +1666,7 @@
     },
     {
         "zip":1180,
-        "zip-share":6.51,
+        "zip-share":6.5,
         "town":"Rolle",
         "bfs":5856,
         "municipality":"Essertines-sur-Rolle",
@@ -1675,7 +1675,7 @@
     },
     {
         "zip":1180,
-        "zip-share":3.01,
+        "zip-share":3.0,
         "town":"Rolle",
         "bfs":5857,
         "municipality":"Gilly",
@@ -6373,7 +6373,7 @@
     },
     {
         "zip":1675,
-        "zip-share":62.34,
+        "zip-share":62.48,
         "town":"Vauderens",
         "bfs":2102,
         "municipality":"Ursy",
@@ -6382,7 +6382,7 @@
     },
     {
         "zip":1675,
-        "zip-share":19.72,
+        "zip-share":19.65,
         "town":"Mossel",
         "bfs":2102,
         "municipality":"Ursy",
@@ -6391,7 +6391,7 @@
     },
     {
         "zip":1675,
-        "zip-share":17.76,
+        "zip-share":17.7,
         "town":"Blessens",
         "bfs":2097,
         "municipality":"Rue",
@@ -18523,7 +18523,7 @@
     },
     {
         "zip":3510,
-        "zip-share":9.38,
+        "zip-share":9.37,
         "town":"Freimettigen",
         "bfs":607,
         "municipality":"Freimettigen",
@@ -32149,7 +32149,7 @@
     },
     {
         "zip":6285,
-        "zip-share":88.46,
+        "zip-share":88.47,
         "town":"Hitzkirch",
         "bfs":1030,
         "municipality":"Hitzkirch",
@@ -32158,7 +32158,7 @@
     },
     {
         "zip":6285,
-        "zip-share":11.54,
+        "zip-share":11.53,
         "town":"Retschwil",
         "bfs":1030,
         "municipality":"Hitzkirch",
@@ -32392,7 +32392,7 @@
     },
     {
         "zip":6315,
-        "zip-share":16.88,
+        "zip-share":16.86,
         "town":"Morgarten",
         "bfs":1706,
         "municipality":"Ober\u00e4geri",
@@ -32401,7 +32401,7 @@
     },
     {
         "zip":6315,
-        "zip-share":15.14,
+        "zip-share":15.16,
         "town":"Alosen",
         "bfs":1706,
         "municipality":"Ober\u00e4geri",
@@ -32410,7 +32410,7 @@
     },
     {
         "zip":6315,
-        "zip-share":0.77,
+        "zip-share":0.76,
         "town":"Alosen",
         "bfs":1704,
         "municipality":"Menzingen",
@@ -37063,7 +37063,7 @@
     },
     {
         "zip":6963,
-        "zip-share":92.63,
+        "zip-share":92.62,
         "town":"Pregassona",
         "bfs":5192,
         "municipality":"Lugano",
@@ -37072,7 +37072,7 @@
     },
     {
         "zip":6963,
-        "zip-share":7.37,
+        "zip-share":7.38,
         "town":"Cureggia",
         "bfs":5192,
         "municipality":"Lugano",
@@ -38134,7 +38134,7 @@
     },
     {
         "zip":7156,
-        "zip-share":90.27,
+        "zip-share":90.31,
         "town":"Rueun",
         "bfs":3619,
         "municipality":"Ilanz\/Glion",
@@ -38143,7 +38143,7 @@
     },
     {
         "zip":7156,
-        "zip-share":9.73,
+        "zip-share":9.69,
         "town":"Pigniu",
         "bfs":3619,
         "municipality":"Ilanz\/Glion",
@@ -38782,7 +38782,7 @@
     },
     {
         "zip":7265,
-        "zip-share":97.72,
+        "zip-share":97.73,
         "town":"Davos Wolfgang",
         "bfs":3851,
         "municipality":"Davos",
@@ -38791,7 +38791,7 @@
     },
     {
         "zip":7265,
-        "zip-share":2.28,
+        "zip-share":2.27,
         "town":"Davos Wolfgang",
         "bfs":3871,
         "municipality":"Klosters",
@@ -39808,7 +39808,7 @@
     },
     {
         "zip":7504,
-        "zip-share":96.34,
+        "zip-share":96.33,
         "town":"Pontresina",
         "bfs":3784,
         "municipality":"Pontresina",
@@ -39817,7 +39817,7 @@
     },
     {
         "zip":7504,
-        "zip-share":2.37,
+        "zip-share":2.38,
         "town":"Pontresina",
         "bfs":3786,
         "municipality":"Samedan",
@@ -43777,7 +43777,7 @@
     },
     {
         "zip":8505,
-        "zip-share":77.9,
+        "zip-share":77.88,
         "town":"Pfyn",
         "bfs":4841,
         "municipality":"Pfyn",
@@ -43786,7 +43786,7 @@
     },
     {
         "zip":8505,
-        "zip-share":22.1,
+        "zip-share":22.12,
         "town":"Dettighofen",
         "bfs":4841,
         "municipality":"Pfyn",
@@ -45874,7 +45874,7 @@
     },
     {
         "zip":8734,
-        "zip-share":92.32,
+        "zip-share":92.14,
         "town":"Ermenswil",
         "bfs":3342,
         "municipality":"Eschenbach (SG)",
@@ -45883,7 +45883,7 @@
     },
     {
         "zip":8734,
-        "zip-share":7.68,
+        "zip-share":7.86,
         "town":"Ermenswil",
         "bfs":3340,
         "municipality":"Rapperswil-Jona",
@@ -46414,7 +46414,7 @@
     },
     {
         "zip":8834,
-        "zip-share":96.3,
+        "zip-share":96.46,
         "town":"Schindellegi",
         "bfs":1321,
         "municipality":"Feusisberg",
@@ -46423,7 +46423,7 @@
     },
     {
         "zip":8834,
-        "zip-share":3.7,
+        "zip-share":3.54,
         "town":"Schindellegi",
         "bfs":1323,
         "municipality":"Wollerau",
