@@ -3618,7 +3618,7 @@
     {
         "bfs":2008,
         "zip":1473,
-        "zip-share":50.9,
+        "zip-share":50.96,
         "town":"Ch\u00e2tillon (FR)",
         "canton":"FR",
         "locale":"fr"
@@ -3626,7 +3626,7 @@
     {
         "bfs":2054,
         "zip":1473,
-        "zip-share":49.1,
+        "zip-share":49.04,
         "town":"Estavayer",
         "canton":"FR",
         "locale":"fr"
@@ -9218,7 +9218,7 @@
     {
         "bfs":445,
         "zip":2610,
-        "zip-share":4.69,
+        "zip-share":4.7,
         "town":"Sonvilier",
         "canton":"BE",
         "locale":"fr"
@@ -12506,7 +12506,7 @@
     {
         "bfs":2275,
         "zip":3280,
-        "zip-share":82.22,
+        "zip-share":82.19,
         "town":"Murten",
         "canton":"FR",
         "locale":"de"
@@ -12514,7 +12514,7 @@
     {
         "bfs":2271,
         "zip":3280,
-        "zip-share":10.49,
+        "zip-share":10.52,
         "town":"Meyriez",
         "canton":"FR",
         "locale":"de"
@@ -13234,7 +13234,7 @@
     {
         "bfs":415,
         "zip":3421,
-        "zip-share":77.49,
+        "zip-share":77.47,
         "town":"Lyssach",
         "canton":"BE",
         "locale":"de"
@@ -13242,7 +13242,7 @@
     {
         "bfs":422,
         "zip":3421,
-        "zip-share":13.14,
+        "zip-share":13.15,
         "town":"R\u00fcti bei Lyssach",
         "canton":"BE",
         "locale":"de"
@@ -13250,7 +13250,7 @@
     {
         "bfs":418,
         "zip":3421,
-        "zip-share":8.35,
+        "zip-share":8.36,
         "town":"Oberburg",
         "canton":"BE",
         "locale":"de"
@@ -23186,7 +23186,7 @@
     {
         "bfs":1040,
         "zip":6023,
-        "zip-share":99.15,
+        "zip-share":99.16,
         "town":"Rothenburg",
         "canton":"LU",
         "locale":"de"
@@ -25706,7 +25706,7 @@
     {
         "bfs":1402,
         "zip":6390,
-        "zip-share":92.86,
+        "zip-share":92.87,
         "town":"Engelberg",
         "canton":"OW",
         "locale":"de"
@@ -25714,7 +25714,7 @@
     {
         "bfs":1511,
         "zip":6390,
-        "zip-share":4.96,
+        "zip-share":4.95,
         "town":"Wolfenschiessen",
         "canton":"NW",
         "locale":"de"
@@ -25722,7 +25722,7 @@
     {
         "bfs":1203,
         "zip":6390,
-        "zip-share":2.18,
+        "zip-share":2.17,
         "town":"Attinghausen",
         "canton":"UR",
         "locale":"de"
@@ -27298,7 +27298,7 @@
     {
         "bfs":5315,
         "zip":6682,
-        "zip-share":99.09,
+        "zip-share":99.07,
         "town":"Linescio",
         "canton":"TI",
         "locale":"it"
@@ -27306,7 +27306,7 @@
     {
         "bfs":5309,
         "zip":6682,
-        "zip-share":0.91,
+        "zip-share":0.93,
         "town":"Cerentino",
         "canton":"TI",
         "locale":"it"
@@ -27786,7 +27786,7 @@
     {
         "bfs":5189,
         "zip":6814,
-        "zip-share":55.08,
+        "zip-share":55.04,
         "town":"Lamone",
         "canton":"TI",
         "locale":"it"
@@ -27794,7 +27794,7 @@
     {
         "bfs":5162,
         "zip":6814,
-        "zip-share":44.92,
+        "zip-share":44.88,
         "town":"Cadempino",
         "canton":"TI",
         "locale":"it"
@@ -32266,7 +32266,7 @@
     {
         "bfs":2939,
         "zip":8200,
-        "zip-share":99.65,
+        "zip-share":99.66,
         "town":"Schaffhausen",
         "canton":"SH",
         "locale":"de"
@@ -32274,7 +32274,7 @@
     {
         "bfs":2937,
         "zip":8200,
-        "zip-share":0.3,
+        "zip-share":0.29,
         "town":"Neuhausen am Rheinfall",
         "canton":"SH",
         "locale":"de"
@@ -35514,7 +35514,7 @@
     {
         "bfs":1632,
         "zip":8755,
-        "zip-share":99.47,
+        "zip-share":99.48,
         "town":"Glarus",
         "canton":"GL",
         "locale":"de"
@@ -35522,7 +35522,7 @@
     {
         "bfs":1631,
         "zip":8755,
-        "zip-share":0.53,
+        "zip-share":0.52,
         "town":"Glarus S\u00fcd",
         "canton":"GL",
         "locale":"de"
@@ -36418,7 +36418,7 @@
     {
         "bfs":3292,
         "zip":8898,
-        "zip-share":62.21,
+        "zip-share":62.39,
         "town":"Flums",
         "canton":"SG",
         "locale":"de"
@@ -36426,7 +36426,7 @@
     {
         "bfs":3295,
         "zip":8898,
-        "zip-share":37.79,
+        "zip-share":37.61,
         "town":"Quarten",
         "canton":"SG",
         "locale":"de"
@@ -38298,7 +38298,7 @@
     {
         "bfs":3216,
         "zip":9404,
-        "zip-share":98.92,
+        "zip-share":98.91,
         "town":"Rorschacherberg",
         "canton":"SG",
         "locale":"de"
@@ -38306,7 +38306,7 @@
     {
         "bfs":3219,
         "zip":9404,
-        "zip-share":0.75,
+        "zip-share":0.76,
         "town":"Untereggen",
         "canton":"SG",
         "locale":"de"
