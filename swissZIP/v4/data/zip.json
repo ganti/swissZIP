@@ -5626,7 +5626,7 @@
     {
         "bfs":2234,
         "zip":1745,
-        "zip-share":93.02,
+        "zip-share":93.03,
         "town":"La Brillaz",
         "canton":"FR",
         "locale":"fr"
@@ -5634,7 +5634,7 @@
     {
         "bfs":2173,
         "zip":1745,
-        "zip-share":6.98,
+        "zip-share":6.97,
         "town":"Autigny",
         "canton":"FR",
         "locale":"fr"
@@ -6946,7 +6946,7 @@
     {
         "bfs":6037,
         "zip":1948,
-        "zip-share":99.99,
+        "zip-share":100.0,
         "town":"Val de Bagnes",
         "canton":"VS",
         "locale":"fr"
@@ -9090,7 +9090,7 @@
     {
         "bfs":497,
         "zip":2576,
-        "zip-share":85.45,
+        "zip-share":85.48,
         "town":"L\u00fcscherz",
         "canton":"BE",
         "locale":"de"
@@ -9098,7 +9098,7 @@
     {
         "bfs":502,
         "zip":2576,
-        "zip-share":14.55,
+        "zip-share":14.52,
         "town":"Vinelz",
         "canton":"BE",
         "locale":"de"
@@ -13106,7 +13106,7 @@
     {
         "bfs":406,
         "zip":3415,
-        "zip-share":52.74,
+        "zip-share":52.75,
         "town":"Hasle bei Burgdorf",
         "canton":"BE",
         "locale":"de"
@@ -13114,7 +13114,7 @@
     {
         "bfs":956,
         "zip":3415,
-        "zip-share":41.17,
+        "zip-share":41.14,
         "town":"R\u00fcegsau",
         "canton":"BE",
         "locale":"de"
@@ -17386,7 +17386,7 @@
     {
         "bfs":2471,
         "zip":4112,
-        "zip-share":51.07,
+        "zip-share":51.02,
         "town":"B\u00e4ttwil",
         "canton":"SO",
         "locale":"de"
@@ -17394,7 +17394,7 @@
     {
         "bfs":2476,
         "zip":4112,
-        "zip-share":48.84,
+        "zip-share":48.89,
         "town":"Hofstetten-Fl\u00fch",
         "canton":"SO",
         "locale":"de"
@@ -25762,7 +25762,7 @@
     {
         "bfs":1362,
         "zip":6410,
-        "zip-share":97.02,
+        "zip-share":97.01,
         "town":"Arth",
         "canton":"SZ",
         "locale":"de"
@@ -26482,7 +26482,7 @@
     {
         "bfs":3832,
         "zip":6537,
-        "zip-share":94.96,
+        "zip-share":94.97,
         "town":"Grono",
         "canton":"GR",
         "locale":"it"
@@ -26490,7 +26490,7 @@
     {
         "bfs":3805,
         "zip":6537,
-        "zip-share":5.04,
+        "zip-share":5.03,
         "town":"Castaneda",
         "canton":"GR",
         "locale":"it"
@@ -26882,7 +26882,7 @@
     {
         "bfs":5113,
         "zip":6600,
-        "zip-share":77.16,
+        "zip-share":77.05,
         "town":"Locarno",
         "canton":"TI",
         "locale":"it"
@@ -26890,7 +26890,7 @@
     {
         "bfs":5120,
         "zip":6600,
-        "zip-share":22.33,
+        "zip-share":22.3,
         "town":"Muralto",
         "canton":"TI",
         "locale":"it"
@@ -26898,7 +26898,7 @@
     {
         "bfs":5121,
         "zip":6600,
-        "zip-share":0.51,
+        "zip-share":0.64,
         "town":"Orselina",
         "canton":"TI",
         "locale":"it"
@@ -27058,7 +27058,7 @@
     {
         "bfs":5113,
         "zip":6644,
-        "zip-share":0.73,
+        "zip-share":0.74,
         "town":"Locarno",
         "canton":"TI",
         "locale":"it"
@@ -28170,7 +28170,7 @@
     {
         "bfs":5192,
         "zip":6900,
-        "zip-share":71.73,
+        "zip-share":71.72,
         "town":"Lugano",
         "canton":"TI",
         "locale":"it"
@@ -29658,7 +29658,7 @@
     {
         "bfs":3982,
         "zip":7180,
-        "zip-share":98.55,
+        "zip-share":98.54,
         "town":"Disentis\/Must\u00e9r",
         "canton":"GR",
         "locale":"multiple"
@@ -29666,7 +29666,7 @@
     {
         "bfs":3985,
         "zip":7180,
-        "zip-share":1.45,
+        "zip-share":1.46,
         "town":"Sumvitg",
         "canton":"GR",
         "locale":"multiple"
@@ -30882,7 +30882,7 @@
     {
         "bfs":3784,
         "zip":7504,
-        "zip-share":96.32,
+        "zip-share":96.33,
         "town":"Pontresina",
         "canton":"GR",
         "locale":"rm"
@@ -30890,7 +30890,7 @@
     {
         "bfs":3786,
         "zip":7504,
-        "zip-share":2.39,
+        "zip-share":2.38,
         "town":"Samedan",
         "canton":"GR",
         "locale":"rm"
@@ -31770,7 +31770,7 @@
     {
         "bfs":195,
         "zip":8127,
-        "zip-share":69.26,
+        "zip-share":69.21,
         "town":"Maur",
         "canton":"ZH",
         "locale":"de"
@@ -31778,7 +31778,7 @@
     {
         "bfs":154,
         "zip":8127,
-        "zip-share":29.36,
+        "zip-share":29.4,
         "town":"K\u00fcsnacht (ZH)",
         "canton":"ZH",
         "locale":"de"
@@ -31914,7 +31914,7 @@
     {
         "bfs":66,
         "zip":8152,
-        "zip-share":97.73,
+        "zip-share":97.74,
         "town":"Opfikon",
         "canton":"ZH",
         "locale":"de"
@@ -32042,7 +32042,7 @@
     {
         "bfs":93,
         "zip":8165,
-        "zip-share":40.07,
+        "zip-share":40.02,
         "town":"Oberweningen",
         "canton":"ZH",
         "locale":"de"
@@ -32050,7 +32050,7 @@
     {
         "bfs":99,
         "zip":8165,
-        "zip-share":33.54,
+        "zip-share":33.5,
         "town":"Sch\u00f6fflisdorf",
         "canton":"ZH",
         "locale":"de"
@@ -32058,7 +32058,7 @@
     {
         "bfs":98,
         "zip":8165,
-        "zip-share":26.38,
+        "zip-share":26.48,
         "town":"Schleinikon",
         "canton":"ZH",
         "locale":"de"
@@ -32322,7 +32322,7 @@
     {
         "bfs":2937,
         "zip":8212,
-        "zip-share":96.7,
+        "zip-share":96.73,
         "town":"Neuhausen am Rheinfall",
         "canton":"SH",
         "locale":"de"
@@ -32330,7 +32330,7 @@
     {
         "bfs":34,
         "zip":8212,
-        "zip-share":2.66,
+        "zip-share":2.63,
         "town":"Laufen-Uhwiesen",
         "canton":"ZH",
         "locale":"de"
@@ -38146,7 +38146,7 @@
     {
         "bfs":3202,
         "zip":9313,
-        "zip-share":96.97,
+        "zip-share":96.96,
         "town":"Muolen",
         "canton":"SG",
         "locale":"de"
@@ -38154,7 +38154,7 @@
     {
         "bfs":4511,
         "zip":9313,
-        "zip-share":3.03,
+        "zip-share":3.04,
         "town":"Zihlschlacht-Sitterdorf",
         "canton":"TG",
         "locale":"de"
