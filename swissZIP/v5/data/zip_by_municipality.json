@@ -3970,7 +3970,7 @@
     {
         "bfs":2054,
         "zip":1541,
-        "zip-share":69.57,
+        "zip-share":69.71,
         "town":"Estavayer",
         "canton":"FR",
         "locale":"fr"
@@ -3978,7 +3978,7 @@
     {
         "bfs":2043,
         "zip":1541,
-        "zip-share":30.43,
+        "zip-share":30.29,
         "town":"S\u00e9vaz",
         "canton":"FR",
         "locale":"fr"
@@ -6514,7 +6514,7 @@
     {
         "bfs":6154,
         "zip":1897,
-        "zip-share":99.86,
+        "zip-share":99.87,
         "town":"Port-Valais",
         "canton":"VS",
         "locale":"fr"
@@ -11866,7 +11866,7 @@
     {
         "bfs":2309,
         "zip":3184,
-        "zip-share":99.46,
+        "zip-share":99.47,
         "town":"W\u00fcnnewil-Flamatt",
         "canton":"FR",
         "locale":"de"
@@ -11874,7 +11874,7 @@
     {
         "bfs":2295,
         "zip":3184,
-        "zip-share":0.54,
+        "zip-share":0.53,
         "town":"B\u00f6singen",
         "canton":"FR",
         "locale":"de"
@@ -15514,7 +15514,7 @@
     {
         "bfs":593,
         "zip":3800,
-        "zip-share":37.61,
+        "zip-share":37.6,
         "town":"Unterseen",
         "canton":"BE",
         "locale":"de"
@@ -15522,7 +15522,7 @@
     {
         "bfs":581,
         "zip":3800,
-        "zip-share":32.58,
+        "zip-share":32.57,
         "town":"Interlaken",
         "canton":"BE",
         "locale":"de"
@@ -15530,7 +15530,7 @@
     {
         "bfs":587,
         "zip":3800,
-        "zip-share":26.55,
+        "zip-share":26.58,
         "town":"Matten bei Interlaken",
         "canton":"BE",
         "locale":"de"
@@ -16218,7 +16218,7 @@
     {
         "bfs":6297,
         "zip":3930,
-        "zip-share":91.01,
+        "zip-share":91.02,
         "town":"Visp",
         "canton":"VS",
         "locale":"de"
@@ -17874,7 +17874,7 @@
     {
         "bfs":2787,
         "zip":4242,
-        "zip-share":98.74,
+        "zip-share":98.75,
         "town":"Laufen",
         "canton":"BL",
         "locale":"de"
@@ -17954,7 +17954,7 @@
     {
         "bfs":2611,
         "zip":4252,
-        "zip-share":98.03,
+        "zip-share":98.04,
         "town":"B\u00e4rschwil",
         "canton":"SO",
         "locale":"de"
@@ -17962,7 +17962,7 @@
     {
         "bfs":2787,
         "zip":4252,
-        "zip-share":1.97,
+        "zip-share":1.96,
         "town":"Laufen",
         "canton":"BL",
         "locale":"de"
@@ -21050,7 +21050,7 @@
     {
         "bfs":4277,
         "zip":5054,
-        "zip-share":50.86,
+        "zip-share":50.81,
         "town":"Moosleerau",
         "canton":"AG",
         "locale":"de"
@@ -21058,7 +21058,7 @@
     {
         "bfs":4275,
         "zip":5054,
-        "zip-share":49.14,
+        "zip-share":49.19,
         "town":"Kirchleerau",
         "canton":"AG",
         "locale":"de"
@@ -21490,7 +21490,7 @@
     {
         "bfs":4106,
         "zip":5237,
-        "zip-share":92.29,
+        "zip-share":92.37,
         "town":"M\u00f6nthal",
         "canton":"AG",
         "locale":"de"
@@ -21498,7 +21498,7 @@
     {
         "bfs":4124,
         "zip":5237,
-        "zip-share":7.71,
+        "zip-share":7.63,
         "town":"B\u00f6zberg",
         "canton":"AG",
         "locale":"de"
@@ -26442,7 +26442,7 @@
     {
         "bfs":5010,
         "zip":6533,
-        "zip-share":94.17,
+        "zip-share":94.18,
         "town":"Lumino",
         "canton":"TI",
         "locale":"it"
@@ -26450,7 +26450,7 @@
     {
         "bfs":3835,
         "zip":6533,
-        "zip-share":5.83,
+        "zip-share":5.82,
         "town":"San Vittore",
         "canton":"GR",
         "locale":"it"
@@ -31994,7 +31994,7 @@
     {
         "bfs":101,
         "zip":8162,
-        "zip-share":99.36,
+        "zip-share":99.35,
         "town":"Steinmaur",
         "canton":"ZH",
         "locale":"de"
@@ -33170,7 +33170,7 @@
     {
         "bfs":4724,
         "zip":8360,
-        "zip-share":95.05,
+        "zip-share":95.06,
         "town":"Eschlikon",
         "canton":"TG",
         "locale":"de"
@@ -37410,7 +37410,7 @@
     {
         "bfs":3006,
         "zip":9107,
-        "zip-share":83.84,
+        "zip-share":83.77,
         "town":"Urn\u00e4sch",
         "canton":"AR",
         "locale":"de"
@@ -37418,7 +37418,7 @@
     {
         "bfs":3002,
         "zip":9107,
-        "zip-share":13.8,
+        "zip-share":13.87,
         "town":"Hundwil",
         "canton":"AR",
         "locale":"de"
@@ -38178,7 +38178,7 @@
     {
         "bfs":4401,
         "zip":9320,
-        "zip-share":97.77,
+        "zip-share":97.78,
         "town":"Arbon",
         "canton":"TG",
         "locale":"de"
