@@ -258,7 +258,7 @@
     {
         "bfs":5592,
         "zip":1032,
-        "zip-share":80.79,
+        "zip-share":80.9,
         "town":"Romanel-sur-Lausanne",
         "canton":"VD",
         "locale":"fr"
@@ -266,7 +266,7 @@
     {
         "bfs":5586,
         "zip":1032,
-        "zip-share":19.21,
+        "zip-share":19.1,
         "town":"Lausanne",
         "canton":"VD",
         "locale":"fr"
@@ -3266,7 +3266,7 @@
     {
         "bfs":5554,
         "zip":1426,
-        "zip-share":65.01,
+        "zip-share":65.08,
         "town":"Concise",
         "canton":"VD",
         "locale":"fr"
@@ -3274,7 +3274,7 @@
     {
         "bfs":5555,
         "zip":1426,
-        "zip-share":34.99,
+        "zip-share":34.92,
         "town":"Corcelles-pr\u00e8s-Concise",
         "canton":"VD",
         "locale":"fr"
@@ -3642,7 +3642,7 @@
     {
         "bfs":2054,
         "zip":1475,
-        "zip-share":100.0,
+        "zip-share":99.99,
         "town":"Estavayer",
         "canton":"FR",
         "locale":"fr"
@@ -5818,7 +5818,7 @@
     {
         "bfs":2175,
         "zip":1782,
-        "zip-share":63.19,
+        "zip-share":63.26,
         "town":"Belfaux",
         "canton":"FR",
         "locale":"fr"
@@ -5826,7 +5826,7 @@
     {
         "bfs":2235,
         "zip":1782,
-        "zip-share":36.81,
+        "zip-share":36.74,
         "town":"La Sonnaz",
         "canton":"FR",
         "locale":"fr"
@@ -7394,7 +7394,7 @@
     {
         "bfs":6024,
         "zip":1996,
-        "zip-share":100.0,
+        "zip-share":100.01,
         "town":"Nendaz",
         "canton":"VS",
         "locale":"fr"
@@ -7402,7 +7402,7 @@
     {
         "bfs":6024,
         "zip":1997,
-        "zip-share":96.55,
+        "zip-share":96.56,
         "town":"Nendaz",
         "canton":"VS",
         "locale":"fr"
@@ -11378,7 +11378,7 @@
     {
         "bfs":866,
         "zip":3115,
-        "zip-share":94.9,
+        "zip-share":94.91,
         "town":"Gerzensee",
         "canton":"BE",
         "locale":"de"
@@ -11882,7 +11882,7 @@
     {
         "bfs":2305,
         "zip":3185,
-        "zip-share":95.72,
+        "zip-share":95.73,
         "town":"Schmitten (FR)",
         "canton":"FR",
         "locale":"de"
@@ -23754,7 +23754,7 @@
     {
         "bfs":1107,
         "zip":6110,
-        "zip-share":72.95,
+        "zip-share":72.96,
         "town":"Wolhusen",
         "canton":"LU",
         "locale":"de"
@@ -23762,7 +23762,7 @@
     {
         "bfs":1009,
         "zip":6110,
-        "zip-share":18.14,
+        "zip-share":18.13,
         "town":"Werthenstein",
         "canton":"LU",
         "locale":"de"
@@ -23770,7 +23770,7 @@
     {
         "bfs":1098,
         "zip":6110,
-        "zip-share":4.27,
+        "zip-share":4.26,
         "town":"Ruswil",
         "canton":"LU",
         "locale":"de"
@@ -24378,7 +24378,7 @@
     {
         "bfs":1102,
         "zip":6204,
-        "zip-share":96.54,
+        "zip-share":96.47,
         "town":"Sempach",
         "canton":"LU",
         "locale":"de"
@@ -24386,7 +24386,7 @@
     {
         "bfs":1093,
         "zip":6204,
-        "zip-share":3.46,
+        "zip-share":3.53,
         "town":"Neuenkirch",
         "canton":"LU",
         "locale":"de"
@@ -28554,7 +28554,7 @@
     {
         "bfs":5192,
         "zip":6951,
-        "zip-share":100.01,
+        "zip-share":100.0,
         "town":"Lugano",
         "canton":"TI",
         "locale":"it"
@@ -30866,7 +30866,7 @@
     {
         "bfs":3784,
         "zip":7504,
-        "zip-share":96.32,
+        "zip-share":96.33,
         "town":"Pontresina",
         "canton":"GR",
         "locale":"rm"
@@ -30874,7 +30874,7 @@
     {
         "bfs":3786,
         "zip":7504,
-        "zip-share":2.39,
+        "zip-share":2.38,
         "town":"Samedan",
         "canton":"GR",
         "locale":"rm"
@@ -32674,7 +32674,7 @@
     {
         "bfs":4871,
         "zip":8259,
-        "zip-share":100.01,
+        "zip-share":100.0,
         "town":"Wagenhausen",
         "canton":"TG",
         "locale":"de"
@@ -34554,7 +34554,7 @@
     {
         "bfs":4681,
         "zip":8585,
-        "zip-share":61.51,
+        "zip-share":61.46,
         "town":"Langrickenbach",
         "canton":"TG",
         "locale":"de"
@@ -34562,7 +34562,7 @@
     {
         "bfs":4901,
         "zip":8585,
-        "zip-share":38.48,
+        "zip-share":38.53,
         "town":"Birwinken",
         "canton":"TG",
         "locale":"de"
@@ -37362,7 +37362,7 @@
     {
         "bfs":3007,
         "zip":9104,
-        "zip-share":99.39,
+        "zip-share":99.4,
         "town":"Waldstatt",
         "canton":"AR",
         "locale":"de"
@@ -37474,7 +37474,7 @@
     {
         "bfs":3112,
         "zip":9108,
-        "zip-share":1.49,
+        "zip-share":1.48,
         "town":"Schwende-R\u00fcte",
         "canton":"AI",
         "locale":"de"
