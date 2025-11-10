@@ -4154,7 +4154,7 @@
     {
         "bfs":2053,
         "zip":1580,
-        "zip-share":2.91,
+        "zip-share":2.9,
         "town":"Belmont-Broye",
         "canton":"FR",
         "locale":"fr"
@@ -10842,7 +10842,7 @@
     {
         "bfs":310,
         "zip":3053,
-        "zip-share":8.78,
+        "zip-share":8.79,
         "town":"Rapperswil (BE)",
         "canton":"BE",
         "locale":"de"
@@ -11362,7 +11362,7 @@
     {
         "bfs":866,
         "zip":3115,
-        "zip-share":94.9,
+        "zip-share":94.91,
         "town":"Gerzensee",
         "canton":"BE",
         "locale":"de"
@@ -14154,7 +14154,7 @@
     {
         "bfs":902,
         "zip":3551,
-        "zip-share":94.27,
+        "zip-share":94.29,
         "town":"Langnau im Emmental",
         "canton":"BE",
         "locale":"de"
@@ -14162,7 +14162,7 @@
     {
         "bfs":958,
         "zip":3551,
-        "zip-share":3.82,
+        "zip-share":3.81,
         "town":"Trachselwald",
         "canton":"BE",
         "locale":"de"
@@ -14170,7 +14170,7 @@
     {
         "bfs":903,
         "zip":3551,
-        "zip-share":1.91,
+        "zip-share":1.9,
         "town":"Lauperswil",
         "canton":"BE",
         "locale":"de"
@@ -14722,7 +14722,7 @@
     {
         "bfs":942,
         "zip":3645,
-        "zip-share":68.93,
+        "zip-share":68.96,
         "town":"Thun",
         "canton":"BE",
         "locale":"de"
@@ -14730,7 +14730,7 @@
     {
         "bfs":768,
         "zip":3645,
-        "zip-share":18.54,
+        "zip-share":18.5,
         "town":"Spiez",
         "canton":"BE",
         "locale":"de"
@@ -15130,7 +15130,7 @@
     {
         "bfs":563,
         "zip":3714,
-        "zip-share":92.48,
+        "zip-share":92.47,
         "town":"Frutigen",
         "canton":"BE",
         "locale":"de"
@@ -15138,7 +15138,7 @@
     {
         "bfs":567,
         "zip":3714,
-        "zip-share":7.52,
+        "zip-share":7.53,
         "town":"Reichenbach im Kandertal",
         "canton":"BE",
         "locale":"de"
@@ -15498,7 +15498,7 @@
     {
         "bfs":593,
         "zip":3800,
-        "zip-share":37.6,
+        "zip-share":37.59,
         "town":"Unterseen",
         "canton":"BE",
         "locale":"de"
@@ -15506,7 +15506,7 @@
     {
         "bfs":581,
         "zip":3800,
-        "zip-share":32.58,
+        "zip-share":32.6,
         "town":"Interlaken",
         "canton":"BE",
         "locale":"de"
@@ -15514,7 +15514,7 @@
     {
         "bfs":587,
         "zip":3800,
-        "zip-share":26.56,
+        "zip-share":26.55,
         "town":"Matten bei Interlaken",
         "canton":"BE",
         "locale":"de"
@@ -19010,7 +19010,7 @@
     {
         "bfs":2601,
         "zip":4500,
-        "zip-share":93.27,
+        "zip-share":93.28,
         "town":"Solothurn",
         "canton":"SO",
         "locale":"de"
@@ -19018,7 +19018,7 @@
     {
         "bfs":2513,
         "zip":4500,
-        "zip-share":3.68,
+        "zip-share":3.67,
         "town":"Biberist",
         "canton":"SO",
         "locale":"de"
@@ -30826,7 +30826,7 @@
     {
         "bfs":3851,
         "zip":7494,
-        "zip-share":94.03,
+        "zip-share":94.02,
         "town":"Davos",
         "canton":"GR",
         "locale":"de"
@@ -30834,7 +30834,7 @@
     {
         "bfs":3544,
         "zip":7494,
-        "zip-share":5.97,
+        "zip-share":5.98,
         "town":"Berg\u00fcn Filisur",
         "canton":"GR",
         "locale":"de"
@@ -31450,7 +31450,7 @@
     {
         "bfs":261,
         "zip":8044,
-        "zip-share":72.11,
+        "zip-share":72.1,
         "town":"Z\u00fcrich",
         "canton":"ZH",
         "locale":"de"
@@ -31458,7 +31458,7 @@
     {
         "bfs":191,
         "zip":8044,
-        "zip-share":27.89,
+        "zip-share":27.9,
         "town":"D\u00fcbendorf",
         "canton":"ZH",
         "locale":"de"
@@ -34442,7 +34442,7 @@
     {
         "bfs":4911,
         "zip":8575,
-        "zip-share":97.16,
+        "zip-share":97.17,
         "town":"B\u00fcrglen (TG)",
         "canton":"TG",
         "locale":"de"
@@ -37418,7 +37418,7 @@
     {
         "bfs":3006,
         "zip":9107,
-        "zip-share":83.77,
+        "zip-share":83.78,
         "town":"Urn\u00e4sch",
         "canton":"AR",
         "locale":"de"
