@@ -6978,7 +6978,7 @@
     {
         "bfs":6022,
         "zip":1955,
-        "zip-share":100.01,
+        "zip-share":100.0,
         "town":"Chamoson",
         "canton":"VS",
         "locale":"fr"
@@ -9050,7 +9050,7 @@
     {
         "bfs":751,
         "zip":2575,
-        "zip-share":84.56,
+        "zip-share":84.57,
         "town":"T\u00e4uffelen",
         "canton":"BE",
         "locale":"de"
@@ -11386,7 +11386,7 @@
     {
         "bfs":872,
         "zip":3116,
-        "zip-share":100.0,
+        "zip-share":99.99,
         "town":"Kirchdorf (BE)",
         "canton":"BE",
         "locale":"de"
@@ -11506,7 +11506,7 @@
     {
         "bfs":879,
         "zip":3132,
-        "zip-share":99.31,
+        "zip-share":99.32,
         "town":"Riggisberg",
         "canton":"BE",
         "locale":"de"
@@ -11514,7 +11514,7 @@
     {
         "bfs":880,
         "zip":3132,
-        "zip-share":0.69,
+        "zip-share":0.68,
         "town":"R\u00fceggisberg",
         "canton":"BE",
         "locale":"de"
@@ -12242,7 +12242,7 @@
     {
         "bfs":306,
         "zip":3250,
-        "zip-share":99.04,
+        "zip-share":99.03,
         "town":"Lyss",
         "canton":"BE",
         "locale":"de"
@@ -12650,7 +12650,7 @@
     {
         "bfs":540,
         "zip":3303,
-        "zip-share":86.02,
+        "zip-share":86.03,
         "town":"Jegenstorf",
         "canton":"BE",
         "locale":"de"
@@ -12658,7 +12658,7 @@
     {
         "bfs":557,
         "zip":3303,
-        "zip-share":13.98,
+        "zip-share":13.97,
         "town":"Zuzwil (BE)",
         "canton":"BE",
         "locale":"de"
@@ -13250,7 +13250,7 @@
     {
         "bfs":412,
         "zip":3422,
-        "zip-share":71.56,
+        "zip-share":71.57,
         "town":"Kirchberg (BE)",
         "canton":"BE",
         "locale":"de"
@@ -13258,7 +13258,7 @@
     {
         "bfs":420,
         "zip":3422,
-        "zip-share":28.23,
+        "zip-share":28.21,
         "town":"R\u00fcdtligen-Alchenfl\u00fch",
         "canton":"BE",
         "locale":"de"
@@ -13866,7 +13866,7 @@
     {
         "bfs":612,
         "zip":3510,
-        "zip-share":81.57,
+        "zip-share":81.6,
         "town":"Konolfingen",
         "canton":"BE",
         "locale":"de"
@@ -13874,7 +13874,7 @@
     {
         "bfs":607,
         "zip":3510,
-        "zip-share":9.37,
+        "zip-share":9.36,
         "town":"Freimettigen",
         "canton":"BE",
         "locale":"de"
@@ -13882,7 +13882,7 @@
     {
         "bfs":609,
         "zip":3510,
-        "zip-share":8.19,
+        "zip-share":8.17,
         "town":"H\u00e4utligen",
         "canton":"BE",
         "locale":"de"
@@ -15642,7 +15642,7 @@
     {
         "bfs":586,
         "zip":3816,
-        "zip-share":57.67,
+        "zip-share":57.75,
         "town":"L\u00fctschental",
         "canton":"BE",
         "locale":"de"
@@ -15650,7 +15650,7 @@
     {
         "bfs":576,
         "zip":3816,
-        "zip-share":42.32,
+        "zip-share":42.25,
         "town":"Grindelwald",
         "canton":"BE",
         "locale":"de"
@@ -17586,7 +17586,7 @@
     {
         "bfs":2761,
         "zip":4147,
-        "zip-share":99.2,
+        "zip-share":99.21,
         "town":"Aesch (BL)",
         "canton":"BL",
         "locale":"de"
@@ -17594,7 +17594,7 @@
     {
         "bfs":2772,
         "zip":4147,
-        "zip-share":0.8,
+        "zip-share":0.79,
         "town":"Pfeffingen",
         "canton":"BL",
         "locale":"de"
@@ -19026,7 +19026,7 @@
     {
         "bfs":2555,
         "zip":4500,
-        "zip-share":2.5,
+        "zip-share":2.51,
         "town":"R\u00fcttenen",
         "canton":"SO",
         "locale":"de"
@@ -33042,7 +33042,7 @@
     {
         "bfs":117,
         "zip":8340,
-        "zip-share":99.41,
+        "zip-share":99.4,
         "town":"Hinwil",
         "canton":"ZH",
         "locale":"de"
@@ -33738,7 +33738,7 @@
     {
         "bfs":230,
         "zip":8482,
-        "zip-share":90.2,
+        "zip-share":90.23,
         "town":"Winterthur",
         "canton":"ZH",
         "locale":"de"
@@ -33746,7 +33746,7 @@
     {
         "bfs":296,
         "zip":8482,
-        "zip-share":9.8,
+        "zip-share":9.77,
         "town":"Illnau-Effretikon",
         "canton":"ZH",
         "locale":"de"
@@ -34042,7 +34042,7 @@
     {
         "bfs":4816,
         "zip":8508,
-        "zip-share":97.6,
+        "zip-share":97.61,
         "town":"Homburg",
         "canton":"TG",
         "locale":"de"
@@ -34050,7 +34050,7 @@
     {
         "bfs":4841,
         "zip":8508,
-        "zip-share":2.4,
+        "zip-share":2.39,
         "town":"Pfyn",
         "canton":"TG",
         "locale":"de"
@@ -38786,7 +38786,7 @@
     {
         "bfs":3251,
         "zip":9463,
-        "zip-share":4.73,
+        "zip-share":4.74,
         "town":"Altst\u00e4tten",
         "canton":"SG",
         "locale":"de"
