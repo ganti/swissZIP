@@ -5522,7 +5522,7 @@
     {
         "bfs":2303,
         "zip":1734,
-        "zip-share":0.38,
+        "zip-share":0.37,
         "town":"St. Silvester",
         "canton":"FR",
         "locale":"de"
@@ -7362,7 +7362,7 @@
     {
         "bfs":6024,
         "zip":1994,
-        "zip-share":77.71,
+        "zip-share":77.8,
         "town":"Nendaz",
         "canton":"VS",
         "locale":"fr"
@@ -7370,7 +7370,7 @@
     {
         "bfs":6266,
         "zip":1994,
-        "zip-share":22.29,
+        "zip-share":22.2,
         "town":"Sion",
         "canton":"VS",
         "locale":"fr"
@@ -24162,7 +24162,7 @@
     {
         "bfs":1005,
         "zip":6166,
-        "zip-share":97.21,
+        "zip-share":97.22,
         "town":"Hasle (LU)",
         "canton":"LU",
         "locale":"de"
@@ -32898,7 +32898,7 @@
     {
         "bfs":172,
         "zip":8308,
-        "zip-share":0.97,
+        "zip-share":0.98,
         "town":"Fehraltorf",
         "canton":"ZH",
         "locale":"de"
@@ -32906,7 +32906,7 @@
     {
         "bfs":180,
         "zip":8308,
-        "zip-share":0.34,
+        "zip-share":0.35,
         "town":"Weisslingen",
         "canton":"ZH",
         "locale":"de"
@@ -35778,7 +35778,7 @@
     {
         "bfs":1323,
         "zip":8832,
-        "zip-share":68.27,
+        "zip-share":68.29,
         "town":"Wollerau",
         "canton":"SZ",
         "locale":"de"
@@ -35786,7 +35786,7 @@
     {
         "bfs":1322,
         "zip":8832,
-        "zip-share":31.57,
+        "zip-share":31.55,
         "town":"Freienbach",
         "canton":"SZ",
         "locale":"de"
@@ -37962,7 +37962,7 @@
     {
         "bfs":3424,
         "zip":9245,
-        "zip-share":99.19,
+        "zip-share":99.2,
         "town":"Oberb\u00fcren",
         "canton":"SG",
         "locale":"de"
